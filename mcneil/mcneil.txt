@@ -1,0 +1,461 @@
+Document Manager-Technical Writer
+IBM - Annapolis Junction, MD
+
+Want your skills to make a difference in how the world works - for the better?
+
+IBM is seeking driven Technical Writers interested in working next to some of the best Information Technology (IT) Specialists in the industry. The Technical Writer will be responsible for creating, editing, publishing, and maintaining technical documentation for current and future applications in accordance with our Client's Software Development Life Cycle (SDLC) standards.
+
+Selected candidates may not need to travel for all projects outside of their metro area. However, all candidates must be able and willing to travel based on assigned project demand. Travel requirements may vary but could be up to 100%. Candidates are not able to refuse project based on travel.
+
+(2252) DCHJ PSHJ 1JVDV (HJ2D)
+
+Required
+
+    High School Diploma/GED
+    At least 3 years experience in document editing and proof reading expertise for new and existing documents.
+    At least 3 years experience in technical writing.
+    At least 3 years experience in creating and using styles and templates in MS Word and PowerPoint
+    At least 3 years experience in facilitation. Possesses the ability to work under pressure and meet critical deadlines
+    At least 3 years experience in responding to changing requirements.
+    Security clearance of ability to obtain and maintain DoD Secret.
+    U.S. citizenship required
+    English: Intermediate
+
+
+Preferred
+
+    Bachelor's Degree
+    At least 5 years experience in document editing and proof reading expertise for new and existing documents.
+    At least 5 years experience in technical writing.
+    At least 5 years experience in creating and using styles and templates in MS Word and PowerPoint
+    At least 5 years experience in facilitation. Possesses the ability to work under pressure and meet critical deadlines
+    At least 5 years experience in responding to changing requirements.
+    At least 2 years experience in Project Management disciplines.
+    At least 2 years experience in across Full Lifecycle Software Development disciplines.
+    Security clearance of Secret - Active
+
+
+Additional information
+To be an official applicant to IBM, you must submit a resume and online application. Resumes submitted remain active for six months.
+
+To all recruitment agencies: IBM only accepts resumes from agencies on our Approved Agency List. Please do not forward resumes to our applicant tracking system, IBM employees, or send to any IBM company location. IBM is not responsible for any fees related to unsolicited resumes.
+
+IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.
+=============================================================================================================================================================================================
+=============================================================================================================================================================================================
+
+Technical Writer, Manager, Developer Relations
+Google - Mountain View, CA, USA
+
+Technical writers take complex information and communicate it clearly, concisely and accurately without relying on technical or corporate jargon to explain what they're trying to say. With a unique cross functional perspective, our team of technical writers are the key link between our engineers, marketing associates, developer advocates and external users and developers who comprise the wide Google ecosystem. As a Technical Writer, you juggle a variety of projects, from reading and writing example code, to updating FAQs, to drafting product announcements. When a new technical challenge rises to forefront, you are there to defuse it with your clarifying pen (or keyboard, more likely).  Using your extensive technical and leadership experience, you manage a team of writers, setting direction, giving feedback, collaborating internally and lending specific content expertise.
+
+As a Technical Writer, you will communicate with hundreds of thousands of developers worldwide through conceptual documentation, training and instructional content, API References, sample code, and videos. You'll have plenty of opportunity to inspire our developer community through the creation of simple code samples or complex sample applications that will supplement core documentation. You might have a background as a developer, and write as a hobby; or perhaps you're an experienced communicator who loves digging deep into code. One thing is for certain - you are passionate about helping developers do amazing things.
+
+Responsibilities
+Lead a team of Technical Writers, setting the goals, priorities and vision.
+Write technical documentation for our external developer audience, such as API reference docs and developer guides.
+Design and organize documentation sets for new APIs and developer products.
+Edit, clarify, and proofread documents written by others, and coach non-writers on ways to improve their writing skills.
+Manage complex documentation projects.
+
+
+Minimum qualifications
+BA/BS degree or equivalent practical experience
+Team management experience.
+Experience with product documentation, product communications, technical publications or media.
+Experience working with source code written in C++, Python and/or JavaScript.
+
+
+Preferred qualifications
+6 years of relevant work experience, including experience researching and writing excellent documentation for developers (APIs, SDKs, web technologies).
+Ability to manage multiple competing priorities in a fast-paced, constantly changing environment
+Excellent written and oral communication skills, with the ability to build strong relationships and evangelize the craft with internal stakeholders.
+
+
+Area
+
+Making the world's information universally accessible and useful doesn't stop at the desktop. The Mobile team builds tools to get you the information you need no matter where you are. Our open-source Android operating system has become the world's most popular mobile ecosystem, powering hundreds of devices from smartphones to tablets. Whether adding to the core Android experience, forging new markets for digital content, creating immersive and portable versions of our products or managing relationships with a global community of developers, the Mobile team is giving you Google on the go.
+
+Technical Writing
+=============================================================================================================================================================================================
+=============================================================================================================================================================================================
+
+Tech Yahoo, Technical Writer, Sr
+Yahoo! - United States of America-California-Sunnyvale
+
+Yahoo’s Advertising & Data team is responsible for the technology platforms and products that power all aspects of digital advertising on Yahoo and partner sites. From planning advertising campaigns to serving advertising opportunities, to users to analyzing performance, we build and deploy cutting-edge solutions to optimize display advertising on Yahoo’s platforms
+
+The ideal candidate for the Senior Technical Writer, is a well-rounded technical writer with deep and proven experience in writing for a diverse portfolio of enterprise products. The role reports into the Chief of Staff office for the SVP of Advertising and Data.
+
+The successful candidate will work with multiple product and engineering teams, and experienced in Agile development environments. The role requires deep understanding of the existing processes and tools to document and publish content, and drive the improvement of ineffective processes both at an organizational and technical level. Experience with online publishing of content is essential.
+
+Requirements
+
+· Technical Comprehension and Writing Expertise :
+
+o 8 years as a technical writer for large scale, enterprise products; significant experience in writing end-user and product documentation for enterprise scale advertising platforms preferred
+
+o Write, update, and maintain user and developer guides, such as training materials, reference materials, tutorials, SDK, API documentation, and other technical publications
+
+o Concise writing style that is audience-focused
+
+o Strong communicator, both written and verbal
+
+o Able to gather, analyze, and interpret complex technical concepts
+
+o Strong understanding of document structuring, content communications, and presentation techniques
+
+o Developing high-quality information adhering to technical writing best practices
+
+o Writing clearly and concisely about complex subjects for audiences ranging from consumers and sellers to developers integrating technical solutions
+
+o Analyze target audience and determine appropriate level of detail
+
+o Establish a deep understanding of the subject matter being documented
+
+o Extensive technical editing experience and independent research skills
+
+o Create and use images, drawings, diagrams, wireframes, animations, and charts to clearly convey complex information
+
+o Experience with content managed in a content management system (CMS)
+
+o Bachelor's degree in computer science, English, technical communications, or a related field
+
+· Proven Results Orientation and Adaptability in large Agile organizations:
+
+o Knowledge of and/or experience with agile development methods, including Scrum and sprints, and using those methods for editorial workflow and tracking
+
+o Experience working directly with development teams and building strong relationships with product managers and software development engineers
+
+o Manage documentation for multiple, parallel projects from inception to final delivery
+
+o Liaise closely with various disciplines to understand and document procedures, pipelines, technology, and methodologies
+
+o Identifying gaps in production and introducing structure and process to fill them
+
+o Determine what you don't know and how to get the information you need
+
+· Strong Process Orientation:
+
+o Incorporate topic-based and structured authoring techniques into technical content
+
+o Track document progress and revisions and provide status reports to key stakeholders
+
+o Develop best practices, templates, and style guidelines within the team.
+
+o Ensure that style guidelines are followed across a project
+
+o Contribute to the development of version and change control processes
+
+*LI-US
+=============================================================================================================================================================================================
+=============================================================================================================================================================================================
+
+Lead Technical Writer, Cloud
+GE - US , Michigan , Van Buren Township
+
+About Us
+GE (NYSE: GE) works on things that matter. The best people and the best technologies taking on the toughest challenges. Finding solutions in energy, health and home, transportation and finance. Building, powering, moving and curing the world. Not just imagining. Doing. GE works. For more information, visit the company's website at www.ge.com
+GE offers a great work environment, professional development, challenging careers, and competitive compensation. GE is an Equal Opportunity Employer . Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.
+
+Relocation Expenses
+No
+
+Role Summary/Purpose
+The Lead Technical Writer is a key member of the Enterprise Application Standards team, tasked to create end user documentation based on technical specifications / documentation created by Cloud architects and infrastructure leads. Translating infrastructure design detail into content and language that can be easily and readily be consumed by Application teams tasked to move Applications into the Cloud.
+
+Essential Responsibilities
+
+    Collaborate with Corporate IT and GE Business Unit architects to review and create high quality documentation for consumption by GE Application teams and Cloud service delivery teams
+    Actively participate in daily EAS technical committees and working teams
+    Write documentation which may include API, UI, administration, and implementation of Cloud services
+    Review, and edit /update new and existing Cloud service provider and / or Cloud service delivery technical documentation to validate for accuracy, clarity, consistency, and overall quality.
+    Plan, track, and suggest improvements to the overall documentation strategy and identify tools and processes to automate
+    Identify external communities outside of GE to forge relationships and build awareness of GE's Cloud strategy
+    Work closely with Subject Matter Experts (SME's) to "translate" complicated technical concepts into understandable content for Application teams
+
+
+
+Qualifications/Requirements
+
+    Bachelors Degree with a minimum of 5 years' experience in a technical role
+    A minimum of 4 years of experience in technical writing position with proven ability to write quality documentation from concept to completion
+    A minimum of 2 years experience in documenting software and infrastructure
+    Must be willing to work out of an office located in Michigan
+    Must be willing to travel
+
+
+
+Additional Eligibility Qualifications
+GE will only employ those who are legally authorized to work in the United States for this opening. Any offer of employment is conditioned upon the successful completion of a background investigation and drug screen.
+
+Desired Characteristics
+
+    A Bachelors degree, and/or technical communications certification preferred
+    Experience in documenting software in complex cross function environment within IT or software development
+    Excellent verbal and written skills: Professional communicator and collaborator with a keen eye for quality and detail, including strong working knowledge and application of style guidelines and industry practices
+    Track record of working with high velocity engineering organizations, both startups and large corporations
+    Ability to work under time pressure to meet frequent deadlines
+    A self-starter" with excellent communication skills and the ability collaborate across multiple teams in development and QA organizations
+    Experience writing about complex engineering topics. Ability to write to technical audiences.
+    Ability to learn new technology quickly, experience in IT infrastructure, IT Applications or Cloud
+    Knowledge of using an XML-based authoring tool preferred
+
+
+
+Section 19 Job
+YOU MUST BE ABLE TO SATISFY THE REQUIREMENTS OF SECTION 19 OF THE FEDERAL DEPOSIT INSURANCE ACT.
+=============================================================================================================================================================================================
+=============================================================================================================================================================================================
+
+Dell Enstratius User Interface Technical Writer Sr. Advisor
+Dell - US-Round Rock, TX
+
+
+Dell Enstratius User Interface Writer- Minneapolis, MN or Remote
+
+We are looking for a highly skilled Technical Writer to create and maintain clear, concise and useful documentation and contextual help for our cloud management products in a highly collaborative, fast-paced, and distributed environment. A technical background and strong communication skills are essential.
+
+Enstratius is now a part of Dell Software Group and is an award-winning enterprise cloud-management software and services provider that delivers single and multi-cloud management capabilities. Enstratius helps organizations manage applications across private, public and hybrid clouds, including automated application provisioning and scaling, application configuration management, usage governance, and cloud utilization monitoring.
+
+The acquisition of Enstratius further enhances Dell’s end-to-end solutions strategy, bringing key capabilities to deliver cloud-management solutions to our customers. Enstratius is available as software-as-a-service or as on-premises software, enabling full control from within a customer’s data center, or via a hosted service. Enstratius currently supports more than 20 public and private cloud platforms, including OpenStack, VMware, Rackspace, Amazon Web Services and Windows Azure, with the added flexibility to easily add new clouds.
+
+Role Responsibilities
+
+-Orchestrate a clear, useful and consistent voice throughout different channels of communication, including contextual help and messaging for highly technical applications and documentation portals
+
+-Acquire a familiarity with our product as well as the cloud computing industry as a whole
+
+-Produce pre and post-sales product documentation for complex software solutions.
+
+-Assists in analyzing user and development requirements to determine the documentation deliverables.
+
+-Conducts peer reviews of documentation where required and assigned, to ensure consistent quality in the documentation set.
+
+-Participates in process improvement activities to consistently increase efficiency and quality in the production of documentation.
+
+-Conducts research into new methodologies and tools to improve the usability and production of the documentation set
+
+Requirements
+
+- Undergraduate degree with an emphasis in English, Education, Journalism, or Information Management.
+
+- Proficiency in word processing, desktop publishing tools, online help systems, and the Software Development Lifecycle.
+
+- Able to work independently, excellent written communication skills, and good conflict-resolution skills.
+
+Qualifications
+
+Preferences
+
+- 4+ years of experience working in technical writing or software development environment
+
+Dell is an Equal Opportunity Employer To learn more about our commitment to Diversity & Inclusion, visit: Equal Employment Opportunity Policy Statement
+=============================================================================================================================================================================================
+=============================================================================================================================================================================================
+
+Technical Writer
+Aspect Software - Orlando, FL
+
+Looking for a great company to leverage your technical documentation skills? Voxeo, an Aspect company, is looking for full-time Technical Writer to join our Cloud team in Orlando, Florida.
+
+ 
+
+We are looking for best candidate interested in working with a company offering top-tier employee benefits and those who want the opportunity to work with new technologies. As a Technical Writer, you will perform a variety of writing tasks and research related to software documentation, programming code, sample applications, product release notes, API reference documentation, graphics and images, and developer tutorials.
+
+ 
+
+Duties and Responsibilities:
+
+Typically requires a bachelor's degree in a related area and 2-4 years of experience related to technical documentation. Familiar and able to provide content for writing style guides with standard concepts, practices, and procedures for documentation. Relies on own experience and judgment to plan and accomplish documentation goals. Performs a variety of writing tasks and research related to software documentation, programming code, sample applications, product release notes, API reference documentation, graphics and images, and developer tutorials. Under general supervision of the documentation manager, this position trains and mentors junior tech writers and assists in the management of the content management system. 
+
+ 
+
+    A passion for technology and for software that uses those technologies.
+    Self-confidence to ask a developer for information and the willingness to research the issues before talking to the developer.
+    The ability to ask for help from others and to be able to say "I don't know" or "I don't understand."
+    Good communication skills — both written and verbal.
+    Strong problem-solving skills.
+    A natural curiosity about how things work.
+    An enjoyment of learning.
+    Excellent time management skills and the ability to meet tight deadlines.
+    Drive to keep up with continually changing code and interfaces.
+    Adaptability and flexibility to work with schedules and priorities that change frequently.
+    The patience to deal with changes that occur during the course of the writing project.
+    An ability to learn quickly.
+    Self-directed and a strong self-starter.
+    Obsession for the customer and for user education.
+    Ability to develop tutorials around samples.
+    Be able to actively participating in team meetings with developers or documentation team members. 
+
+Employee Benefits:
+
+    Excellent health, vision, dental, life and disability insurances
+    Employee Stock Option Plan
+    A silicon-valley inspired office and culture: You will find no cubicles present in our facilities, and you’ll have direct access to executive level team members who work side-by-side with employees in our open environment.
+    Employee education budget: We pay for you to expand your skill set, and successfully achieve industry certifications.
+    Free-lunch Fridays: Aspect believes in treating its employees right and we cater your lunch every Friday.
+    Our corporate outings are beyond compare. Sure, we have company picnics and host the best Christmas party in Orlando, but we also like to participate in 5ks, play paintball, or just hang out in our own private movie theatre and have some laughs.
+
+Desired Skills and Experience
+
+SPECIALIZED KNOWLEDGE & SKILLS
+
+    2+ years technical writing experience
+    A basic knowledge of programming skills in languages such as HTML, C++, Java, and others.
+    Thorough exerience with MS Word and other content editing software.
+    Superior editing and proofreading skills with keen attention to detail.
+    Strong computer hardware andsoftware operating system knowledge.
+    Familiarity with telephony and IVR is a plus.
+    Solid organizational skills.
+    Strong communication, negotiation, and interpersonal skills.
+    Independent self-starter able to work on multiple projects simultaneously with minimal direction/supervision.
+    Ability to work independently and as part of a team.
+    Resourceful with proactive, competent interviewing and information gathering skills.
+    Ability to work in a deadline-driven, fast-paced environment while maintaining a high-level of quality.
+    Ability to demonstrate a high degree of flexibility, adapting to changing priorities.
+    May require the ability to obtain and maintain a security clearance.
+    Ability to use professional concepts and company policies and procedures to solve a variety of problems and contribute to the fulfillment of projects and organizational objectives.
+    Ability to provide solutions to problems of moderate scope where analysis of situation or data requires a review of identifiable factors.  
+
+ 
+
+JOB REQUIREMENTS
+
+    Bachelor's degree in relevant field.
+    Ability to pass a background check may also be required.
+    Physical requirements include sitting for long periods of time.
+    Ability to travel and work Out-of-Hours if required. 
+
+Aspect is an equal opportunity/affirmative action employer with a strong commitment to diversity. In that spirit, we are particularly interested in receiving applications from a broad spectrum of people, including women, minorities, individuals with disabilities, veterans or any other legally protected group.
+
+ 
+
+This position is not open to any third party recruiters, consultants and/or staffing vendors at this time.
+=============================================================================================================================================================================================
+=============================================================================================================================================================================================
+
+Technical Writer/ Editor 2/3
+Boeing - Annapolis Junction, MD
+
+CURRENT TOP SECRET SCI CLEARANCE WITH FS POLYGRAPH REQUIRED FOR THIS POSITION.
+
+The Boeing National Security Programs Team in Annapolis Junction, Maryland is seeking a talented and experienced Technical Writer to work on programs in a growing portfolio of intelligence, security and information systems. The candidate selected for this position will become a member of an exciting program as a technical writer responsible for the production, development and editing of program documentation to include training, programmatic, and technical documentation. Qualified candidates should have the following: experience in the generation of technical documentation relating to Intelligence Community or Department of Defense (DoD) electronic equipment and systems, experience in technical writing based on engineering drawings, technical information from engineering documentation, consultations with engineers and subject matter experts, and other available sources, experience in the production of defense acquisition documentation, user manuals, training manuals, and other documentation utilized by the end-user community of DoD electronic equipment and systems, experienced with technical manual standards, experience producing technical documentation for Cryptologic programs or projects developing analytic trade craft methodologies, experience in document management, ability to develop written products independently and with little daily oversight when given general and/or overarching requirements, ability to translate technological concepts into layman terms, excellent written and oral communication skills.General requirements: Analyzes, interprets and develops new, innovative communications solutions for customers. Develops or modifies existing content and configuration management systems and processes. Leads writing and editing production. Determines approaches to content structure and design. Leads critical projects. Defines content organization, nomenclature and navigation systems for multifaceted projects. Resolves issues regarding regulatory and legal requirements. Defines new standards and guidelines. Provides expertise related to emerging trends and technology in the writing industry.
+
+www.boeing.com/careers 14-1009650
+Desired Skills and Experience
+Desirable skills and experience include the ability to document scientific and technical ideas in simple and concise sentences and paragraphs, ability to interpret, translate and document requirements, policies, processes and procedures, ability to manipulate and format documents using MS Word or other well known word processing tool and publishing tools. 
+=============================================================================================================================================================================================
+=============================================================================================================================================================================================
+
+Technical Writer II
+Cisco - Columbia, MD
+
+The Internet of Everything is a phenomenon driving new opportunities for Cisco and it's transforming our customers' businesses worldwide. We are pioneers and have been since the early days of connectivity. Today, we are building teams that are expanding our technology solutions in the Mobile, Cloud, Security, IT, and Big Data spaces, including Software and Consulting Services. As Cisco delivers the network that powers the Internet, we are connecting the unconnected. Imagine creating unprecedented disruption. Your revolutionary ideas will impact everything from retail, healthcare, education, and entertainment, to the public sector, and far beyond. Collaborate with like-minded innovators in a fun and flexible culture that has earned Cisco global recognition as a Great Place To Work. With roughly 10 billion connected things in the world now and over 50 billion estimated in the future, your career has exponential possibilities at Cisco!
+
+Technical Writer II
+
+Essential Job Responsibilities:
+
+Develop, write, and revise technical documents and documentation sets according to established standards and under general supervision.
+Identify, plan for, and revise technical writing project requirements.
+Serve as a lead writer for moderately complex group requirements requiring task and project coordination.
+Organize and disseminate source information. Contribute to special projects.
+Regularly participate in product/project team meetings.
+Work with editors and technical resources to improve document quality and usability.
+
+Related Business/Technical Knowledge, Skills, and Expertise:
+
+Excellent writing skills.
+Ability to identify the moderately complex information needs of a target audience and organize and develop a documentation plan that addresses those needs.
+A fundamental understanding of the networking field and of technical writing.
+Ability to serve as a lead writer, providing training and guidance to junior writers.
+Excellent leadership/teamwork skills.
+Successful completion of several major writing projects.
+Ability to exercise judgment, within generally defined procedures and practices, while guiding the efforts of group projects.
+Ability to solve a wide range of moderate to difficult problems related to the creation of documentation sets in creative and practical ways.
+
+Education and Experience Required/Preferred:
+
+BA/BS or equivalent experience, and 3-7 years of related experience.
+Preferred: Degree in Technical Writing, English, Journalism, or Computer Science.
+
+#CiscoJobs #Sourcefire #InternetOfEverything
+=============================================================================================================================================================================================
+=============================================================================================================================================================================================
+
+Sr Technical Writer, Broadcast Tech Pubs (6961)
+Dolby - Americas - US - San Francisco, California
+
+Join the leader in entertainment innovation and help us design the future. At Dolby, science meets art, and high tech means more than computer code. As a member of the Dolby team, you’ll see and hear the results of your work everywhere, from movie theaters to smartphones. We continue to revolutionize how people create, deliver, and enjoy entertainment worldwide. To do that, we need the absolute best talent. We’re big enough to give you all the resources you need, and small enough so you can make a real difference and earn recognition for your work. We offer a collegial culture, challenging projects, and excellent compensation and benefits.
+
+J ob Description Summary
+
+Whenever you switch on an HDTV channel or enjoy surround sound from a streaming service provider, you are listening to audio that was created by a Dolby professional encoder. As a senior technical writer working with the DSP software engineers in the Professional Licensing group of the Dolby Broadcast Technology business, you will be part of a team that delivers Dolby technologies to the professional broadcast industry. We are a small, dynamic team with a large impact, providing solutions that enable creation of audio/video content using Dolby formats. The tasks involved to produce our SDKs are quite varied, and the technical writer will be working with small, dynamic development teams and writing for an audience of software, silicon, and firmware developers, so the job will be ideal for a proactive, self-organizing technical writer who is conversant in the everyday tasks and challenges of embedded-systems developers.
+
+A Dolby technical writer works with subject matter experts based in San Francisco, Nürnberg, and other Dolby offices worldwide to develop and coordinate approval of task-based information that is structured to maximize reusability; creates, revises, edits, and designs technical instructions, illustrations, and test documentation for real-time embedded system software and development kits; creates final deliverables such as HTML, PDF, online help systems, XML consumed by automated test systems, and fill-in forms; serves as an interdepartmental point person on these activities.
+
+Essential Job Functions
+
+    Writes and illustrates English-language technical documentation for distribution to Dolby licensees, partners, and end-user customers in collaboration with product development teams.
+    Conducts up-front analysis, develops formal use cases, and develops task-based documentation
+    Influences the product development process to facilitate upstream content development and content quality
+    Develops documentation plans and manages related tasks in project management scheduling software.
+    Establishes understanding and consistent use of processes, tools, inputs, and outputs among all contributors
+    Coordinates reviews, implements comments, facilitates discussion among stakeholders to resolve discrepancies, and secures approval of final documents.
+    Conforms to and helps improve and extend standards and processes for content structure, stylistic conventions for writing and illustrating, publishing methodologies, and related tools and infrastructure.
+    Communicates effectively in oral and written exchanges among internal and external clients, colleagues, and managers.
+    Performs duties as assigned by immediate supervisor or any member of the Dolby management team, subject to approval by direct manager and/or departmental VP. Assists team members as needed.
+    Performs tasks necessary to complete performance objectives.
+
+
+
+Knowledge, Skills, Experience, and Education Required
+
+    Coursework and/or professional experience with digital signal processing, audio/video codecs and production, broadcast technologies, hardware and software development. Working knowledge of how to write and compile code, link libraries, debug, etc.
+    Master’s degree (or Bachelor’s degree plus five years’ experience) in engineering, science, computer science, or equivalent professional experience.
+    Conversant in C, C++, object-oriented programming, scripting languages, integrated development environments, software source control, APIs a plus.
+    Experience using global English, minimalist writing, and structured authoring principles to maximize searchability, filtering, and content reusability across delivery types, products, and versions.
+    Experience designing and writing content using XML, DITA, and content management systems. Further skills in information architecture, XSLT, XSL-FO, OT, DTD, HTML, Ant, and CSS are desirable.
+
+
+Helpful but not required:
+
+    Experience with OxygenXML; Adobe FrameMaker, Illustrator, Photoshop, InDesign; Doxygen; DocBooks; Visio; Hansoft; Perforce; software/hardware user interfaces; localization and internationalization of technical communications and software/hardware UIs. 
+
+
+
+Build your career profile, also within the Careers tab in Employee Central to open the possibility of new opportunities finding you. Express your interest. If you want to express your interest in a specific opportunity and be contacted by a recruiter, click the apply button associated with the relevant job description. The Recruiter is is the only one who will see your application.
+
+Please refer to the recruiting web site for more information: https://dolbyconnect.dolby.net/organization/HR/Pages/recruiting.aspx
+
+=============================================================================================================================================================================================
+=============================================================================================================================================================================================
+
+Technical Writer, YouTube
+YouTube - San Bruno, CA, USA
+
+Technical writers take complex information and communicate it clearly, concisely and accurately without relying on technical or corporate jargon to explain what they're trying to say. With a unique cross functional perspective, our team of technical writers are the key link between our engineers, marketing associates, developer advocates and external users and developers who comprise the wide Google ecosystem. As a Technical Writer, you juggle a variety of projects, from reading and writing example code, to updating FAQs, to drafting product announcements. When a new technical challenge rises to forefront, you are there to defuse it with your clarifying pen (or keyboard, more likely).
+
+Responsibilities
+Write technical documentation for internal and external developer audiences, including developer guides, reference manuals, tutorials, and more.
+Design, organize, and maintain documentation sets and templates.
+Review design documents and test completed features during documentation process.
+Edit documents written by other members of the engineering team.
+
+
+Minimum qualifications
+BA/BS degree or equivalent practical experience.
+
+
+Preferred qualifications
+Ability to read and understand source code written in Java, C++, Python and/or JavaScript. Proficiency with HTML and CSS.
+Ability to write simple to complex code samples in Python and/or JavaScript.
+Excellent interpersonal and communication skills.
+
+
+Area
+
+Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google's product portfolio possible. We're proud to be our engineers' engineers and love voiding warranties by taking things apart so we can rebuild them. We're always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.
+
+Technical Writing

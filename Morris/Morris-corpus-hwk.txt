@@ -1,0 +1,338 @@
+Andrew Morris
+Week 2 Homework
+Text from 10 Technical Communicator Job Ads
+
+1. Technical Writer IV - Sr. Technical Writer/Editor
+DRS Technical Services, Inc.
+
+Tech Writer
+These professionals provide overall documentation support to both management and technical staffs within 
+the Intelligence Community.  This includes document preparation by applying the highest levels of industry 
+and client standards, establishing proper formats in accordance with client requirements, reviewing 
+and correcting draft materials as appropriate, supporting decisions as to appropriate text and graphic 
+software to use for given jobs, etc.  They may also create, implement, and track production of 
+designed documents. As a minimum, they will be adept at using computer based word processing and office 
+applications programs.
+
+Basic Qualifications (including education and years of experience required)
+Bachelor's Degree
+10 years.
+Minimum clearance requirement is Secret
+
+2. Senior Technical Writer/Technical Writer
+HTI
+Job Description:
+A large software/electronics company in Midtown Atlanta has an immediate opening for a Senior Technical Writer and a Technical Writer.  
+
+Position Details:
+Direct hire, permanent position with benefits
+Work hours:  Mon-Fri 8am-5pm
+Fun, modern and collaborative work environment
+Technical Writer salary - $45,000 - $50,000/year, DOE
+Senior Technical Writer salary - $60,000 - $70,000/year, DOE
+
+Job duties:
+Complete documentation projects according to set standards regarding order, clarity, conciseness, style, and terminology
+Work with cross-functional subject matter experts to ensure documentation is technically correct and functional
+Edit, standardize, or make changes to material prepared by other writers or internal personnel
+Analyze product release notifications to determine need for revisions in previously published materials and development of new material
+Manage an efficient review cycle, gathering feedback from select experts across the organization
+Assist with the development of classroom and online training materials
+Create and manage content for our online customer care portal
+Collect, record, and curate corporate knowledge and expertise
+Conduct project demonstrations and training presentations to groups of employees and end users.
+
+Senior Technical Writer – Additional job duties:
+Lead the documentation team and determine company strategy for how documents are written and delivered
+Manage team projects; communicate release dates and department priorities
+Complete documentation projects according to set standards regarding order, clarity, conciseness, style, and terminology
+
+Job Requirements:
+Bachelor’s degree in communications, writing or technical field
+2-4 years of experience as a Technical Writer; Senior Technical Writer – 5 years required
+Must be proficient with Microsoft Office, Adobe PhotoShop, Adobe Captivate, and screen capturing tools
+Experience with Author-It, Wordpress, CSS, HTML, SQL and PHP preferred
+Ability to interview subject matter experts to research current and future software features
+Excellent verbal and written communication skills
+Ability to work in a fast-paced environment, juggling multiple projects and deadlines at once
+Have strong organization skills and be extremely detail oriented
+
+HTI Corporate Staffing provides professional staffing and recruiting services to numerous client companies in the Southeastern United 
+States.  Our areas of focus include Administrative, Accounting, Call Center, Information Technology, 
+Marketing/Sales, Human Resources and Executive Search.  HTI is honored to have been selected by our 
+employees as one of the best places to work in South Carolina for the past four years in a row.  
+Learn more about what makes HTI a great company to work with at. 
+
+3. Technical Writer
+Greenway
+
+Technical Writer
+Job Summary:
+
+The Technical Writer is responsible for effectively communicating the details of the software through on-screen assistance, online help, release notes and user guides.  This mid-level position is able to work independently on significant design projects.
+
+Essential Responsibilities & Duties:
+Collaborates with Product Management, Designers, Business Analysts, Usability Analysts, Customers, Engineers, and other stakeholders to understand the needs and goals.
+Uses industry-standard authoring tools to create documentation deliverables such as user guides, application help files and HTML-based documents.
+Works as a member of a high-performing agile development team, where effective communication, project planning, and dependability are paramount.  Produces draft materials that are reviewed by team and subject matter experts for accuracy and completeness.
+Uses product knowledge developed while documenting to report defects and make design suggestions.
+Ensures all deliverables are consistent with standards for style, tone and corporate branding.
+Publishes drafts and final versions to appropriate areas and facilitates the handoff to Beta, Training, Support and other stakeholders.
+Stays current with the latest methods for authoring, publishing and delivering technical documentation to maximize the readability and effectiveness to consumers.
+
+Qualifications:
+Education:  Bachelor’s degree or certificate in English, technical writing, or equivalent experience.
+Experience:  2+ years of experience writing end user procedural manuals, reference materials, and user documentation.
+
+Skills/Knowledge:
+Healthcare experience is preferred.
+Agile development is preferred.
+Proficient with document processing, desktop publishing, Help authoring tools, and other business software tools.
+Excellent communication, interpersonal, time management, and personal organization skills.
+Demonstrated ability to write high quality documentation.
+
+4. Environmental Analyst/Technical Writer
+Confidential
+
+About the Job
+A regional consulting firm has an opening for an Environmental Analyst in our downtown Buffalo Office. 
+The firm is seeking an entry-level person with the ability to analyze and convey technical information.  
+
+All applicants must possess BS degree in Environmental Science or related discipline.  
+Excellent organizational, communication, and writing skills required.  
+
+Join our expanding team of professional and qualified environmental, construction monitoring 
+and real estate staff members, who focus on providing solutions in challenging real estate 
+transactions to national and community lending institutions as well as other real estate professionals.
+
+This full time position can lead to advancement in our growing company, 
+which has offices located throughout New York, Pennsylvania, Ohio, New England, Maryland, 
+Delaware, and Virginia and provides services nationwide. 
+We offer a benefit package that includes healthcare coverage and paid vacation 
+and “ownership” under an IRS qualified Employee Stock Ownership Plan (ESOP). 
+Salary is commensurate with experience.
+
+5. Technical Writer
+MATLAB
+
+Job Summary
+Do you have a strong aptitude and desire to write about technical topics? 
+Would you like to teach others how to use software tools to solve challenging engineering problems 
+in industries such as aerospace, automotive, and communications? 
+Are you an experienced software or systems engineer considering a career change?
+
+Come join a team at MathWorks that teaches engineers, scientists, and students 
+how to use sophisticated software to model, simulate and generate code for dynamic systems.
+
+We are looking for individuals with the background and skills to communicate creative ways to use MathWorks products to solve challenging problems.
+
+Responsibilities
+Write user-focused content that explains how to use tools to design, model, and simulate engineering systems
+Develop examples and tutorials that show how to use software features that span multiple products
+Work with customers and customer-facing groups to identify use cases, workflows, user tasks, and information needs
+Participate in the software development process, review software requirements and functional designs, provide comments and suggest improvements
+Minimum Qualifications
+
+A bachelor's degree and 3 years of professional work experience, or a master's degree, or a PhD degree is required.
+Experience with MATLAB
+Exposure to Technical Degree Program
+
+Preferred Qualifications
+Bachelors or Masters in engineering, science, mathematics, or other technical area
+Experience using MATLAB and/or Simulink
+Professional experience, preferably in a fast-paced software development environment
+Experience writing for a technical audience
+Proven ability to explain complex engineering or science concepts clearly
+Ability to work collaboratively within cross-function product teams and a multi-writer team
+Knowledge of a programming language
+Experience modeling dynamic systems
+ 
+6. Senior Technical Writer
+Volt Workforce Solutions
+
+Job Description VOLT is hiring a Senior Technical Writer for one of our TOP clients in the North Austin TX area. In this role the Senior Technical Writer will support the Integration Documentation Team. The successful candidate will develop, maintain, and refine training materials, product documentation, use cases, working samples, and other materials for learning and working with our tools/systems. In this role, your job duties will include but are not limited to: 
+* Design and create courses, certification tests, and supporting product documentation for users and developers based on in-depth evaluation of various questions and inputs from a wide variety of teams, including Product Management, Development, Testing, Support, Training, Sales, Technical Services, Marketing, and IT 
+* Work on complex problems with minimal supervision, where making your contribution to a team effort requires initiative, decision-making, judgment, leadership, thinking ahead, follow-through, and people skills 
+* Maintain and improve existing training materials, product documentation, and samples in response to internal and customer feedback regarding accuracy, completeness, consistency, and usability 
+* Apply professional standards and best practices for English usage, terminology, and style in technical communications 
+* Work effectively in a team environment and routinely serve in a leadership role, including overseeing projects, facilitating meetings, and supporting coordination of activities and information across groups 
+* Learn clients products and understand their use in a wide range of business areas, such as health care, customer service, finance, B2B and eCommerce, energy, manufacturing, and government 
+* Maintain working knowledge of technologies: Graphical user and command line interfaces, client-server networking, operating systems, database and CRM systems, digital security, flat and hierarchical data structures and data types, programming languages, SDKs and embedded applications, query languages such as SQL, and scripting languages such as JavaScript, and object-oriented and thread-processing concepts 
+* Support efforts by partners and customers to translate, embed, or rebrand Pervasive products. VOLT is an Equal Opportunity Employer Job Requirements 
+* Formal education, training, or on-the-job experience with classroom teaching and its materials, including planning, implementation, instruction, evaluation, and management of course lessons in face-to-face settings and online learning environments, with a minimum of 8 years related experience 
+* Proficient in the use of writing, presentation, and courseware tools and technologies, such as Articulate Studio, Webex, Camtasia, Microsoft Word and PowerPoint, Adobe Acrobat, Adobe FrameMaker HTML, PDF, e-mail, and online forums and wiki systems 
+* Excellent oral and written communication skills, able to work effectively with cross-functional teams 
+* Proactive and creative problem-solving skills 
+* Formal education, training, or on the job experience with one or more of the following technologies: Cloud-based computing, parallel processing, data mining, data analytics, and scalable, distributed computing systems such as Hadoop 
+* Comfortable with the standard tools of software product development, including version control and bug tracking 
+* Ability to plan, estimate, perform, and provide status on assignments, usually working on more than one assignment at a time Preferred Experience and
+
+Education:
+* Curriculum design and usability of course materials or technical documentation 
+* Delivery and maintenance of online documentation integrated with user interfaces. Experience with automated build systems for help format conversion, such as WebWorks, is a plus 
+* Requirements gathering based on use cases and customer profiles 
+* Ability to work in both Windows and Linux environments 
+* Technical degree or work experience that provides knowledge of technologies listed under job duties above
+
+7. Senior Technical Writer
+Coverity
+
+The Position
+Coverity is looking for a Senior Technical Writer with XML-editing experience to join our fast-paced engineering team. We are looking for a fun, well-rounded, and highly technical writer who can participate in the entire documentation process, including planning, information design, PDF and HTML generation, and packaging.     
+
+The Responsibilities
+Design and write DocBook (XML)-based help, user guides, command reference, and release notes for both command-line and GUI-based software products.
+Understand requirements, develop documentation plans, and work with engineers to document the product.
+Format and/or Write code samples in C/C++, Java, and C# to show common coding bugs, and to test product functionality.
+Build PDF, HTML, and Eclipse help output from XML using make files and DocBook libraries.
+Develop technical illustrations with Visio.
+Create Web pages in HTML and CSS for product-related sites.
+Plan, manage tasks, and balance multiple projects across teams.
+ 
+
+Required Experience
+Experience documenting complex software for a programmer or software engineer audience
+Experience writing in XML (strongly preferred), or a comparable structured authoring experience
+Experience with programming languages and object-oriented programming concepts (such as C/C++, C#, Java)
+Experience with scripting languages (JavaScript, Perl, Python, and/or Ruby)
+Experience with source control (such as git, cvs, svn, perforce, etc.)
+Experience with bug tracking systems
+Experience writing scripts or using build tools to improve generation of documentation
+Experience working in Linux and Windows command-line environments
+Proven ability to write clear procedural and reference information for complex products, following style and tagging guidelines
+ 
+
+Preferred Experience
+Programming experience in C/C++, C#, or Java
+DocBook tagging and XSL library familiarity
+Experience with build with tools such as make
+oXygen or other XML editor
+Editing and information design
+Familiarity with command-line help
+XSL stylesheets
+Familiarity with IDEs such as Eclipse, Visual Studio, and InteliJ
+Creating IDE help documentation (Eclipse, VisualStudio, IntelliJ)
+Writing for international audiences and working with translators
+Degree in Technical Communication, Computer Science or equivalent
+Ability to read/write/textually translate Engilsh to Japanese would be a huge plus but by no means an expected skill
+ 
+
+Personal Qualities
+Strong communicator (written and verbal)
+Ability to work as part of a team and independently
+Strong interest in learning and growing
+Enjoys working in a dynamic environment
+Ability to get things done in a fast-paced company
+Smart, creative, energetic, conscientious, and enthusiastic person with strong problem solving skills
+Team player with a customer-focused attitude
+
+About Coverity
+Almost every day yet another software failure or breach is in the news.  Examples like Apple GOTO fail, Heartbleed or Target are all too common and billions of dollars are spent every year dealing with the aftermath.  
+At Coverity, we help organizations improve the quality and security of their code by enabling them to find and fix critical defects as the code is developed and focus their test development and test execution efforts based on risk and change.  How you might ask?  By delivering the market-leading static analysis technology and innovative testing solutions to improve black box and white box testing.  
+We’re helping to save the world from buggy software.
+
+8. RFx/ Proposal Writer
+NetSource, Inc.
+
+Collaboration is a must. This person works with Sales Engineers/Account Executives, Product Management, Security, and other staff to understand and craft narrative around features/enhancements, in addition to security and infrastructure details.
+The Strategic Pursuit Specialist is not just an awesome writer, but also a product and company advocate.
+
+REQUIRED SKILLS 
+• Bachelor's degree in a technical (i.e. CS) or communications (i.e. English) field; 
+• 1 - 2 years of proposal / technical writing experience, with proven ability to craft message for both technical and non-technical audiences; 
+• Solid project management skills; 
+• Proven ability to collaborate with cross-functional teams; 
+• Excellent influencing and negotiation skills; 
+• Ability to juggle multiple projects and tasks in a fast paced, deadline driven environment; 
+• Strong experience using MS office (Word, Excel, PPT) and Google Apps (Docs, Sheets, etc.); 
+• Experience with image editing software, such as Photoshop and Snag-it, is a plus; 
+• Experience with salesforce.com and/or other software-as-a-service solution is a plus.
+
+RESPONSIBILITIES: 
+• Write responses to RFx and questionnaires. 
+• Manage aspects of RFx compilation including delegation of responsibilities, editing, 
+• Add to/update the RFPForce Knowledgebase as needed; 
+• Work with Manager to identify opportunities for RFx process optimization, process redesign, or development of new process/policies based on trends and prediction of future needs; 
+• Compose and manage the completion of other strategic documentation.
+
+9. User Interface Developer
+Sabre
+
+Our cutting edge web development team is looking for an experienced User Interface Developer who is passionate about creating and maintaining award winning websites. If you are current with today's web trends, standards and techniques and you thrive on taking initiative and have excellent problem solving skills. If you want to work in a fast paced, innovative company and you want to work in a creative and inspiring environment keep reading.
+What we need from you:
+1-3 years of experience developing standards-based websites using valid, semantic markup for structure and CSS for layout
+Thorough knowledge of current website development trends (including responsive development) and popular CSS style layouts and scripting techniques (JQuery knowledge a big plus)
+Extremely detail-oriented with strong commitment to cross-browser and cross-platform testing, troubleshooting and quality assurance
+Strong working knowledge of XHTML, CSS, and Javascript, and JQuery
+Basic to intermediate knowledge of PHP (or similar programming language) and MySQL (or similar database query language)
+Driving tasks to completion and taking ownership of projects
+What We Offer in Return:
+Work with THE BEST developers, programmers, and designers in the Hotel/Hospitality space.
+Learn, collaborate and work within a technical environment where the sky is the limit for your talents and innovative thinking.
+Work with the latest and greatest in web technologies.
+Enjoy a casual dress code.
+Competitive Salary.
+Great Benefits Package.
+In order to be considered you MUST submit a work portfolio for review. We want to see your talents first hand.
+Sabre Hospitality Solutions, a Sabre Holdings company, located in Bethesda, MD, specializes in creating E-business solutions exclusively for the hospitality industry. The company's unique approach to building successful online marketing programs combines hospitality expertise, innovative Internet marketing techniques and an emphasis on return on investment.
+Sabre Holdings connects people with the world’s greatest travel possibilities by retailing travel products and providing distribution and technology solutions for the travel industry. More information is available at http://www.sabre-holdings.com.
+
+
+EDUCATION: 
+Bachelor's degree or equivalent. 
+
+EXPERIENCE: 
+Minimum 3 years related experience. Good written and verbal communication skills; ability to handle multiple projects simultaneously. 
+
+At Sabre, we achieve success by building extraordinary teams with exceptional people - 
+that means finding the best and brightest to join Sabre. Does that sound like you? 
+Sabre offers a diverse and comprehensive technology solutions portfolio that helps power 
+our customers within the travel industry. These technologies include Cloud Computing, Software (SaaS), 
+Big Data / BI, Mobility, UX / UI and Transactional Processing. 
+Headquartered in Southlake, Texas, USA, we have approximately 10,000 employees in 60 countries. 
+As a global company, we have won numerous awards for being a top employer and corporate citizen, 
+and offer many opportunities for career growth and personal development. To learn more about the people 
+and culture of Sabre, follow us on Twitter, Facebook and LinkedIn. 
+
+10. Technical Writer
+Amazon
+
+Job Description
+Data Center Global Services (DCGS) is looking for technical writer to help develop process and procedure documentation to support data center operations.
+
+Amazon.com is deeply committed to being a leader in the marketplace, and one of the keys to success is building and maintaining the electrical plants, cooling plants and physical spaces that support Amazon’s servers. The technical writing team plays a vital role in getting data centers up and running quickly by making sure the methods and procedures that engineers and technicians follow are clearly described and easy to follow. 
+
+Key Responsibilities:
+* Develop and deliver operations, process, and procedure documentation for engineers, electricians, and mechanics
+* Work with documentation management systems and help oversee the lifecycle of documents
+* Work with samples, examples, and graphics to support documentation
+
+Basic Qualifications
+Required Skills and Experience:
+* A minimum of 3 years in a technical writing role
+* Experience using multiple authoring tools 
+* Strong attention to detail and accuracy
+* Proven success producing engineering-oriented documentation
+* Experience interviewing experts, such as mechanics, electricians, or engineers, to elicit essential content
+
+Knowledge and Qualifications:
+* A combined technical background to easily interact with engineers and a demonstrated ability to deliver high-quality technical documents
+* Ability to write clearly and grammatically 
+* Proficiency with industry standard technical writing tools
+* Ability to independently manage a large-scale project
+* Proactive and able to ramp up on new concepts and methods quickly
+* Ability to independently establish document designs and standards and follow them consistently
+* Strong interpersonal skills and contribute to the effectiveness of the work environment
+* Open-minded attitude to resolving problems and delivering the right results
+* A passion to thrive in a fast-paced, ever-changing environment
+* Ability to stay on target and on track under normal circumstances, and to expedite efforts when required
+Preferred Qualifications
+Preferred Skills and Qualifications:
+* Bachelor degree or Technical Writing certificate or equivalent 
+* Previous experience working in a data center, networking, or manufacturing environment highly desirable
+* Previous experience writing documentation related to infrastructure, mechanical, or electrical highly desirable
+* Previous experience writing procedures for people working in dangerous environments
+* Experience using DITA or other XML authoring schema
+
+Other Requirements:
+* Available for potential global travel

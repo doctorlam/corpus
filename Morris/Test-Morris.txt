@@ -1,0 +1,7 @@
+This is a test of GitHub interface into Corpus folder/repository.
+Testing 
+Testing
+Testing
+...
+...
+Test complete. Status: Green

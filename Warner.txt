@@ -1,1 +1,143 @@
-Warner
+Job #1: PDS
+
+Required Skills
+• Bachelor's Degree in English, Technical Writing, Journalism or a similar field or Bachelor&#8217;s Degree and 2 years of Technical Writing or Journalism or equivalent (defined as High School Diploma/GED and 4 years progressive experience as Technical Writer or Journalism)
+• 5+ years experience writing and editing software documentation
+• Demonstrated proficiency in the following: Arbortext and Frame worker - Must have!
+• Proven ability to work independently and in teams
+• Experience with user interface design and usability testing
+• Strong interpersonal, verbal communication, presentation skills and technical communication skills.
+• Previous project or team leadership experience; demonstrated ability to manage multiple projects simultaneously
+
+Preferred Qualifications
+• Experience working with global development sites
+• Experience managing software documentation projects and staff
+• Experience in an Agile software environment
+• Previous supervisory experience, including global and/or virtual team
+• Experience in a health-care related field.
+
+Job #2: Reynolds and Reynolds
+
+Required Skills
+•	Bachelor’s degree required
+•	Houston, TX based position with no travel involved
+•	Basic computer knowledge required
+•	Good spelling, proofreading, grammar, and editing skills
+•	Detail-oriented, deadline-driven, and organized
+•	Bilingual in Spanish preferred but not required 
+
+Job #3: Baker Hughs
+
+Required Skills
+•	2 years of experience in Technical Writing
+•	Excellent written and oral communications skills
+•	Adept with Word and FrameMaker
+•	Able to work in a team environment
+•	Investigative acumen, detail oriented
+•	Bachelor's Degree in English or Linguistics (or equivalent specialization)
+
+Preferred qualifications
+•	Coursework in any science or engineering discipline
+•	Adept in various document creation and publishing tools
+•	Familiar with ClearCase and TFS
+ 
+Job #4: Amadeus
+
+Education & Experience
+- University Degree or equivalent or certificate in technical writing
+Functional Skills
+- Strong command of spoken and written English, other languages are an advantage
+- Advanced PC skills (Word, PowerPoint & Excel)
+- Must be able to write concisely
+Personal Skills
+- Analytical, methodical, structured and rigorous
+- Excellent organisation skills
+- Multicultural approach (ability to work with and communicate effectively across regional cultures)
+- Strong planning, scheduling, and researching skills
+- Able to work on multiple projects simultaneously and adjust to changing requirements
+- Excellent interpersonal skills are essential
+- Work independently or within a team and adapt to any situation easily
+- Autonomous with strong follow-through skills
+Job Experience
+- Technical writing background required
+- e-Learning development and learning design experience a plus
+- Training delivery experience a plus
+- Travel Industry, Airline Industry, Hotel Industry, Airport operation or Accounting/Finance Industry background a plus
+- Amadeus product knowledge a plus
+- Experience with complex software systems a plus
+
+Job #5: NetSuite
+
+Qualifications/Skills:
+• Bachelor’s degree and 7+ years of experience as a Technical Writer or 7+ years combined experience as a Developer and Technical Writer
+• Attention to detail; excellent English skills; and proficiency in proofreading/editing, writing, and verbal communication
+• Technical aptitude and experience: solid understanding of two or more programming languages and technologies such as JavaScript, Java, C#, Web Services, SOAP, PHP, and AJAX; ability to quickly learn how to use products, passion for technology
+• Experience learning, using, and writing about business applications, software, and technology
+• Self-starter: motivated and able to take the initiative
+• A track record of successfully working with development, QA, and technical writing to deliver quality documentation
+• Excellent strategic thinking, time management, and prioritization skills: ability to create high-quality documentation while making tradeoff decisions; experience in meeting tight deadlines and adapting to changing priorities
+• Experience working with cross-functional teams across product development lifecycles
+• Experience with the Windows operating system environment and Microsoft Office software, and with current word processing, desktop publishing, and graphics software 
+• Knowledge of formatting standards such as JavaDOC and DITA
+• Experience with a screen capture program such as SnagIt, Paint Shop Pro, or FullShot
+• Experience working with remote teams preferred
+• Knowledge of ArborText Epic Editor preferred
+• Familiarity with Agile development
+
+Job #6: Honda
+
+•	B.S. in Communications (technical writing, graphic design, instructional training) or equivalent work experience. 
+•	Five plus years experience in technical writing, preferably with a consumer power products or equipment company. 
+•	Strong mechanical, troubleshooting and product repair knowledge. 
+•	Strong verbal and written communication skills with the ability to work in a multi-disciplinary environment. 
+•	Ability to manage multiple projects to meet critical deadlines. 
+•	Training and presentation experience is helpful.
+•	Proficient in desktop publishing and graphics applications, preferably Adobe FrameMaker, Illustrator and Photoshop. 
+•	Working knowledge of four-stroke engines, power equipment and outboard motors. 
+•	Strong project management skills including planning, organizing and data acquisition.
+
+Job #7: Lockheed Martin
+
+•	Minimum 1-2 years' professional technical writing experience in addition to college education.
+•	Writing or editing baseline tachnical documentation or presentations issuing technical updates.
+•	Metrics, presentation generation, policy process writing.
+•	Ability to represent Lockheed Martin in a full-time, customer-embedded role
+•	Motivated self-starter
+•	Prefer candidates with Commercial Clients experience within the Energy Services environment
+
+Job #8: YouTube
+
+Minimum qualifications
+•  BA/BS degree or equivalent practical experience.
+
+Preferred qualifications
+•  Ability to read and understand source code written in Java, C++, Python and/or JavaScript. Proficiency with HTML and CSS.
+•  Ability to write simple to complex code samples in Python and/or JavaScript.
+•  Excellent interpersonal and communication skills.
+
+Job #9: Google
+
+Minimum qualifications
+• BA/BS degree in English, Journalism, Technical Writing, Computer Science or a related field or equivalent practical experience.
+• Experience planning, researching, writing and editing technical documents.
+
+Preferred qualifications
+• Experience defining the overall structure of the documentation set
+• Proficiency with HTML and CSS.
+• Proficiency in a UNIX environment.
+• Ability to read and understand source code written in Java and C++.
+• Able to navigate a complex technical landscape and interface with multiple engineers to assemble documentation.
+• Independent, curious and resilient. Comfortable with ambiguity
+
+Job #10: NVIDIA
+
+Minimum Requirements
+- BA/BS in Journalism, English, Technical Communications, Computer Science, Engineering or related field.
+- Excellent native-level written English skills. 
+- Minimum of 3 years technical writing experience, preferably in a computer-related field with an emphasis on technical documentation. Prefer at least 1 of the 3 years of experience be writing for software engineers, preferably in the mobile, graphics, or communications fields.
+- Requires experience with Microsoft Office tools.
+
+Desirable Experience
+- Candidates should understand the principles of high quality software development.
+- Prefer candidates with computer programming experience and/or experience documenting APIs in the code using tools such as doxygen.
+- Prefer candidates able to write and maintain simple utilities in Python, DOS, and bash scripting languages.

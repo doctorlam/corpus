@@ -1,0 +1,123 @@
+1. 
+Ensure that usability is incorporated into the development of a wide range of projects: Internet sites, intranet sites, extranet sites, web-based applications, client/server applications, etc. Usability (or "UX") research experience a must!
+Resource will need to have extensive experience planning and moderating usability labs, doing analysis and presenting to audiences ranging from developers to senior management. Prototyping skills are a plus. Experience working on mobile projects is desired.
+
+2. 
+Write clear, concise testing protocols
+Set up testing environments and moderate the usability sessions.
+Summarize testing results and author summary reports that adhere to industry standards.
+Collaborate with designers, engineers, researchers, and strategists on usability.
+Conduct testing in our lab as well as in the field (requires periodic travel in the field).
+Manage recruiting and scheduling of sites and participants. These may be patients, consumers, as well as professional medical caregivers.
+Test a mix any of the following: physical interactions, screen-based interactions, hybrid physical/screen interactions, perceptions, preferences, and instructions/messaging.
+Help design proprietary tools (frameworks and hardware/software) for improving usability testing.
+Usability testing of medical devices in medical environment.
+
+3.
+The Usability Researcher works closely with the analytics and UX teams to drive an inclusive program of user experience testing and analysis to support web and mobile development projects.
+Responsibilities will include creating strategy and operational approach for User Experience UX testing within the analytics and development cycles in addition to design and execution of a wide range of testing and research activities, including but not limited to surveys, online automated testing, and in-person, lab-based usability interviews.
+
+4.
+Reporting to the Head of Human Factors
+Individual will be a key member of the team engaging with a range of stake-holders executive teams
+30% travel required
+Design and plan human factors programs
+Lead identification studies either as a standalone project or as part of large product development program
+Plan and conduct needs identification studies with customers and end users capturing data in a systematic and traceable way such as to evidence requirements documentation
+Present findings of Human Factors activities to internal teams and client project teams
+Develop Deliverables such as: Use Cases; End user profile descriptions; User Requirements Specifications; User risk, misuse & hazard analysis; Summative testing reports; Task Analysis.
+Support the translation of user requirements into designs that meet commercial and user requirements through close collaboration with wider engineering function;
+Support scoping, planning and budgeting of proposals
+
+5. 
+Ensure that usability is incorporated into the development of a wide range of projects: Internet sites, intranet sites,
+Extranet sites, web-based applications, client / server applications, etc.
+Select and conduct appropriate user-centered design techniques throughout an iterative design process. 
+Analyze and present user evaluation results.
+Make design recommendations based on expertise and the collected data.
+Facilitate cross-functional teams throughout product definition, design and development processes.
+Write clear, concise reports to communicate issues, resolution and end risks and results.
+Assist with the definition and implementation of interface design guidelines and a usability process methodology.
+Educate business owners and developers on the importance of web site design guidelines and usability testing
+Remain current in usability-related research and developments.
+Coordinate lab activities, such as screening evaluators, managing the observations room and ensuring efficient
+Recap meetings and smooth transitions.
+Employ effective coaching skills to mobilize diverse resources toward satisfying established project goals.
+Investigate, evaluate and recommend new and merging usability techniques, technologies, and methodology
+Process improvements.
+Responsible for developing new external accounts and maintaining client satisfaction
+Directly manages and develops engagements with external clients.
+
+
+6.
+Responsible for coordinating, planning, executing, and reporting on User Experience Research activities across various products and platforms and directing/coordinating activities with UX research colleagues across geographies.
+Include recruiting, task-based usability testing, card sorting, surveys, 1:1 interviews, task analysis, prototype testing, persona development, diary studies, etc. across global user groups for internal websites and tools.
+Strong background in qualitative and quantitative user experience research required.
+
+7.
+T-Mobile is looking for a creative and talented intern to join the Frontline User Experience Team. This team designs applications for our Retail and Care employees when supporting our customers. You will be working with an experienced team of Interaction Designers, Visual Designers, User Researchers and Web Developers. This is an exciting and unique opportunity to utilize classroom and real life experience as part of the software development life cycle.
+Support in maintaining interaction pattern library and design guidelines
+Participate in user research activities
+Provide support for interaction and visual designers
+Create workflow diagrams, concepts, and wireframes
+
+8.
+Working in a dynamic atmosphere the UX specialist will design engaging experiences for our internal and external customers on ecommerce and other sites. This person will utilize personas, wireframes and other deliverables to inform their creation of user experience solutions that are both aesthetic and useful.
+Collaborate with the business analyst, user experience architects and development teams to ensure the overall strategy and vision is developed and deployed
+Educate internal teams throughout the business on best practices/standards, with the ability to effectively drive the integration of recommendations.
+Interpretation of wireframes into comps
+Visual design
+Interaction design of mobile, Web and other interfaces
+Creating prototypes at all levels of fidelity from paper to clickable prototypes
+Verifying that work that is developed, meets the design requirements
+Supporting user research and usability evaluation activities as needed
+
+9.
+Serves as an advocate for State Farm product end users (i.e., customers, Agencies, employees)
+Conducts user-centered research (e.g., user and task analysis, conceptual design, iterative usability testing, and assessment usability testing) to guide the design, selection, and refinement of products and processes throughout the product development lifecycle
+Establishes and maintains relationships with business areas to align strategic goals, UCD strategy, and tactical plans
+Conducts novel research on Human Factors topics
+Serves as an advocate for State Farm product end users (i.e., customers, Agencies, employees)
+Conducts user-centered research (e.g., user and task analysis, conceptual design, iterative usability testing, and assessment usability testing) to guide the design, selection, and refinement of products and processes throughout the product development lifecycle
+Establishes and maintains relationships with business areas to align strategic goals, UCD strategy, and tactical plans
+Conducts novel research on Human Factors topics
+Meet with internal and external clients to identify usability research questions, design and conduct studies, and communicate results to interdisciplinary project teams.
+Conduct user analysis which will drive the design process using techniques such as ethnography, interviews, and surveys.
+Conduct rapid iterative usability testing to improve product designs early in the design cycle.
+Work with business partners to create conceptual designs based on user data.
+Perform post-development usability testing to determine whether finished products have met business and usability objectives and inform designs of future releases.
+Translate research findings into design recommendations.
+Brainstorm with project teams to understand business and technical constraints.
+Utilize statistical analysis packages (SAS, SPSS, etc.) to perform analyses when appropriate.
+Develop innovative strategies to answer usability research questions with limited resources.
+Stay current on UCD issues and literature.
+Works with clients to analyze needs for information and converts them into action items, requests or projects
+Applies specialized knowledge of Human Factors/UCD research concepts and techniques to a broad range of products and processes
+Utilizes available internal/external resources to assist with various phases of research
+Recognized by others as an authority/professional resource in his/her area of expertise
+Routinely interacts across department lines to strategically leverage skills/resources throughout the Enterprise
+
+10.
+Serves as an advocate for State Farm product end users (i.e., customers, Agencies, employees)
+Conducts user-centered research (e.g., user and task analysis, conceptual design, iterative usability testing, and assessment usability testing) to guide the design, selection, and refinement of products and processes throughout the product development lifecycle
+Establishes and maintains relationships with business areas to align strategic goals, UCD strategy, and tactical plans
+Conducts novel research on Human Factors topics
+Serves as an advocate for State Farm product end users (i.e. customers, Agencies, employees)
+Conducts user-centered research (e.g., user and task analysis, conceptual design, iterative usability testing, and assessment usability testing) to guide the design, selection, and refinement of products and processes throughout the product development lifecycle
+Establishes and maintains relationships with business areas to align strategic goals, UCD strategy, and tactical plans
+Conducts novel research on Human Factors topics
+Meet with internal and external clients to identify usability research questions, design and conduct studies, and communicate results to interdisciplinary project teams.
+Conduct user analysis which will drive the design process using techniques such as ethnography, interviews, and surveys.
+Conduct rapid iterative usability testing to improve product designs early in the design cycle.
+Work with business partners to create conceptual designs based on user data.
+Perform post-development usability testing to determine whether finished products have met business and usability objectives and inform designs of future releases.
+Translate research findings into design recommendations.
+Brainstorm with project teams to understand business and technical constraints.
+Utilize statistical analysis packages (SAS, SPSS, etc.) to perform analyses when appropriate.
+Develop innovative strategies to answer usability research questions with limited resources.
+Stay current on UCD issues and literature.
+Works with clients to analyze needs for information and converts them into action items, requests or projects
+Applies specialized knowledge of Human Factors/UCD research concepts and techniques to a broad range of products and processes
+Utilizes available internal/external resources to assist with various phases of research
+Recognized by others as an authority/professional resource in his/her area of expertise
+Routinely interacts across department lines to strategically leverage skills/resources throughout the Enterprise

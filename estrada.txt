@@ -1,0 +1,461 @@
+Text from 10 Technical Communication Job Ads
+
+1. Technical Writer, Manager, Developer Relations
+Google - Mountain View, CA, USA
+Posted 7 days ago
+
+About this job
+Job description
+Technical writers take complex information and communicate it clearly, concisely and accurately without relying on technical or corporate jargon to explain what they're trying to say. With a unique cross functional perspective, our team of technical writers are the key link between our engineers, marketing associates, developer advocates and external users and developers who comprise the wide Google ecosystem. As a Technical Writer, you juggle a variety of projects, from reading and writing example code, to updating FAQs, to drafting product announcements. When a new technical challenge rises to forefront, you are there to defuse it with your clarifying pen (or keyboard, more likely).  Using your extensive technical and leadership experience, you manage a team of writers, setting direction, giving feedback, collaborating internally and lending specific content expertise.
+
+As a Technical Writer, you will communicate with hundreds of thousands of developers worldwide through conceptual documentation, training and instructional content, API References, sample code, and videos. You'll have plenty of opportunity to inspire our developer community through the creation of simple code samples or complex sample applications that will supplement core documentation. You might have a background as a developer, and write as a hobby; or perhaps you're an experienced communicator who loves digging deep into code. One thing is for certain - you are passionate about helping developers do amazing things.
+
+Responsibilities
+Lead a team of Technical Writers, setting the goals, priorities and vision.
+Write technical documentation for our external developer audience, such as API reference docs and developer guides.
+Design and organize documentation sets for new APIs and developer products.
+Edit, clarify, and proofread documents written by others, and coach non-writers on ways to improve their writing skills.
+Manage complex documentation projects.
+
+
+Minimum qualifications
+BA/BS degree or equivalent practical experience
+Team management experience.
+Experience with product documentation, product communications, technical publications or media.
+Experience working with source code written in C++, Python and/or JavaScript.
+
+
+Preferred qualifications
+6 years of relevant work experience, including experience researching and writing excellent documentation for developers (APIs, SDKs, web technologies).
+Ability to manage multiple competing priorities in a fast-paced, constantly changing environment
+Excellent written and oral communication skills, with the ability to build strong relationships and evangelize the craft with internal stakeholders.
+
+
+Area
+
+Making the world's information universally accessible and useful doesn't stop at the desktop. The Mobile team builds tools to get you the information you need no matter where you are. Our open-source Android operating system has become the world's most popular mobile ecosystem, powering hundreds of devices from smartphones to tablets. Whether adding to the core Android experience, forging new markets for digital content, creating immersive and portable versions of our products or managing relationships with a global community of developers, the Mobile team is giving you Google on the go.
+
+
+2. 08/26/14 - Tech Writer [lionbridge]
+
+Job Type: Contract
+
+Duration: 6 months
+
+Location: Austin, TX (onsite)
+
+Description: Lionbridge is looking for a senior level writer who is expert in many industry-standard technologies and understands industry initiatives, such as content management, single sourcing, xml, controlled English, etc.
+
+The writer drafts, reviews, and edits documentation deliverables, training materials, and other textual communications. Interviews subject-matter experts, attends project meetings as needed, and manages his/her project hours. Communicates/collaborates with other staff writers, client subject matter experts (SMEs) and project managers.
+
+Duties:
+
+    Develops, writes, and edits outlines, drafts, and final deliverables for review by customer.
+    Follows style sheet guidelines and customer and industry style guides.
+    Researches information about the product by interviewing subject-matter-experts.
+    Works closely with the graphic designers to provide files, incorporates graphics into files, and gives feedback on graphics.
+    Serves as the "information expert" on the product and provides recommendations and ideas to the customer on presentation, structure, and organization of the materials.
+    Aligns with the goals, strategies, and objectives of customer.
+    Exhibits an excellent customer service attitude at all times.
+    Delivers every component according to schedule.
+    Conducts internal and customer project and review meetings.
+    Proactively informs the Program Manager about project status, issues, or concerns.
+    As needed, ensures deliverables are written for localization and reviewed by localization at the designated time according to the project schedule.
+
+Requirements:
+
+    Expert-level skills with XML, PowerPoint, Adobe Acrobat
+    Proficiency with MS Office Suite (Outlook, Excel, Word, etc.)
+
+Preferences:
+
+    6+ years’ experience as a technical writer
+    Experience documenting security software
+
+Contact Information: veronica.schnizler@lionbridge.com
+
+Company Information: www.lionbridge.com
+
+3. Sr. Technical Writer
+
+Job Description:
+
+Sr. Technical writer 6 month contract based in Austin Texas, we are looking for 2 people for this position.
+
+The role and responsibilities of this position include, but are not limited to the following:
+
+Writes a variety of technical articles, reports, brochures, and/or manuals for documentation for a wide range of uses.
+
+May be responsible for coordinating the display of graphics and the production of the document.
+
+Required Skills and Experience:
+Requires a Bachelor’s degree or equivalent in a related area and 4-6 years of experience in the field or in a related area.
+
+Five or more years’ experience writing SOP, Tech documents referencing (data centers, networking, startup procedures, troubleshooting checklists, root cause analysis templates, rack configuration, application components and interfaces.
+
+Familiar with standard concepts, practices, and procedures within a particular field.
+
+Relies on limited experience and judgement to plan and accomplish goals.
+
+Performs a variety of tasks.
+
+A certain degree of creativity and latitude is required.
+
+Filed Under: Careers Tagged With: carvechi, technical writer
+
+http://carvechitechnology.com/technical-writer
+
+4. ENTRY LEVEL TECHNICAL WRITER/EDITOR
+Job ID: 	19779063
+Position Title: 	ENTRY LEVEL TECHNICAL WRITER/EDITOR
+Company Name: 	General Atomics (Wrap)
+Job Function: 	Engineering
+Entry Level: 	No
+Location(s): 	San Diego, California, 92101, United States  
+	
+Posted: 	August 23, 2014
+Job Type: 	Full-Time
+Job Duration: 	Indefinite
+Min Education: 	None
+Min Experience: 	None
+Required Travel: 	10-25%
+APPLY FOR THIS JOB
+Apply URL: 	http://generalatomicswrap.contacthr.com/34956665
+Save Job 	Email Job 	Print Job 	 
+Job Description
+Pay Type:  Annual
+Clearance Required:  Desired
+
+General Atomics Aeronautical Systems, Inc. (GA-ASI), an affiliate of General Atomics, is a world leader in proven, reliable Unmanned Aircraft Systems and tactical reconnaissance radars, as well as advanced high-resolution surveillance systems.
+
+We have an exciting opportunity for an Entry Level Technical Writer in our Technical Publications Engineering group.
+
+DUTIES & RESPONSIBILITIES:
+
+    Prepare unmanned aircraft and ground control station (GCS) technical documentation and manuals, to include operator and maintenance, aircraft flight operations, aircraft and GCS maintenance, training documentation, and other ground and support equipment manuals as required.
+    Technical writing duties include researching, documenting, and developing detailed procedures to include operator, maintenance, troubleshooting, fault isolation, checklists, technical specifications, field alert bulletins, training materials, and other procedures and reports to military requirements.
+    Develop and review technical documents for content, accuracy, and format.
+    Planning, coordinating, and leading the efforts of a small team to complete the project and may provide direction and training to less experienced staff.
+    Working with Arbortext Editor, Microsoft Office Suite, Visio, Adobe Illustrator, Visio, SGML-based writing and other applications, including interactive manuals and desktop publishing.
+    Technical writing source material comes in the form of engineering drawings, software description documents, test plans, design specifications/documentation, as well as discussions with engineers, pilots, technicians, and military/civilian customers.
+    Investigate and resolve problem areas and interface with various engineering, operations and maintenance personnel to document the technical solution.
+    Work experience divided between active duty military assignments in flight operations and maintenance squadrons, followed by technical writing experience as a DoD contractor and/or in the commercial aviation sector.
+    Hands-on experience in aircraft flight and ground operations, maintenance, and system troubleshooting, and technical writing experience in the development of technical manuals and training documentation for military aircraft systems.
+    Specific experience in operations and/or maintenance of aircraft systems, such as avionics, mechanical/engines, electrical/electronic, RF, EO/IR, and weapons systems.
+    Ability to demonstrate a technical understanding of military or technical systems.
+
+APPLY FOR THIS JOB
+Apply URL: 	http://generalatomicswrap.contacthr.com/34956665
+
+5. Sr. Technical Writer
+Job ID: 	19647959
+Position Title: 	Sr. Technical Writer
+Company Name: 	Aerohive Networks
+Job Function: 	Technical Writer
+Entry Level: 	No
+Location(s): 	Sunnyvale, California, 94085, United States  
+	
+Posted: 	August 15, 2014
+Job Type: 	Full-Time
+Job Duration: 	Indefinite
+Min Education: 	BA/BS/Undergraduate
+Min Experience: 	5-7 Years
+Required Travel: 	0-10%
+APPLY FOR THIS JOB
+Contact Person: 	Sharad Kolla	
+Email Address: 	skolla@aerohive.com
+Save Job 	Email Job 	Print Job 	 
+Job Description
+
+Aerohive Networks—the pioneer in controller-less Wi-Fi—reduces the cost and complexity of today's networks with cloud-enabled Wi-Fi and routing solutions for medium and large enterprise headquarters, branch offices and teleworkers. Aerohive’s award-winning cooperative control Wi-Fi architecture, public or private cloud-enabled network management, routing and VPN solutions eliminate costly controllers and single points of failure. This gives its customers mission critical reliability with granular security, policy enforcement and the ability to start small and expand without limitations.
+
+Aerohive Networks is the right place to be and now is the right time to join us and be part of our spectacular growth and success. We're looking for the best and the brightest 'A' players who want to make a difference doing a job they love. Aerohive offers attractive compensation and excellent benefits. We even have a Fun Committee that supports various community causes.
+
+We currently have an exciting opportunity for a dedicated, creative, senior-level technical writer with a solid understanding of the following network and wireless protocols and principles:
+
+    Wireless LAN: SSIDs, QoS, 802.11n, VoIP
+    Layer 2 switching: VLANs, STP, IGMP, and LLDP
+    Network technologies like IPv4 and IPv6, DHCP, DNS, PPPoE, IPsec VPNs
+    Authentication: RADIUS, Active Directory, LDAP, Open Directory, 802.1X/EAP
+    Basic dynamic routing protocols: BGP, OSPF, and RIP
+    Security: stateful firewalls, DoS prevention, rogue detection and mitigation
+
+You will have to combine theoretical networking and wireless knowledge with hands-on testing of product features to produce excellent technical documentation and contribute to the design and development of the features you are documenting.
+Job Requirements
+
+Responsibilities
+
+    Document Aerohive router, wireless access point, switch, and VPN concentrator products. Your writing must explain what Aerohive technology is, and why, when, and how to use its various features
+    Create new content and update existing content in configuration guides, online context-sensitive Help systems, CLI Help, error messages, release notes, and QuickStarts, all created for customer consumption
+    Work primarily on site at our headquarters in Sunnyvale, California
+
+Qualifications
+
+    BA in English or BS in Computer Science with several years of technical writing experience
+    Proficiency using Adobe FrameMaker, MadCap Flare, and Microsoft Word
+    Familiarity with Adobe InDesign, Illustrator, and Acrobat
+    Strong writing skills, solid command of English grammar and punctuation (Do you know the difference between gerund and infinitive phrases?), and an ability to adapt to our writing styles
+    The ability to create and/or update technical line illustrations using Illustrator is a plus.
+    Fearlessness and enthusiasm when learning new technologies
+    Please be prepared to provide writing samples if asked
+
+Please visit our Careers page at https://careers-aerohive.icims.com/jobs/intro?hashed=-435775074
+APPLY FOR THIS JOB
+Contact Person: 	Sharad Kolla	
+Email Address: 	skolla@aerohive.com
+
+6. Digital Content Manager
+Elearning! Media Group, a B2B Media Company - Greater Los Angeles Area
+Posted 10 days ago
+
+Job description
+
+We seek a professional with the following experience:
+
+    1-3 years in newspaper, or trade media publishing, e-learning, HR or training industry preferred
+     Web seminar presenter and/or moderator experience
+     Writing, editing and proofreading for publications, blogs, eNewsletters
+     Managing educational event content and call for papers process
+     Supervising annual awards programs. We host two: Best of Elearning! and Learning! 100
+     Bachelor’s degree or equivalent experience 
+
+This position is home-based with 10-15% travel. To apply, please send resume, salary history and expectations to: cupton@b2bmediaco.com.  Learn more about us at: www.2elearning.com
+Desired Skills and Experience
+
+B2B Media Company LLC is a private trade media group publishing Elearning! and Government Elearning! brands as well as custom products. We are staffed by experts with over 100 years of combined media experience. B2B Media Company publishes the following Elearning! and Government Elearning! brands: magazines, e-zines, e-newsletters, e-mail Alerts, Elearning! Summits, hybrid Enterprise Learning! Summit and Expo, Web sites and web seminar series. To learn more about us, visit www.2elearning.com.
+About this company
+
+Job Description
+
+Elearning! Media Group, an 18 time award-winning media brand, seeks a digital content manager to join our team and the exciting e-learning industry.
+
+Your role will be writer, moderator and conference programming manager. We seek someone well versed in B2B media including magazines, blogs, web seminars and event programming.
+
+Elearning! Magazine is a bi-monthly publication with a government edition produced as a 3x eMagazine. Weekly email Newsletters and monthly web seminars keep our B2B community up to date. We also host the Enterprise Learning! Conference  annually, and  (3) Virtual Elearning! Summits. Discover everything Elearning! at: www.2elearning.com
+
+Our $220 Billion industry is  growing at a 24% CAGR.  Our team moves just as quickly. If you have passion for learning, embrace technology and a voice to share with this thriving industry, we want to talk with you.
+
+7. Technical Writer
+HENSEL PHELPS - Denver, CO
+Posted 3 days ago
+
+Job description
+
+Hensel Phelps, a nationally recognized Facility Life Solution provider is hiring a Technical Writer in Denver, Colorado.
+
+Reporting directly to the Executive Director of Business Development and Marketing, the technical writer will optimize previously written communications and support business development and operations activities as assigned. As the Technical Writer, you will improve on current content, as well as develop new content with the input of subject-matter experts on the business development and operations teams. Your content will need to be highly organized to meet our client requirements and specifications regarding order, clarity, brevity, style, and terminology. The Technical Writer will also edit material and standardized content as needed to meet end-user requirements. You must be flexible with your schedule (occasional evening/weekends) to meet deliverable deadlines.
+
+Proactively support the assigned group on technical reports, consultancy reports, communications collateral, and other related marketing/sales activities as required.
+
+The Technical Writer will be an integral part of the team that is responsible for the capture, development, and production of proposals, technical reports, and marketing materials, working in a virtual environment.  Qualifications should include:
+
+        Ability to effectively manage deliverable development from inception to delivery 
+
+        Ability to work in a high-energy team environment 
+
+        Ability to review and rewrite deliverable inputs (Red Team) 
+
+Ability to thrive in a deadline-oriented environment
+Desired Skills and Experience
+
+Required Skill Set:
+
+    Excellent command of the English language, both written and oral.
+
+    Attention to detail. Proofreading skill a plus. Visual layout skill a plus.
+
+    Ability to describe technical concepts and present them in a clear, professional, and concise manner in both oral and written forms.
+
+    Ability to break down technical topics for consumption by users who are not technically savvy.
+
+    Experience in writing technical reports and executive summaries.
+
+    Experience in writing training documentation for technical staff.
+
+    Ability to rapidly assimilate and adapt materials for new technologies.
+
+    Microsoft Office 365, Adobe Creative Suite - advanced knowledge and capabilities.
+
+    Experience in marketing and advertising technology products is a big plus.
+
+    Specific technical content writing experience includes use cases, technical training materials, and other documentations.
+
+    Clear, succinct, and engaging writer that understands how to tailor information for the target audience.
+
+    Excellent writing, grammar, spelling, and formatting skills. 
+
+    Heavy involvement in creating technical content. 
+
+
+Qualifications
+
+Excellent analytical and communications skills, a team player and leader, with high energy and initiative, and a basic understanding of technical processes. Requires organizational skills with attention to detail, experience writing in a conversational yet professional tone and style. Ability to function independently in a fast-paced working environment to produce publication-quality first drafts and who can effectively manage their own workload with minimal supervision.
+
+ 
+
+        Bachelor's degree in writing, marketing, engineering, communications, business, or related field 
+
+        Exceptional writing skills 
+
+        This position requires a minimum 7-10 years of recent relevant working experience  
+
+        Previous experience in facilities management, real estate, construction, or professional engineering industries is a must 
+
+        Excellent writing and communications skills 
+
+        Advanced proficiency in all MS Suite and Adobe CC Suite   
+
+Send your resume, together with a variety of technical writing samples (use cases, technical documentation, etc.), and explain why you’d make a great addition to our team.
+
+Please: NO third-party recruiters or consultants.
+
+8. Technical Writer
+PDS Technical Services - Santa Clara, California
+Posted 13 hours ago
+Apply on company website
+
+Job description
+Listing Info
+
+PDS is seeking a Technical Writer for an open position in Santa Clara Valley, CA.
+
+In This Position You Will
+
+    Contribute to current and future video applications.
+    As a technical writer on the Video Applications team, the technical writer is responsible for capturing and documenting the following for use by engineering, QA, UI design, customer support, and instructional design: functioning requirements, detailed software specifications
+
+Knowledge and Skills&#149;:
+
+    BS/BA degree required in English, Communication, Computer Science, Engineering, Technical Writing, or other related degree.
+    3+ years of technical writing experience for complex software applications, or a master's degree in Technical Communication.
+    Familiarity with Agile or Scrum Framework a plus.
+
+The Ideal Candidate Must
+
+    Understand complex apps.
+    Be familiar with documenting functional requirements with use cases.
+    Be familiar with documenting app interaction workflow and UI.
+    Have a general familiarity with Company video apps such as Final Cut Pro.
+    Have excellent composition and grammar skills.
+    be detail-oriented.
+    Be an exceptional team player &#8212; must be able to work with technical staff to gather information.
+    Understand the app life cycle.
+    Be able to manage schedules, reviews, and approval processes of documentation.
+    Work with minimal direction toward predetermined goals.
+    Independently anticipate and resolve problems in a fast-paced application development team
+    environment.
+    Be able to provide writing samples.
+
+    Please note availability of benefits may vary by position.
+
+    PDS specializes in Engineering and IT arenas including Aerospace, Defense, Electronics, Telecommunications, Automotive, and Energy just to name a few. Our reputation, track record, and years of continuous growth reflect the commitment to quality that our employees and clients experience first-hand. For more information about PDS, please check our website, www.pdstech.com
+
+    $$$ PDS pays for referrals! $$$
+
+    We pay thousands each month in referral bonuses!
+    Contact a recruiter for details.
+    To find a branch near you, look at our Branch Locator
+
+    This position may require you to submit to and pass a drug test and/or background check. If this is a hands-on position, you may also be required to pass a safety and productivity examination. PDS Tech, Inc. will comply with all applicable federal and state laws governing the use of such background checks and drug tests.
+
+9. Staff Technical Writer, Platform
+GE Software - San Francisco Bay Area
+Posted 4 days ago
+
+About this job
+Job description
+
+As a Staff Technical Writer, you will collaborate with Software Engineering and Quality Engineering teams to develop technical documentation using the DITA structured authoring architecture, actively participate with other technical writers to continuously refine the documentation development process in an Agile environment, and help drive the documentation efforts that support the goals and objectives of our new Software Center of Excellence (based in San Ramon, California).Essential Responsibilities
+
+In this role, you will:
+
+        Collaborate with cross-functional teams, primarily Software Engineering and Quality Engineering, to produce and release accurate, high-quality documentation for consumption by our GE internal technical customer base
+
+        Actively participate in daily Scrum stand-up meetings , weekly planning, and review meetings
+
+        Write API, UI, administration, and installation guides, which may include developer and administration guides
+
+        Use XMetaL as the authoring tool within a CMS under source control to create and structured content in DITA
+
+        Review, and edit /update new and existing platform-based documentation to validate for accuracy, clarity, consistency, and overall quality
+        Track and manage project efforts Perform other tasks as directed by the Information Development Manager. 
+
+Qualifications/Requirements
+
+A minimum of 5 years of experience in technical writing position with proven ability to write quality documentation from concept to completion
+
+A minimum of 3 years' experience in documenting software
+
+Eligibility Requirements:
+
+Legal authorization to work in the U.S. is required. We will not sponsor individuals for employment visas, now or in the future, for this job
+
+Must be willing to work out of an office located in San Ramon, CA
+
+Must be willing to travel
+Desired Skills and Experience
+
+        Bachelor's Degree in Computer Engineering or in a STEM major (Science, Technology, Engineering, or Math)
+
+        Experience in documenting software in an Agile development environment
+
+        Excellent verbal and written skills: Professional communicator and collaborator with a keen eye for quality and detail, including strong working knowledge and application of style guidelines and industry practices
+
+        Track record of working with high velocity engineering organizations, both startups and large corporations
+
+        Ability to work under time pressure to meet frequent deadlines.
+
+        A "self-starter" with excellent communication skills and the ability collaborate across multiple teams in development and QA organizations Experience writing about complex engineering topics.
+
+        Ability to write to technical audiences. (Terms like JSON, OSGi, SOAP, and J2EE don't scare you)
+
+        Ability to learn new technology quickly, experience in API or platform and services documentation a plus
+
+    Knowledge of using an XML-based authoring tool preferred
+
+10. Technical Writer
+Cloudmark - San Francisco Bay Area
+Posted 5 days ago
+
+About this job
+Job description
+
+Objective of Position
+
+Cloudmark is looking for a seasoned technical writer with experience crafting a wide range of documentation, from highly technical SDK guides intended for application developers to clear and simple online help intended for home users.  This role requires interfacing with various teams both inside and outside of the organization in order to plan for and solicit feedback on a wide range of documentation-related projects.
+
+
+Responsibilities
+
+    Write, format, and maintain technical documentation for delivery to Cloudmark's customers, including messaging system administrators, operations personnel, application developers, and consumers.
+    Work with engineering, QA, product management, beta test participants, OEM partner application developers, and field technical sales to gather information about new and updated products, set priorities and milestones, conduct iterative review cycles, and publish documentation on time for each release.
+    Participate in UI design with the goal of maximizing product usability.
+    Produce content that is concise, complete, accurate, easy to navigate, and appropriate for the audience's level of technical proficiency.
+    Work with technical support staff to monitor customer responses and modify the documentation as needed to minimize required support resources.
+    Work with marketing staff to update product datasheets and Web content.
+
+Desired Skills and Experience
+
+Requirements
+
+    Intermediate-to expert-level ability to use the following tools and formats:  
+        Adobe FrameMaker
+        Adobe Illustrator or similar vector image authoring tools
+        Adobe Photoshop or similar raster image authoring tools
+        Adobe Acrobat Pro and Distiller
+        Adobe InDesign
+        MediaWiki
+        HTML/CSS 
+    Familiarity with C/C++ APIs, PHP, and DITA XML
+    User-level UNIX skills, Red Hat Linux or Debian-based OS’s preferred
+    Familiarity with fixed line or mobile messaging technology, spam, phishing, and viruses
+    Ability to work both independently and collaboratively
+    Excellent written and verbal communication skills 
+
+Education & Experience
+
+    Bachelor’s degree in English or equivalent experience
+    Bachelor’s degree in Computer Science or Engineering or equivalent experience a plus
+    At least 3 years of technical writing or similar experience
+    Experience writing for audiences at varying levels of technical proficiency
+    Experience writing for both print and online media 

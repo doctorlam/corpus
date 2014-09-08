@@ -1,0 +1,511 @@
+Dallas Guill
+TECM 5191
+Dr. Lam
+Sept. 8, 2014
+
+-Job Ad 1-
+
+*Title: Technical Communicator - SAS Solutions OnDemand* *Location: NC-Cary*
+
+Designs (graphics and layout), develops (writes and edits), and manages technical documentation that supports SAS Solutions OnDemand customer and internal projects.
+
+* Major Responsibilities:*
+
+* Performs tasks within JIRA, ServiceNow, and Confluence to set up and maintain customer and internal documentation.
+
+* Provides quality assurance support, including setting up and maintaining quality templates and performing quality reviews.
+
+* Contributes to training support of internal employees by assisting with maintenance of course descriptions and course materials, maintaining and monitoring training records, contributing to and delivering training.
+
+* Develops, revises, edits and maintains documentation for internal and customer projects.
+
+* Provides documentation support for projects as requested, including writing, editing, and coordinating reviews of technical and procedural documents.
+
+* Participates in the development of standards and processes, including documenting them in our document management systems (Confluence and ServiceNow Knowledge Base).
+
+* Develops and maintains templates and template indexes to ensure they are current and aligned.
+
+* Supports and contributes to the division Newsletter and other internal communication tools.
+
+* Essential*
+
+* Bachelor's degree in English, Computer Science, Communications, or related field.
+
+* 5 years of combined writing and editing experience in a technical environment (experience writing and supporting technical documentation in the software industry preferred).
+
+
+
+(Directly related experience or a combination of directly related education and experience may be considered in place of the above requirements);
+
+
+* Additional*
+
+* Detail oriented;
+
+* Working knowledge of writing principles and conventions and of the documentation process;
+
+* Expertise with directory-based operating systems, such as Windows or UNIX;
+
+* Excellent organizational, interpersonal, and problem-solving skills;
+
+* Ability to handle multiple concurrent projects, to prioritize under pressure, and to work independently;
+
+* Ability to interact with internal clients;
+
+* Ability to work independently and with a team in a fast paced environment;
+
+* Good knowledge of all aspects of technical publishing including layout, design, and graphics.
+
+
+* Preferences*
+
+* Masters Degree in Technical Communication, English or related field preferred
+
+* Visual design expertise (user-interfaces, presentations, graphics, flow charts, Web design, Photoshop).
+
+* Expertise with MS Word, Excel, Visio, PowerPoint, wiki markup language, HTML.
+
+* Knowledge of JIRA and Confluence administration.
+
+* Previous experience Confluence and ServiceNow
+
+* Experience working with validated systems documentation (for example: IQ/OQ/PQ documentation)
+
+* Additional Information*
+
+SAS is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status or any other characteristic protected by law.
+
+
+
+The level of this position will be determined based on the applicant's education, skills and experience.
+
+To qualify, applicants must be legally authorized to work in the United States, and should not require, now or in the future, sponsorship for employment visa status.
+
+
+
+Resumes may be considered in the order they are received.
+
+
+
+SAS employees performing certain job functions may require access to technology or software subject to export or import regulations. To comply with these regulations, SAS may obtain nationality or citizenship information from applicants for employment. SAS collects this information solely for trade law compliance purposes and does not use it to discriminate unfairly in the hiring process.
+
+-Job Ad 2-
+
+Vertex Inc. is currently seeking a Technical Communicator to design and develop a variety of knowledge deliverables including (but not limited to) technical guides, user assistance, performance support, and job aids. This position is also known as: Technical Writer, Product Information Analyst, Product Information Specialist, Information Designer, or Information Architect.
+
+Essential Job Functions & Responsibilities:
+
+Create and maintain clear, usable, accurate information that enables people to successfully install, configure, use, and maintain Vertex software solutions.
+Develop content for different audience types including tax professionals, programmers, DBAs, and system administrators.
+Provide a resource for other departments with requirements to develop technical or non-technical information products.
+Gather information / education requirements by performing needs, audience, and task analysis.
+Organize data into usable information as appropriate for the audience.
+Design content that complies with Vertex standards and meets the project requirements as well as the user’s needs.
+Work with editors and subject matter experts and apply feedback.
+Collaborate with team members to develop solutions that are in the best interest of the company and customer.
+Deliver superior quality content so that Vertex's user assistance is perceived as a competitive differentiator by customers and prospects.
+We encourage individuals possessing all of the following minimum qualifications to apply immediately:
+
+Education & Training:
+
+Bachelor’s degree in English, Journalism, Communications, Computer Science, Technical Communications, Instructional Design, Business, or a related field OR equivalent work experience required.
+Specialized Knowledge & Skills:
+
+4+ years of technical writing experience documenting software required.
+Knowledge of fundamental information design principles is required.
+Outstanding writing skill, with demonstrated ability to produce clear, concise, error-free content, is required.
+Experience developing software user assistance, such as online help and PDFs, is required.
+Experience creating interactive multimedia content including video, audio, animation, demos, or tutorials, especially with linking between multimedia elements and traditional help and manuals, is a plus.
+Strong organizational skills to maintain realistic project plans to meet deadlines is required.
+Experience with a Content Management System (CMS) is preferred. Specific experience with Author-it is a plus.
+Knowledge of Information Mapping principles is a plus.
+Experience with MS Project is a plus.
+Experience in tax accounting, accounting, or finance is a plus.
+
+-Job Ad 3-
+
+Job Code :19084
+Division :Peterson CAT
+Location :Portland OR US 97218
+
+Job Type :Full Time
+Career Level :Experienced (Non-Manager)
+Education :Associate Degree
+Category :Installation/Maintenance/Repair
+Job Description :
+Peterson Machinery has an immediate opening for a Technical Communicator at the Portland location. Reporting to Technical Training Manager, provides technical information support, both inside and outside of company.
+
+ESSENTIAL FUNCTIONS:
+Work directly with customers, over phone or in person, to help solve maintenance and service problems related to tractor machines; work with shop personnel at all locations to provide technical support to help solve maintenance and service problems. 
+* Records information on service and operation problems of tractors; locates and distributes appropriate service literature to aide in repair or diagnosis; perform research as needed; control technical bulletins and literature, CDIS service letter entry, and blue print requests from Caterpillar. 
+* Conduct job audits; ensure use of proper parts, tools and procedures; write up and distribute repair procedures for new repairs. 
+* Develop and present various seminars relating to customer service, in-house service, and new products; develop, implement and audit new service programs. 
+* Design and conduct tractor test procedures; train others in use of test procedures; understand and teach Caterpillar tractor testing tools. 
+* Serve as member of Peterson’s Service Work Audit Team. 
+* Provide necessary support in legal actions, such as: answer interrogatories, give depositions and court testimony, arrange for depositions and statements in company defense; serve as interested representative for company when requested. 
+* Review, edit and recommend proposed warranty, maintenance, rental and purchasing agreements; communicate as needed on product liability matters.
+
+Job Requirements :
+EDUCATION, EXPERIENCE AND SKILLS REQUIRED:
+College degree in a related field and at least 10 years of related experience, or the equivalent. Must possess a thorough knowledge of Caterpillar equipment, parts and have good working knowledge of construction equipment in general.
+
+STATUS AND SCOPE:
+Working under general direction and where standards may be vague or non-existent, helps to solve technical service problems and interprets information contained in parts and service manuals. Communicates across company and directly with Caterpillar customers.
+
+OTHER RESPONSIBILITIES:
+
+ 
+* May conduct construction site audits; ensure proper machine use; record on site accident information.
+* May provide assistance in keeping Caterpillar representatives informed on any state regulations, product change, addition or modification which may adversely impact our product liability. 
+* Keep current on product changes and all technical aspects of job; seek out and submit cost improvements.As an EOE/AA employer, the organization will not discriminate in it's employment practices due to an applicant's race, color, religion, sex, natural origin and veteran or disability status.
+
+-Job Ad 4-
+
+Title	
+Technical Communicator 
+
+Location: Midmark - Versailles, OH	 
+
+About the Organization	Midmark Corporation brings efficient patient care to millions of people each day in the human and animal healthcare industries around the world. The most trusted name in medical, dental and veterinary healthcare equipment solutions, Midmark is committed to providing innovative products and services for the healthcare professional, integrating value-added technology into everything it does. With over 1,500 teammates worldwide, Midmark is dedicated to making a positive difference in the practice of healthcare. Headquartered in Dayton, Ohio, Midmark Corporation maintains five subsidiaries in the United States. To support international healthcare markets, it holds subsidiaries in France, India and Italy. For more information about Midmark, visit the company's Web site at midmark.com.
+
+Be Extraordinary.
+Take a chance and step outside the box. No matter how big or small the step is, make it a step towards an extraordinary career with Midmark. We want you to reach your full potential because we realize our teammates are our most valuable assets. Wherever your passions lie, you can find challenging and rewarding work at Midmark.
+
+Our Culture is Unique.
+Because we care™ is not just words but the way we live. We make a difference each day and challenge ourselves to be better than the best. Our people choose us because of our reputation for excellence and our work environment in which our values are lived every day.
+ 
+
+Description	
+Midmark Corporation is hiring a Technical Communicator!
+
+Midmark Corporation seeks a Technical Communicator who is self motivated, innovative, and a risk taker.  Come join our unique culture and grow with us!  We offer an extensive benefits package for full time teammates including not only medical, dental, and vision insurance but gain sharing, profit sharing, 401(k) match, and tuition reimbursement!
+
+Our Engineering Vision is by 2017, engineering will create break-through methods that keep improving and adapting our processes, while satisfying dynamic customer requirements.  This capability will double our new product development capacity representing our best assurance of building the company to hand it off to the next generation of teammates financially sound.  And we need your help to achieve our vision!
+
+Here are some of the responsibilities you will be tasked with:
+
+Analyze complex parts and assemblies to create/modify technical documentation to applicable standards/templates.
+Evaluating and applying engineering techniques, procedures, and criteria, to using judgment in technical writing/illustrating decisions, editing/proofreading, adaptations, and/or modifications.
+Collaborate on project teams, lead project teams, and direct activities of team members.
+Deliver technical communications in multiple media (paper, video, audio, internet) documents related to the design engineering function.  Documentation of theory of operation, installation guides, user manuals, service manuals and assist with engineering change orders.
+Ensure that the technical information complies with all specified regulatory agencies.  Typically U.L., C.S.A., and F.D.A.
+Use your strong writing skills to create product manuals for a global audience, using appropriate language, diction, and style.
+#LI-ET1
+
+Position Requirements	
+We are recruiting a Technical Communicator.  We are looking for:
+
+Two year degree or 2 years of technical writing/illustration experience
+Familiar with Adobe products, PTC Creo, Oracle, and Internet functionality
+Very strong organization, problem solving, and interpersonal skills
+Self motivated and able to develop positive working relationships with coworkers
+Strong analytical skills
+Committed to self development growth and expanding your knowledge base
+An energetic teammate that works to create a positive work environment
+Be optimistic about change and explore new methodologies by continuously seeking to enhance your skill set. Don’t settle for the methods you know…what else is out there?
+ 
+
+Full-Time/Part-Time	Full-Time	 
+
+Shift	Days	 
+
+Travel Requirements	We value a work and life balance, so your travel will be limited.	 
+
+EOE Statement	We are an Equal Opportunity Employer.
+
+-Job Ad 5-
+
+Technical Communicator - GR 44
+Marketing | Indianapolis, IN
+	
+The Technical Communicator is a member of an integrated delivery team, working in an agile environment, producing public-facing technical reference material. The position primarily creates and maintains online help systems, technical reference documents, and other technical documents for highly technical software products. The Technical Communicator has opportunities to assist the team in other capacities which could include providing feedback regarding usability and functionality, assisting with the testing effort, generating internal reference material, along with other responsibilities. The Technical Communicator is responsible for planning, organizing, writing, and editing online help projects and other technical documentation for Interactive Intelligence products. Technical documentation can range from highly technical, API documentation to non-technical, end user documentation. This is a fast-paced, technically challenging environment that requires experience with advanced technology products and a strong technical aptitude as well as excellent technical writing skills.
+Major Responsibilities/Activities   
+Plan, organize, and write online help systems and other technical documentation for sophisticated commercial software products using proven technical writing techniques. A writing test is required.
+Update and maintain existing documentation.
+Document new and updated software through collaborative discussions with the delivery team, online documents, and e-mail discussions.
+Research the application or concepts to be documented with software engineers, and use the application in the process of documenting it.
+Acquire and use basic source material, including specifications and requirements documents.
+Develop documentation according to corporate and team standards.
+Manage multiple ongoing projects for various products and meet moving deadlines.
+Assist the integrated delivery team in any capacity to deliver high-quality software products on time
+Other Duties as required by management.
+ 
+Minimum Requirements
+3-5 years experience developing end user and administrator, technical documentation for applications with a graphical user interface.
+Excellent communication skills, both written and verbal including technical writing skills.
+Experience with one or more authoring tools such as Microsoft Word, Visio, and Adobe Acrobat required.
+Analytical, planning, and organizational skills.
+Ability to work alone and collaboratively.
+ 
+Desired Skills
+Editing skills, for print and online documentation.
+API documentation development experience is a plus.
+Strong technical aptitude with the ability to understand and communicate complex technical procedures or concepts. Attention to detail is important.
+Experience with DITA, RoboHelp, WebHelp, XML authoring, CCMS, and other tools is a plus.
+Experience with VoIP, networking hardware and software, DBMS, various Windows and Linux OS, call center application software, CRM and other similar products are a plus.
+A technical writing test is required for all applicants that meet the minimum qualifications.
+ 
+Work Context
+Indianapolis Based Employee
+Uses computer for extended periods of time.
+Legally eligible to work in the U.S.
+
+
+EOE M/W/Vet/Disabled
+
+-Job Ad 6-
+
+Technical Communication Specialist
+IOMAXIS,Lorton, VA
+Work in HR? Unlock Free Profile
+3
+Similar Jobs
+Save Apply Now
+Job Description
+
+Network engineering support for a broad range of communication platforms.
+- Includes planning, designing, and evaluating various components of network.
+- Research, evaluate, and recommend new technologies to enhance current capabilities.
+- Possess technical knowledge and troubleshooting experience with network communication devices and wireless technologies.
+- Demonstrated strong oral and written communication skills
+- Willingness to travel (estimated 10% annually)
+
+Qualifications
+Must be able to hold a government security clearance up to and including a full-scope polygraph.
+
+Education/Certifications
+Four-year college degree in Information Technology or Information Security or Networking and System Administration or at least five years experience in related field. 
+
+Red Hat Certified System Administrator (RHCSA) or Red Hat Certified Engineer (RHCE) certifications
+Red Hat Certified Virtualization Administrator (RHCVA)
+
+CompTIA A+
+CompTIA Cloud +
+CompTIA Linux +
+CompTIA Security +
+CompTIA Network +
+CompTIA Server +
+
+CCNA Routing and Switching
+CCNA Security
+CCDA 
+
+ENSA
+CEH
+CHFI 
+CCISO
+
+-Job Ad 7-
+
+Title: Technical Writer
+Location: Westlake, TX
+Duration: Long Term 
+ 
+"Third Party Candidates will not be considered"
+                           
+Key Job Responsibilities
+■        Writes appropriately for technical audience
+■        Ensures clarity of presentations, policies, procedures and updates
+■        Meets daily and intraday deadlines
+■        Partners with project management and manager to ensure consistent quality and standards
+■        Achieves expertise in the knowledge and skills required for effective utilization of the content management platform
+■        Negotiates and documents reference design plan in response to business needs identified by the project manager
+Analysis
+■        Analyzes current content and works with functional content owner  to produce a comprehensive gap analysis
+■        Develops user profiles to support project documentation
+■        Leverages knowledge of industry best practices to organize and present easily accessible content
+ 
+Content Design
+■        Leads the design process for reference components of the solution; creates reference design plan
+■        Designs multimedia solutions that exemplify good practices in instructional, reference, or communications design
+■        Ensures content development standards and methodologies are met
+■        Manages the business partner review process
+■        Improves existing content by making it more concise and readable
+ 
+Project Management
+■        Updates resourcing tool to provide status on existing projects
+■        Provides content development timelines to project manager and/or performance consultant upon request
+■        Manages and escalates open issues, which may arise during the development process
+■        Reorganizes priorities in response to changing business needs
+■        Develops a network of contacts that help yield targeted results
+■        Maintains direct and consistent contact with business partners; maintains more consistent communication throughout the project cycle
+ 
+Relationship Management
+■        Understands roles, boundaries, and mutual expectations with others
+■        Demonstrates ability to diffuse a difficult interpersonal situation
+■        Models flexibility in adapting to internal and external change or redirection
+ 
+Interpersonal: Communication and Teamwork
+■        Presents recommendations and justifications for content design to project directors and management
+■        Liaises with internal L&D resources to determine feasibility of proposed solutions
+■        Influences business partner to support content design recommendations
+■        Initiates contact with key subject matter experts and communicates with them in ways that generate understanding, trust, and support
+■        Works independently as a team member or individual contributor
+ 
+ 
+Qualifications
+■        3+ years writing experience
+■        Demonstrates thorough understanding of knowledge management principles and best practices
+■        Experience authoring for wikis and online formats
+■        Under graduate or graduate degree in English, literature, writing, instructional design, or technical writing
+■        Proven track record of designing, writing, and implementing creative, innovative solutions
+■        IT documentation experience preferred
+■        Confluence experience preferred
+■        Strong Microsoft Powerpoint skills
+■        Outstanding writing and communication skills
+■        Some travel
+
+-Job Ad 8-
+
+Senior Technical Communicator
+Argo Data Resource Corporation Richardson, TX 9/7/2014
+
+Senior Technical Communicator
+
+ESSENTIAL FUNCTION:
+
+Analyzes, designs, develops, and manages ARGO documentation projects for delivery to internal and external customers as defined by the Program Managers.
+Extracts information from subject matter experts to write and edit documents that strategically guide technical and non-technical audiences through product planning, implementation, and usage.
+
+
+DUTIES/SKILLS/QUALIFICATIONS:
+
+Develops and maintains documentation plans and schedules for identified documentation projects.
+Manages multiple documentation projects effectively to meet deadlines.
+Understands and applies contemporary information gathering, analysis, design, verification, and management practices; understands the software development life cycle.
+Understands and applies the standards and practices of quality technical communication processes.
+Provides editing support for assigned documents, as requested.
+Requires minimal supervision and direction.
+
+JOB REQUIREMENTS
+
+Senior Technical Communicator
+
+REQUIREMENTS:
+
+U.S. citizen or permanently authorized to work in the United States
+6+ years’ experience as a technical communicator with demonstrated proficiency in related duties and skills
+Degree in English, Journalism, Technical Communication or related field preferred
+Proficiency in MadCap Flare, Adobe RoboHelp, or other help authoring tool; Adobe Acrobat Professional; Microsoft Office Professional suite (Word, Excel, PowerPoint, and Visio); and graphic or image capture tools (SnagIt)
+Strong technology background preferred
+Software development environment experience preferred
+Writing documentation in an Agile development environment preferred
+Business analyst experience eliciting information using brainstorming, document analysis, interviews, and questionnaires a plus
+Banking, fraud prevention, and financial services experience a plus
+
+JOB SNAPSHOT
+
+Employment Type	Full-Time
+Job Type	Other
+Education	4 Year Degree
+Experience	At least 6 year(s)
+Manages Others	Not Specified
+Industry	Computer Software, Other Great Industries
+Required Travel	Not Specified
+
+-Job Ad 9-
+
+JOB DESCRIPTION
+
+Technical Writer
+At NextGen, we don’t just hire people, we hire up, that is, the best and the brightest, matching talent with great companies across the United States.  Ours is a process of Discovery, learning everything we can about our candidates and our clients, in order to achieve the best possible match.  We know that behind every placement, there are real people looking for an opportunity and the right fit to achieve their career goals and professional dreams.  We work from a platform we call NextDimensions, a program that is built on knowledge and trust to create positive and productive partnerships.
+
+At NextGen we are actively looking for high caliber talent to fulfill the following opportunity. 
+
+Job Title: Technical Writer
+
+Duration: 9 months
+
+Location: Hillsboro, OR 
+
+Position Description:
+
+DETAILS
+
+Our client is looking for a technical writer/TME who can quickly understand the software products through conversation, reading specifications, talking with customers, using the products and sometimes even reading the code.
+
+
+JOB REQUIREMENTS
+
+Technical Writer
+Required Skills:
+
+An excellent communicator, this technical writer will then translate his or her understanding of the SW products and how they are used into clear, crisp documentation, simple code samples and even training materials.
+2-3 years as a technical writer is a desired skill, but most importantly this person needs to be an excellent communicator.
+A basic understanding of web technology, machine learning, software development kits (SDKs), RESTful APIs are all expected skills for this individual.
+
+
+NextGen Information Services provides our consultants with flexible employment options to include, Hourly, Salary, Subcontracting or 1099 engagements.  Our Hourly and Salary employment opportunities include a variety of optional healthcare benefits! 
+
+NextGen benefits may include:
+
+Healthcare, Dental, and Vision Insurance
+Life Insurance and Short & Long Term Disability
+Paid Time off and Paid Holidays for Salaried Employees
+401k.Retirement Plan
+Flex Spending Accounts
+NextGen will also provide training for our consultants when it benefits their career growth
+Lengthy interview prep plan and outplacement services
+ 
+
+Our goal at NextGen is to bring our clients the talent they need and demand for business success, and to bring our consultants the opportunity and support for a successful professional life. Most importantly, we work hard not in just making connections, but in making connections that last.  At NextGen, we believe we are catalysts to change, changing business, changing lives and we pride ourselves on this principle.
+
+The business world is constantly evolving and at NextGen we know that you are too.  Are you or someone you know looking to explore new career opportunities?  Explore NextGen……
+ 
+
+*NextGen Information Services is an equal opportunity employer. We do not discriminate on the basis of race, religion, color, sex, age, national origin or disability or any other basis prohibited by applicable law.
+
+JOB SNAPSHOT
+
+Base Pay	$0.00 - $30.00 /Hour
+Employment Type	Contractor
+Job Type	Information Technology, Telecommunications, Engineering
+Education	Not Specified
+Experience	At least 2 year(s)
+Manages Others	Not Specified
+Industry	Computer Software, Telecommunications, Computer Hardware
+Required Travel	None
+
+-Job Ad 10-
+
+Technical Writer-St. Louis Job
+Apply Now Apply now
+Date: Aug 19, 2014
+Location: St. Louis, MO, US
+Technical Writer-St. Louis (Job Number:604981)
+
+Description:
+
+
+JOB DESCRIPTION:
+
+Communicator/Technical writer to produce written work on highlighting key accomplishments, topics/issues against current organizational goals and objectives, upcoming goals and challenges, and other factors determined relevant by the X Directorate leadership. Responsible for compiling or contributing to: input for monthly progress reports; project/concept plans; briefings, papers, meeting agendas and minutes, trip reports for TDY trips.
+
+Qualifications:
+
+
+TYPICAL EDUCATION AND EXPERIENCE:
+
+- 11-14 years’ experience in an applicable field. Background in journalism or English with an understanding of technical problems and solutions as they relate to the current and future business environment. Strong expertise writing, communications and graphic work. Excellent journalism and technical writing skills and ability to peer review written products, technical documents for grammar, content and style of writing.
+
+Leidos Overview:Leidos is an applied solutions company focused on markets that are seeing converging business and technological trends, and address basic, enduring human needs: defense and national security, health and life sciences, and energy, engineering and infrastructure. The Company's approximately 20,000 employees serve customers in the U.S. Department of Defense, the intelligence community, the U.S. Department of Homeland Security, other U.S. Government civil agencies and commercial health and engineering markets.
+
+Leidos is an Equal Opportunity Employer M/F/D/V.
+
+Job Posting: Apr 24, 2014, 11:04:35 AM
+Primary Location: United States-MO-ST. LOUIS
+
+Clearance Level Must Currently Possess: Top Secret/SCI
+
+Clearance Level Must Be Able to Obtain: None
+
+Potential for Teleworking: No
+
+Travel: Yes, 10% of the time
+
+Shift: Day Job
+
+Schedule: Full-time
+
+Nearest Major Market: St Louis 
+Job Segment: Technical Writer, Military Intelligence, Security Clearance, Engineer, DoD, Technology, Government, Engineering

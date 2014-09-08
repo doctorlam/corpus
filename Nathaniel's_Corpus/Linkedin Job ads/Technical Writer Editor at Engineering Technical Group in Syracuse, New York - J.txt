@@ -1,0 +1,68 @@
+﻿Job Description
+
+We are looking for someone for our Wireless side of the business. Someone who is familiar with
+ graphical interfaces, controlling microcontrollers. Documenting hardware and describing user interfaces.
+
+BROAD FUNCTION: Technical writer. The primary responsibility of the Technical Writer will be to help
+ create, edit, and organize useful, accurate, and compelling technical information and web content in
+ support of the many exciting software/hardware initiatives and product lines emerging from the
+ companys Wireless Groups. (Areas of focus will include, but may not be limited to, Integrated Radio (IR)
+ product line, Cellular Machines product family, and Control Solutions.) The technical communications
+ discipline will be particularly vital in new, higher volume target markets for these new product offerings
+
+Required Skills
+
+Excellent writing and communication skills
+Excellent interpersonal skills, across all disciplines (engineering, marketing, sales, developers,
+ installers, and customers).
+Previous experience managing content on wikis, CMSs, blogs, etc.
+Prefer previous experience with / knowledge of software coding, hardware/software interfaces, etc.
+
+Minimum Qualifications
+
+Bachelors degree in engineering software or computer science emphasis preferred
+Five years of experience in writing technical documentation and other forms of technical content.
+
+Principal Duties And Responsibilities
+
+Develop technical communications strategies/key messaging, write, and edit the following categories of
+ technical content -- using either common word-processing software (eg: Word, Publisher, etc.) or online
+ web-content management systems (e.g.: Drupal CMS for website, wikimedia, etc.):
+datasheets
+developer and user manuals
+Quick Start Guides
+installation summaries & tips
+regulatory text (in concert with / advisement from both engineering and legal)
+by-lined and ghost-written technical articles for trade magazines or trade websites (including guest
+blogs, distributor communities, etc.)
+white papers
+application &/or demo notes
+wikis
+online FAQs (in response to both internally generated and customer-supplied questions)
+standard responses to Live Chat and technical support inquiries
+posts on both blog and other technical community blogs
+user community forum posts
+video scripts & outlines
+tutorials (using Camtasia or like screen-capture software)
+other website / storefront content (of a more technical nature)
+Work in a team/multi-disciplinary environment including product management, hardware engineering,
+ software engineering, field sales, and marketing -- to arrive at best technical-communication strategies to 
+ support new product introductions and ongoing product-marketing programs.
+Having established the top-level, technical-communication strategies, work closely with the members of
+ the above team to gain an understanding of the products technical specifications, operation, installation
+ requirements, troubleshooting routines, and overall customer experience.
+Research, write, and edit content to support all of the aforementioned tools/tactics.
+Where applicable, follow sound document control procedures (including approval loops, QC, draft-
+management, etc.)
+Monitor and update previously published technical content as necessary, to account for software or
+ hardware updates.
+In concert/coordination with marketing communications team -- interface/direct outside resources
+ needed to complete technical communications; these outside entities may include graphic designers,
+ video production companies, photographers, web developers, editors, among others.
+
+About this company
+
+We provide technical staffing services to clients around the country, offering all types of engineers,
+ designers, computer programmers, project managers and other professionals. Our reputation for
+ consistent quality, service and responsiveness to our clients continues to generate growth. We are now
+ one of the fastest growing contract engineering firms in the United States.

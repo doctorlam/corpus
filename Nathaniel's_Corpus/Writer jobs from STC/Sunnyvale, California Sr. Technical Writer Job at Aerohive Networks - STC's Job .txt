@@ -1,0 +1,54 @@
+﻿Job Description
+
+Aerohive Networks—the pioneer in controller-less Wi-Fi—reduces the cost and complexity of
+ today's networks with cloud-enabled Wi-Fi and routing solutions for medium and large
+ enterprise headquarters, branch offices and teleworkers. Aerohive’s award-winning
+ cooperative control Wi-Fi architecture, public or private cloud-enabled network management,
+ routing and VPN solutions eliminate costly controllers and single points of failure. This gives
+ its customers mission critical reliability with granular security, policy enforcement and the
+ ability to start small and expand without limitations.
+
+Aerohive Networks is the right place to be and now is the right time to join us and be part of
+ our spectacular growth and success. We're looking for the best and the brightest 'A' players
+ who want to make a difference doing a job they love. Aerohive offers attractive compensation
+ and excellent benefits. We even have a Fun Committee that supports various community
+ causes.
+
+We currently have an exciting opportunity for a dedicated, creative, senior-level technical
+ writer with a solid understanding of the following network and wireless protocols and
+ principles:
+
+Wireless LAN: SSIDs, QoS, 802.11n, VoIP
+Layer 2 switching: VLANs, STP, IGMP, and LLDP
+Network technologies like IPv4 and IPv6, DHCP, DNS, PPPoE, IPsec VPNs
+Authentication: RADIUS, Active Directory, LDAP, Open Directory, 802.1X/EAP
+Basic dynamic routing protocols: BGP, OSPF, and RIP
+Security: stateful firewalls, DoS prevention, rogue detection and mitigation
+
+You will have to combine theoretical networking and wireless knowledge with hands-on testing
+ of product features to produce excellent technical documentation and contribute to the design
+ and development of the features you are documenting.
+
+ Job Requirements
+
+Responsibilities
+
+Document Aerohive router, wireless access point, switch, and VPN concentrator products.
+ Your writing must explain what Aerohive technology is, and why, when, and how to use its
+ various features
+Create new content and update existing content in configuration guides, online context-
+sensitive Help systems, CLI Help, error messages, release notes, and QuickStarts, all
+ created for customer consumption
+Work primarily on site at our headquarters in Sunnyvale, California
+
+Qualifications
+
+BA in English or BS in Computer Science with several years of technical writing experience
+Proficiency using Adobe FrameMaker, MadCap Flare, and Microsoft Word
+Familiarity with Adobe InDesign, Illustrator, and Acrobat
+Strong writing skills, solid command of English grammar and punctuation (Do you know the
+ difference between gerund and infinitive phrases?), and an ability to adapt to our writing
+ styles
+The ability to create and/or update technical line illustrations using Illustrator is a plus.
+Fearlessness and enthusiasm when learning new technologies
+Please be prepared to provide writing samples if asked

@@ -1,0 +1,41 @@
+Job Description
+
+Pay Type:  Annual
+Clearance Required:  Desired
+
+General Atomics Aeronautical Systems, Inc. (GA-ASI), an affiliate of General Atomics, is a
+ world leader in proven, reliable Unmanned Aircraft Systems and tactical reconnaissance
+ radars, as well as advanced high-resolution surveillance systems.
+
+We have an exciting opportunity for a Entry Level Technical Writer in our Technical
+ Publications group.
+
+DUTIES & RESPONSIBILITIES:
+
+Technical writing duties include researching, documenting, and developing detailed
+ procedures to include operator, maintenance, troubleshooting, fault isolation, checklists,
+ technical specifications, field alert bulletins, training materials, and other procedures and
+ reports
+Utilize expertise with interactive electronic technical manuals (IETM) and the use of SGML,
+ XML and an understanding of S1000D business rules
+Work with Arbotext Epic Editor, Microsoft Office Suite, Visio, Adobe Illustrator, and other
+ applications, to support desktop publishing
+Develop technical data leveraged from source data, i.e. logistics management information
+ (LMI) maintenance task analysis (MTA), engineering drawings, software description
+ documents, test plans, design specifications/documentation, maintenance plans and
+ design or engineering specifications within an integrated data environment (IDE) such as
+ Windchill
+Demonstrate ability to develop operational procedures and corrective maintenance and
+ diagnostics (troubleshooting) procedures for Organizational (O-Level), Intermediate (I-
+Level) and Depot (D-Level) and support and participate in IPRs and technical data
+ Validation and/or Verification efforts as required
+Support technical data tracking, versioning and life cycle within the company common
+ source database (CSDB), maintain assigned project writing specifications; such as
+ S1000D, MIL-STD-1808, MIL-PRF-83495 and others
+Ensures documents are developed in accordance with program specifications; and properly
+ collect and accumulate appropriate technical information and data through research and
+ the analysis of technical data and publications, engineering drawings, test procedures,
+ design specifications/documentation, software description documents, engineering
+ documents and interviewing technical experts
+Investigate and resolve problem areas and interface with various engineering, operations
+ and maintenance personnel to document the technical solution .

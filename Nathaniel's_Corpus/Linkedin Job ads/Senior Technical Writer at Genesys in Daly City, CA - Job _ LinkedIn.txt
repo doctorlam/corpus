@@ -1,0 +1,43 @@
+﻿Job description
+ 
+ Senior Technical Writer
+ 
+Description:
+Design and create a variety of technical publications related to Genesys Telecommunications software.
+ The successful candidate will understand and be adept at the roles and responsibilities associated with a
+ senior technical writer in the software industry.  This candidate should also have some experience
+ documenting APIs and working with SDKs, possibly having written code snippets and samples that
+ illustrate their use.  He or she will work with Development, Quality Assurance, Technical Support,
+ Professional Services, and Training Departments in a cross-functional, team environment to gather
+ information, and then create and maintain high-quality technical documentation.  Preference will be
+ given to candidates familiar with and interested in innovative strategies for technical content production
+ and deployment.  The successful candidate should be based in the San Francisco Bay Area.
+Responsibilities:
+Acquire and organize basic source material for transformation and synthesis into customer-facing
+ documentation that meets a high standard for accuracy and readability.
+Work with Development, Quality Assurance, and Product/Project Management to ensure
+ appropriate creation and timely deliverables to coincide with software product releases.
+Work cooperatively with other technical writing staff to ensure appropriate coverage of several
+ kinds of product releases.
+Continually seek to improve existing documentation processes and content.
+Maintain a high level of knowledge in the field of technical publications.
+Achieve a high degree of product knowledge in order to produce quality materials.
+Seek to provide innovation for the packaging and delivery of technical publications.
+Follow corporate style guides to ensure a consistent look and feel for publications.
+Requirements:
+Significant experience writing technical publications for a technical audience.
+Experience with professional technical writing tools and HTML to create and manage technical
+ publications.
+Experience documenting software APIs for a technical audience.
+Excellent organization, communication, and interpersonal skills.
+Familiarity with online content-delivery tools and platforms.
+Significant experience in working with extremely complex technical solutions.
+Desired experience includes familiarity with contact-center software, telecommunications
+ technology and standards, network-based solutions, or other highly technical systems.
+
+ 
+Genesys is a leading provider of multi-channel customer experience and contact center solutions. With
+ over 3,500 customers in 80 countries, Genesys orchestrates more than 100 million customer interactions
+ every day across the contact center and back office. Genesys helps customers power optimal customer
+ experiences that deliver consistent, seamless and personalized experiences across all touchpoints,
+ channels and interactions.

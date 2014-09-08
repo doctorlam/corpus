@@ -1,0 +1,50 @@
+﻿Job description
+Opportunity:
+Digi International is seeking technical writing talent for our XBee and Device Cloud product lines. Our
+ XBee products serve many industries worldwide, from medical to transportation to telecom. Device
+ Cloud by Etherios provides all the tools to connect and manage wireless gateways, XBee modules and
+ other devices in a connected, Machine-to-Machine (M2M) environment.
+Join a dynamic team that is developing next generation technical content. As a Technical Writer at Digi,
+ you'll work in a high-performing and supportive environment that provides the opportunity to develop an
+ interesting and fulfilling career path.
+We are seeking a skilled Technical Writer who loves working with complex technical systems and is
+ comfortable working in a fast paced, deadline-driven engineering environment. The position is
+ accountable for the timely and effective development of technical user manuals for our wide variety of
+ products.
+ 
+Key Job Responsibilities:
+ 
+
+Acquire and review technical source material such as product specifications, and develop an
+ understanding of the products involved.
+Fulfill roles as both a dedicated member of a company-wide documentation team and an
+ integrated member of an engineering team that uses an “agile” development process.
+Work closely with engineering team members to provide design feedback and develop product
+ documentation.
+Identify the audience, user environment and tasks to be addressed in manuals.
+Plan and track documentation projects and deliver assignments on schedule.
+
+Desired Skills and Experience
+Primary Requirements:
+ 
+
+Bachelor’s degree in Computer Science, English or related field.
+At least five years of technical writing or other relevant experience.
+Intermediate to advanced Frame Maker, Adobe Creative Suite, and Illustrator skills.
+Experience working in the DITA framework is a plus.
+Basic understanding of HTML and XML.
+Experience working with developers to advocate for the user experience and know how to
+ represent documentation requirements during product design and implementation.
+Should have strong command of English language, and the ability to self-edit.
+Possess clear writing style and superb content organization skills.
+Ability to manage writing tasks for multiple, overlapping product releases and deliver on schedule
+ without compromising quality.
+Possess good technical aptitude to learn new features, products and solutions quickly.
+
+
+Digi International is the M2M expert, combining products and services as end-to-end solutions to drive
+ business efficiencies. Digi provides the industry’s broadest range of wireless products, a cloud
+ computing platform tailored for devices and development services to help customers get to market fast
+ with wireless devices and applications. Digi’s entire solution set is tailored to allow any device to
+ communicate with any application, anywhere in the world. For more information, visit Digi's website at
+ www.digi.com.

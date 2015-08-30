@@ -1,0 +1,1169 @@
+1
+Editor/Writer 1 - Requisition ID 066851
+USA-Texas-Greenville 
+ 
+Description
+The Editor/Writer is responsible for various writing assignments associated with RFP requirements for large complex bids, as well as development and refinement of writing associated with web-based and printed Marketing materials. This position plays a critical role in facilitating and promoting the adoption of key market messages across various methods of written communication. This requires an acute understanding of the customer's needs, our capability and service offerings, as well as effective relationship management with stakeholders to fully understand and articulate the proposed solution.
+ 
+As an integral member of the proposal engagement, this individual works closely with the proposal team, business development, finance, contracts, legal and subject matter experts to create winning, high-quality, compliant, and compelling proposals. The Editor/Writer will review, edit and refine written material from various authors into a single cohesive document, and ensure that the final written response effectively communicates our intended messages.
+ 
+As a member of the marketing team, this individual will need to ensure key positioning messages are incorporated consistently between the proposal efforts and our marketing materials and that all written materials are clearly written and optimized for readability. Seeking a leader who is able to command respect through knowledge, words and actions in support of maximizing stakeholder value and company image at all times.
+ 
+Primary Responsibilities:
+ 
+·         Demonstrate expertise in understanding and editing and writing strategically in the aerospace and defense industry, as well as critical thinking, business acumen and flexibility to step in and analyze opportunities and edit/refine proposals for newly acquired or emerging businesses and markets
+ 
+·         Provide integrative editing and writing support to the Proposal Team throughout the proposal development cycle. This includes both the proposal document and executive summary materials.
+ 
+·         Review, refine and/or develop written communications for printed and web-based marketing materials.
+ 
+·         Interact with and maintain effective working relationships with members of the proposal development center team, as well as engineering, business development, finance, contracts, legal and subject matter experts.
+ 
+·         Adhere to established proposal writing processes, defined within the Winning New Business guide. Participate in developing standard baseline bidding materials and databases where appropriate.
+ 
+·         Evaluate and articulate competitive advantage, differentiators, win strategy, etc. across proposal and marketing materials.
+ 
+·         Create templates and other materials that may be re-used by other business, technical and legal writers across the business.
+ 
+·         Edit the proposal material in a manner that clearly articulates the value proposition, market positioning and overall strategic intent. Ensure proposal text reflects strong industry awareness and highlights the L-3 MI differentiators.
+ 
+·         Support proposal teams by editing the RFP responses and developing executive summaries that demonstrate market position and move the customer to buy.
+ 
+·         Adhere to quality principles (responsive, accurate, concise, strategic), style guide, and other criteria for compelling and consistent messaging
+ 
+·         Manage multiple projects with a sensitivity to tight deadlines and to working in a collaborative group
+ 
+ 
+Qualifications
+Minimum of a BA or BS in English, Journalism, or Business with equivalent industry work experience and 0-2 years of business marketing and/or proposal writing experience. Strongly prefer experience within the Aerospace & Defense market.
+ 
+Demonstrated proposal writing experience (please provide samples)
+ 
+Analytical/critical-thinking skills for understanding complex product offerings, value propositions, and defining them in succinct, persuasive written responses
+ 
+Ability to work in a fast-paced, deadline-driven, and complex environment; proactively seeking guidance on complex tasks, as needed
+ 
+Ability to perform effectively under pressure and to practice strong organizational skills when faced with multiple, time-sensitive priorities
+ 
+Strong interpersonal, communications, and negotiating skills
+ 
+Solid critical thinking, problem resolution, and time management skills
+
+2
+REALPAGE, a pioneer in Multi-family solutions, is looking for a talented & experienced UX Guru for its Mobile division. This role will require an "out-of-the-box" thinker with strong attention to detail, who is collaborative by nature. This position will involve working with multiple groups of individuals and customers to develop a streamlined user experience. 
+What would you be doing?
+•	Lead the development of Web & Mobile interactive user experiences across OpsSolution applications
+•	Work with Product Managers, Engineering, Design, Support, Professional Services and Customers, to determine UX needs and how to meet them.
+•	Conduct research, testing, and focus groups for strategic programs.
+•	Assess and understand the platform, business needs and market landscape, and distill those into design requirements.
+•	Identify and understand the user personas.
+•	Translate concepts and ideas into wireframes, workflow diagrams and customer journey maps.
+•	Able to effectively communicate user experience and design directions to business teams & executives using prototypes, visual communications, and narrative vision.
+•	Support product design governance and implementation to ensure that product designs comply with UX best practices.
+•	Not afraid of getting your hands dirty!
+•	Champion user experience and design best practices to stakeholders throughout the organization.
+•	Bring design thinking to projects and act as a voice of UX innovation in the product development process.
+•	Passionate about web-based enterprise products and technology.
+•	The right person for this job lives and breathes UX for enterprise software and has an amazing grasp on market trends and a vision for what this space could be 2-5 years from now.
+•	Participate in requirements definition meetings with design team, contributing to and/or documenting the overall design as necessary
+•	Help develop high-quality technical design documents and requirement specifications within a scheduled timeframe with minimal supervision
+•	Help develop functional requirements and specifications from product roadmap and company strategy documents
+•	Interact with customers and account managers to understand existing business processes and system requirements, identify how existing products meet these requirements, and/or what additional features and/or products are needed to meet these requirements
+What would it take?
+•	Bachelor's Degree in Human-Computer Interaction, Interaction Design, Information Design, Graphic Arts or related field.
+•	6 year experience as a UX Designer, Interaction Design or similar
+•	A portfolio that demonstrates superior creative thinking and problem solving skills applied to web based & mobile applications.
+•	Understand the design process, and project management for UX programs for web-based & mobile applications.
+•	Experience working with cross-functional teams (including technical development/engineering, product management, marketing, executive management), while utilizing working knowledge of software development, product design, usability engineering, and quality assurance.
+•	Demonstrated knowledge of the Internet technologies with hands-on experience in writing business requirements and functional design documents based on high level requirements and requests from customers and Executive Management
+•	Attention to detail and craftsmanship.
+•	Proven success in driving programs to completion.
+•	Exceptional communication & presentation skills, including involvement with executive-level communications.
+•	Excellent organizational skills with proven ability to manage multiple concurrent projects and to adjust to frequent changes and project priorities.
+•	Experience with rapid prototyping, HTML & CSS
+
+The Sr. User Experience Architect works with client services and creative teams in planning, designing, testing and advancing the user experience across Rockfish internal and external projects ensuring the user experience adheres to industry best practices and client standards.
+
+Responsibilities:
+
+Participate in project planning meetings and brainstorming sessions through ideation and design perspectives while working closely with internal teams and clients
+Create and maintain the user experience and interactions for our online work
+Stay abreast of technical and functional dependencies across multiple initiatives
+Develop thorough, realistic plans that support client objectives, goals and business models that help define strategy, content and features for their digital projects
+Analyze target audiences and their information and functional needs
+Define site architecture and navigation that serves as a blueprint of the site upon which all other aspects are built
+Create wireframes, site maps, work flows, personas, feature lists, mockups, business rules, working prototypes and other artifacts to describe the intended user experience
+Help design and conduct stakeholder interviews and user testing sessions and present findings and recommendations
+Prepare, present, and defend ideas both internally and client-facing
+ 
+
+Requirements:
+
+Degree in relevant field or transferable experience
+Ability to build out prototypes with a responsive framework (Bootstrap and Foundation a plus)
+Knowledge of best practices for creating a best in class user experience with user interface design processes and methodology
+Experience in the development of dynamic websites, intranets, web-based application from a user experience perspective
+Strong understanding of Axure or Omnigraffle software
+Outstanding organizational skills and attention to detail
+Flexibility and adaptability; able to manage shifting priorities as projects evolve
+Ability to work with limited supervision and direction
+Good presentation skills
+Understanding of and passion for the digital space
+
+Description: Kforce has a client seeking Senior UX Designers in San Antonio, Texas (TX). You will be working on designing internal applications. This specific internal application is being rewritten from one language to another, moving to the MS stack, therefore the need for the front end aesthetics, and overall user experience to navigate through the site with ease is crucial. With the migration over to .NET there leaves room for creativity when it comes to sketches, art, and overall design. You will be operating in a Scrum environment, gathering key tasks from workflows working on anything from hi-fidelity mockups, interactive user experienced designs, storyboards, personas and getting hands on with HTML/CSS/JavaScript for the front end development and design. User Experience Activities: Research
+Conduct stakeholder interviews within the organization to understand business requirements
+Conduct requirement workshops with key individuals and teams to give UX team a deeper understanding of the project
+Conduct contextual research in the end-user's environment to gain perspective for design deliverables
+Design
+Create customer experience maps, task models, and personas to visualize processes, the user's journey to complete tasks, and provide vivid descriptions of the end-users
+Create sketches to quickly generate and gather feedback on a high volume of design ideas
+Create wireframes, graphics, etc. to illustrate design and interaction concepts to both business and IT teams
+Create prototypes of key interactions, as needed, to ensure project team members and end-users have a shared understanding of design concepts
+Create UX pattern documentation for inclusion in our clients' UX Guidelines Pattern Library
+End-user Validation
+Validate UX team designs by conducting informal usability tests to gather user opinions and gauge satisfaction levels
+Involve end-users in the design process to understand their needs
+Requirements: Responsibilities:
+Provide timely communication and status updates to UX lead and design team members
+Provide accurate estimates based on work to be completed within each sprint
+Develop all deliverables according to our clients UX Team's methodology and documentation templates
+Provide sufficient notice to UX Lead and design team members to allow adequate time to make key decisions affecting the project
+Deliverables:
+Document outcomes of UX research activities
+Recommended UX design options in the specified documentation templates and format (e.g., wireframes, user interaction rules, etc.)
+Document outcomes of end-user validation / usability testing activities
+To be considered for this position, candidates must have experience in a similar role or they must possess significant knowledge, experience, and abilities to successfully perform the responsibilities listed. Relevant education and/or training will be considered a plus.
+
+3
+UX Designer
+J.C. Penney Company, Inc.
+Plano, Texas
+ 
+When it fits, you feel it. JCPenney is one of the nation’s largest apparel and home furnishing retailers, and we're dedicated to fitting the diversity of America with unparalleled style and value. Working at JCPenney gives you the opportunity to help create meaningful experiences for the millions who shop at our more than 1,000 stores and jcp.com. We believe in quality that can be felt, fabrics that your skin loves, colors that go with you, and sizes and prices that invite you to buy for the whole family. We're looking for motivated, talented individuals who can emerge as Warriors in our organization. Find your fit at JCPenney.
+ 
+We are looking for a designer with hands-on sketching, designing, and customer experience mapping skills. This person will collaborate with all members of the UX team and report directly to the UX Manager. The ideal fit is someone who can problem solve at a fast pace with both curiosity and determination.
+ 
+As a member of the UX team, you will be asked to help evaluate and define a consistent voice across all of our key digital platforms.
+ 
+Responsibilities:
+Execute visual and interaction design as a part of a multi-disciplinary team
+Collaborating on user experience planning with a lead experience architect
+Define interaction models, user flows, and UI specifications
+Explain complex task flows within interaction designs
+Collaborate closely with the UX team and partner teams 
+Perform other duties as needs arise 
+ 
+Accomplishments & Core Competencies required:
+3-5 years in UX or interaction design
+Portfolio examples of sketches, workflows, interactions, and end state work
+Education and/or work experience in User Experience Design or Human Computer Interaction
+Fluent in Adobe CS products
+Familiar with Sketch 3
+Some understanding of HTML & CSS
+Creates unique design solutions
+Highly adaptable with a desire to grow and learn
+Collaborates well with the UX team and stakeholders
+Incorporates feedback in a professional manner (?)
+Thoughtfully articulates design decisions and rationale
+Educates others on UX best practices 
+Aware of Lean UX usability testing methods 
+Web accessibility (Aria, WCAG 2.0)
+Responsive Design modeling
+Performs under time constraints in an Agile UX environment
+Meets deadlines while working in sprint capacities
+Effectively organizes, plans, prioritizes, and executes projects
+Manages resources in a timely manner
+Understands project scope, key players, urgency, inherent risks, and business benefits 
+Displays and promotes high standards of ethical conduct and behaviors consistent with organizational and government standards 
+Personally prioritizes conflicting projects and handle multiple tasks/deliverables concurrently
+Foundation 5 experience a plus
+Knowledge of InvisionApp a plus
+Our corporate office supports the JCPenney stores nationwide and offers a competitive benefits package including medical/dental/vision, term life insurance, paid vacation/holidays, 401 (k) Savings Plan with company match, and a merchandise discount plan to JCPenney. Amenities include free covered parking, full cafeteria services, fitness center, and on-site childcare.
+
+4
+Entry Level Front End Developer 
+HBS Systems - Richardson, TX
+HBS Systems is looking for a recent college graduate with a passion for front end development. The ideal candidate will have some exposure to functional composition of web pages using HTML/CSS/JavaScript, and turning a wireframe design into well-formatted, user-friendly web applications. Programming experience, the ability to write complex scripts, and work with browsers is also a plus along with knowledge of grids, typography, hierarchy and information flow. Along with technical excellence, we are seeking someone who is creative and tenacious. The successful candidate must be able to communicate well, verbally and in writing, to promote team productivity and effectiveness. This position is based in our Richardson, Texas headquarters.
+
+Description:
+
+The UI Developer operates effectively as a member of the development team.
+Also operates effectively as an individual for quick turnaround of enhancements and fixes.
+Responsible for meeting expectations and deliverables on time and in high quality.
+Responsible for the development of web applications and components.
+Responsible for the design and development of web pages, graphics, multimedia, GUIs.
+Effectively develops in a clean, well structured, easily maintainable format.
+Utilizes storyboarding and graphic pre-designs where appropriate.
+Demonstrates creative, technical and analytical skills.
+Demonstrates ability to communicate effectively in both technical and business environments.
+Skill Set Desired:
+
+Bachelor's degree in a related field
+Familiarity in designing, marking up, developing the UI of websites and/or web applications
+Some experience with web and UI development preferred (0-2 years).
+Basic understanding of UX and UI design with an emphasis on maximizing usability.
+Front-end skills and some basic understanding of how back-end development works.
+Markup skills utilizing HTML5, CSS3, JavaScript.
+Practical exposure and/or experience with some: jQuery, KnockoutJS, LESS, JSON, AJAX
+Strong written and oral communication skills.
+Desire and willingness to work in a collaborative, innovative, flexible and an Agile, team-oriented environment. You will be doing interface design, UI web development with: HTML 5, CSS 3, LESS, JavaScript technologies such as jQuery.
+About the Company
+Founded in 1985, HBS Systems is the leading provider of systems and software to dealerships in the Agricultural, Construction and Industrial equipment industries. Over the past thirty years, thousands of equipment dealerships worldwide have trusted HBS Systems as their partner in technology. HBS Systems is headquartered in Dallas, Texas with a Canadian office located just outside of Toronto, Ontario.
+
+There has never been a better time to join HBS Systems. HBS Systems continues to grow and we're always looking for talented individuals who want to become part of our dynamic company. We offer a fast-paced working environment where you'll find a wealth of opportunities to use your knowledge and experience. Celebrating our thirtieth year of serving our customers, we have the rock-solid foundation of an industry leader with the passion and spirit of a start-up. We believe in an entrepreneurial workplace, where ideas are encouraged and initiative is rewarded. Come to HBS Systems and build the career you've always wanted.
+
+Benefits
+HBS Systems offers a generous compensation package including the following:
+Medical, dental, vision, and company-paid life insurance
+Short-term and Long-Term Disability benefits
+401(k) retirement plan
+Open PTO policy
+Eight paid holidays
+Paid Birthday/Personal Day
+Bonuses for employee referrals
+
+5
+Job Title:	Xome-Policy / Technical Writer
+Area of Interest:	Risk Management
+City:	Lewisville
+State:	Texas
+Requirements:	EDUCATION / EXPERIENCE REQUIREMENTS
+Bachelor's degree in Journalism, English, Technical Writing, Business Administration or related field is desired. Typically requires 3-5 years of business or technical writing experience and in-depth knowledge of multiple software and graphics packages:
+Microsoft Office (required; expert level with Word)
+Microsoft Visio (recommended; beginner level)
+SnagIt, Axure (recommended; beginner level)
+PDF tools (required; beginner level)
+HTML (recommended, beginner level)
+Job Description:	JOB SUMMARY
+Responsible for creation, maintenance, and publishing of company policies, procedures and technical documents (business/functional requirements, instructional materials, online help, procedural guides, product descriptions, etc.) for use by business end users.
+ESSENTIAL JOB FUNCTIONS
+Conduct research by interviewing subject matter experts, reviewing existing documentation, and gleaning information from the system or product being documented.
+Prepare, edit, and deliver all documentation in accordance with existing editorial styles and document templates.
+Translate information of medium to high complexity into clear, concise documents appropriate for various target audiences.
+Create graphics (screen mockups, report samples, etc) that aid the target audience in understanding the documented material.
+May provide input concerning GUI design and wording of messages/system changes.
+May participate in business requirements, functional design, testing, and architecture work sessions, as requested.
+Maintain internal documentation library.Follows documentation projects through to completion, including approval signoff, loading into production, and archival.
+
+6
+McKesson is in the business of better health and we touch the lives of patients in virtually every aspect of healthcare. It starts with the chain of events you initiate when you work with McKesson Pharmaceutical - a chain that extends across the country and results in millions of people getting more from their healthcare.
+
+As the leader in pharmaceutical distribution and supply chain management, McKesson Pharmaceutical delivers vital branded and generic pharmaceuticals, as well as over-the-counter products, to more than 40,000 customers in three primary segments: retail chains, independent retail pharmacies and institutional providers such as hospitals, health systems, integrated delivery networks and long-term care providers.
+
+We base our distribution excellence on electronic order processing, asset management tools, a commitment to Six Sigma methodology, order accuracy and supply chain safety. We work with our customers on solutions - including supply management technology, world-class marketing programs, managed care and repackaging products and services - that help them meet their business and quality goals. Our entire team works to ensure patients receive their medications efficiently and begin the process of healing.
+
+As the nation’s largest pharmaceutical distributor, US Pharmaceutical is committed to driving total pharmacy health for customers and ensuring that customers receive the right drug at the right time, every time. This commitment is underpinned by McKesson’s focus on providing customers with the industry’s highest product availability, intelligent ordering capabilities and unmatched service accuracy.
+
+Join our team of leaders to begin a rewarding career.
+
+
+Current Need
+Macro Helix helps hospitals and health care systems improve the operational and financial performance of their pharmacy service offerings.  Our services and technology solutions help to reduce drug costs, increase reimbursements, and maintain compliance with federal and state regulations. 
+
+Supporting the needs of the Macro Helix Customer Education | Communication department, the Client Communication - Technical Writer collaborates with members of various departments to identify and address the needs of Macro Helix customers and employees. Once needs are identified, writes, designs, develops, executes and evaluates the effectiveness of a variety of communication and educational materials.
+
+Enjoys working in a smaller, innovative, fast-growing, fast-paced company with opportunity to work with upper management.
+ 
+Position Description
+Development of product release notes, reference guides, online Help, and other software product documentation as needed
+Develop and distribute technical documentation
+Support the LMS (CornerStone)
+Ability to travel 15% of time (Team Meetings, UAT)
+Qualifications
+
+Minimum Requirements
+2+ years experience in technical writing
+
+Critical Skills
+Samples of technical writing to be provided to hiring team prior to interview.
+Client facing technical writing experience
+Thorough understanding of the software development lifecycle (SDLC)
+Ability to interpret technical information and translate it in an easy-to-understand concept with efficient use of words.
+Adobe RoboHelp experience
+Ability to contributes creative ideas to enhance current offerings.
+Documentation Ninja skills
+Excellent command of English, both verbal and written to include interviewing internal and external parties
+Excellent project and time management skills to successfully navigate and complete multiple projects with multiple deadlines and stakeholders
+Ability to identify communication and education gaps as well as create solutions to solve problem/close gaps
+Ability to interview SME's and gather information to develop documentation 
+Advanced level Microsoft Office Suite – Word and Power Point
+
+Additional Knowledge & Skills
+
+Knowledge of the Federal 340B Program
+Educational Documentation Development
+Experience documenting hospital or pharmacy support software
+Resourceful and able to troubleshoot problems and work with required groups to resolve problems
+Innovative with the ability to conceptualize and develop ideas and vision
+Independent and a self-starter
+
+Education
+4-year degree or related field or equivalent experience
+
+Physical Requirements
+General Office Demands
+
+Benefits & Company Statement
+McKesson believes superior performance – individual and team – that helps us drive innovations and solutions to promote better health should be recognized and rewarded. We provide a competitive compensation program to attract, retain and motivate a high-performance workforce, and it’s flexible enough to meet the different needs of our diverse employee population.
+
+We are in the business of better health and we touch the lives of patients in virtually every aspect of healthcare. We partner with payers, hospitals, physician offices, pharmacies, pharmaceutical companies and others across the spectrum of care to build healthier organizations that deliver better care to patients in every setting.
+
+But we can’t do it without you. Every single McKesson employee contributes to our mission—whatever your title, whatever your role, you act as a catalyst in a chain of events that helps millions of people all over the globe. Talented, compassionate people are the future of our company—and of healthcare. At McKesson, you’ll collaborate on the products and solutions that help us carry out our mission to improve lives and advance healthcare. Working here is your opportunity to shape an industry that’s vital to us all.
+
+McKesson is an equal opportunity and affirmative action employer – minorities/females/veterans/persons with disabilities.
+
+Qualified applicants will not be disqualified from consideration for employment based upon criminal history.
+
+7
+Posting Title	Internal Communications Specialist
+Division	ALCON
+Business Unit	COMMUNICATIONS AL
+Country	USA
+Work Location	Fort Worth, TX
+Company/Legal Entity	Alcon Laboratories, Inc.
+Functional Area	Communications & Public Affairs
+Therapeutic/Disease Area	Ophthalmics/Ophthalmology
+Job Type	Full Time
+Employment Type	Regular
+Job Description	You’re going places and Alcon has charted a path full of opportunities. If you’re excited to be part of a global, multibillion-dollar company, a world leader in eye care, with offices in 75 countries, Alcon is the place for you. We partner with our 25,000 associates to create both individual and team success. We go beyond following in line with eye care technology and products; instead we step forward to define the cutting edge with our 2,000 associates in research and development. We recruit world-class leadership for all divisions to make sure that Alcon, the 2nd-largest division of Novartis, sustains a culture of energized associates who focus on dynamic innovation. We maintain one of the highest levels of investment in talent because we know that you can achieve peak performance when your heart and mind are engaged. This is what a career looks like at Alcon—share our vision. 
+
+•The Internal Communications Specialist will work collaboratively with all members of the Global Communications team to support the implementation of high impact communications to support Alcon’s business objectives. Business Partnering 
+•Partners with the Alcon Global Internal Communications team and global functions/areas to develop and implement communications programs designed to support Alcon’s business objectives 
+•Uses an effective internal network to identify news and information relevant to all Alcon associates and determines the most effective channels and cadence to share this information 
+•Works across functions in support of the Global Communications team, specifically manages Campus-related events and communications projects Employee Engagement 
+•Creates impactful internal communications plans and materials that advance Alcon’s business objectives 
+•Assists with the development of C-level executive communications around quarterly earnings and other major initiatives 
+•Manages the Alcon internal newsflow (Spectrum, Globalconnection, Localconnection, Digital Signage) and coordinate with external communications team to ensure alignment of internal and external messaging 
+•Partners with internal clients for communications initiatives (including product support, campus events, organizational announcements, etc.) 
+•Coordinates global webcasts and townhalls and works with affiliates and MTO sites to manage local viewings 
+•Manages global and local distribution lists using Novartis Massmail tool and distribute mass emails. Monitor group email inboxes 
+•Manages translations of significant global communications 
+•Liaises with Creative Services and third-party vendors to support the implementation of new corporate branding Agency Management 
+•Effectively manages select suppliers (freelance writers, translation firms) to achieve communication goals 
+•Effectively manages budgets 
+
+Alcon is an Equal Opportunity Employer and participates in E-Verify. As part of the Novartis Group of Companies, Alcon takes pride in maintaining a diverse environment and our policies are not to discriminate in recruitment, hiring, training, promotion or other employment practices for reasons of race, color, religion, gender, national origin, age, sexual orientation, marital or veteran status, disability, or any other legally protected status. Alcon is also committed to working with and providing reasonable accommodation to individuals with disabilities. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the application process, or in order to perform the essential functions of a position, please send an e-mail to alcon.recruitment@alcon.com and let us know the nature of your request and your contact information.
+EEO Statement	The Novartis Group of Companies are Equal Opportunity Employers and take pride in maintaining a diverse environment. We do not discriminate in recruitment, hiring, training, promotion or any other employment practices for reasons of race, color, religion, gender, national origin, age, sexual orientation, marital or veteran status, disability, or any other legally protected status.
+Minimum requirements	•University degree in communications, journalism, PR or recognized public relations qualifications 
+•Fluency in English essential 
+•Knowledge/Fluency of at least one other language (Spanish, German, French) desired but not required 
+•5 years of communications and/or journalistic experience 
+•Excellent project management, organizational, planning and time management skills. 
+•Graphic layout and editing skills preferred 
+•Proficient writing skills 
+•Must be able to work effectively with individuals across a broad spectrum of technical and professional disciplines 
+•Ability to work independently and with a team and deliver high-quality results 
+•Bright “quick thinker” and self-starter
+
+8
+Technical Writer/Business Process Analyst - Dallas
+
+Summary
+Responsible for organizing existing departmental standard operating procedures (SOPs) and policies, editing/updating said SOPs and policies, and to create/organize a new SharePoint repository for departmental SOPs and policies.
+
+Education/Experience
+Bachelor degree required
+o English, Journalism, or Communications preferred
+2-4 years related experience required
+o Business Process Analysis experience highly desirable
+o Experience with SOPs highly desirable
+
+Skills
+Verbal & written communication skills, problem solving skills, and interpersonal skills (Required)
+Ability to work independently and manage ones time efficiently (Required)
+Knowledge of the structure and content of the English language including the meaning and spelling of words, rules of composition, and grammar
+Knowledge of media production, communication and dissemination techniques and methods
+Knowledge of principles and methods for curriculum and training design, teaching and instruction for individuals and groups
+Knowledge of computer software and/or applications, such as Adobe, Cognos, SharePoint Designer, etc. (Required)
+
+Major Job Duties & Responsibilities
+Meet and work with Departments stakeholders on a regular basis
+Gather information from existing documentation for update of Departments SOPs and policies
+Create/Write new documentation for Departments SOPs and policies
+Explain technical ideas in simple language for laypersons, concisely and clearly
+Methodically organize Departments SOPs and policies logically and efficiently
+Develop and publish a new SharePoint site to house Departments SOPs and policies - See more at: http://www.aplitrak.com/?adid=dXMzMjQyNTAuNDY0NDYuNDcwN0BtYW5wb3dlcmZveG5hLmFwbGl0cmFrLmNvbQ&utm_source=Indeed&utm_medium=cpc&utm_campaign=Indeed#sthash.dVstiCeu.dpuf
+
+9
+Senior Technical Writer
+
+Location:	Plano, TX
+Employment Duration:	Full-Time
+Weekly Schedule:	
+Description
+
+ 
+Longing to work for a forward-thinking, fast-paced tech company? Catapult your career by joining Corptax, the market leader in business process and automation solutions for corporate tax. Our cloud-based applications set the trend for financial technology, and attract tech-savvy individuals who get an adrenaline rush from creative success. You’ll hang with some of the brightest tax technology minds in Plano, and improve business processes for the world’s most recognizable companies. Our casual, high energy setting fosters independent thinking and new ideas. A solid salary and benefits package complements your professional growth for a new level of job satisfaction.   We are seeking highly motivated, enthusiastic individuals to join Corptax in our Plano, TX office.  Visit our website at: http://www.cscglobal.com/careers.
+
+ 
+Skills
+
+Experience using a single source authoring tool
+2-5 years’ experience writing or editing technical documents
+Experience using Adobe Creative Suite (InDesign/Illustrator, Acrobat, Dreamweaver)
+Experience with HTML/XML
+4-year degree/certification in technical communication or related field
+Responsibilities
+
+Edit, clarify, and proofread documents written by peers and subject matter experts in a timely manner
+Develop positive, collegial relationship with peers
+Demonstrate a positive attitude toward the work environment
+Promote skills development across the department
+Perform effectively as a team member
+Foster an environment where every level offers ideas to improve any aspect of the team (e.g. efficiency, process, morale)
+Promote teamwork across the organization
+Provide peers with assistance
+Read business and professional publications and share knowledge, innovations and approaches with others
+Adapt to change in projects and the organization
+Communicate issues or risks to project leads
+Seek opportunities to fulfill goals in career plan, such as training or project tasks.
+Mentor Technical Writers with career development
+Apply the Commitment to Excellence ensuring the quality information is developed for our customers
+Understand and anticipate customer  business needs
+Proactively search for opportunities to exceed customer expectations
+Build and maintain strong customer relationships
+ 
+The duties and responsibilities described outline the general nature of the job and are not intended to be an exhaustive list of responsibilities. Additional responsibilities, expectations and qualifications may be assigned as required by senior management.
+ 
+
+10
+Technical Writer – Customer Care - (150001C4)
+ 
+About Us
+ 
+At St. Jude Medical every one of us plays a role in our collective ability to save and improve lives. As an organization, we want to continue to grow and lead our industry in changing the way the world views the treatment of expensive, epidemic diseases. By seeing things from a different perspective, using our imagination, leading with character, and working with passion, we all have a role to play in making what we do possible. Are you ready to join us? All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, national origin, marital status, age, citizenship, protected veteran status, sexual orientation, gender identity and/or gender expression, status with respect to public assistance, or disability status.
+ 
+Description
+ 
+We are seeking an experienced, high caliber Technical Write – Customer Care. Working under general supervision, writes, edits, and reviews letters to customers regarding the results of products analyses for returned medical devices. Builds and maintains a working knowledge of features and issues related to multiple medical device product lines. Identifies and routinely uses the most effective, cost efficient, and best business practices to execute processes; continually evaluates their effectiveness and appropriateness. Maintains open communication with reliability engineers, technical service engineers, and development engineers and keeps current on developments in field(s) of expertise. Builds relationships with Sales Representatives and customers worldwide to ensure customer satisfaction. Exercises judgment in planning and organizing work; monitors performance and reports status.
+ 
+ 
+Each employee can make a difference at St. Jude Medical and has the power, either individually or as a team, to influence the success of the company. We are team-oriented, fast-paced and progressive. We value people with great ideas who partner with others both internally and externally to take action and accomplish goals.
+ 
+Impact this role will have on St. Jude Medical:
+Writes, edits, and reviews detailed, accurate customer response letters based on technical reliability analysis reports.
+Tailors response letters to individual customers based on customer preferences and locale.
+Works closely with Post market Surveillance and Product Analysis teams for customer letter content.
+Develops and maintains a strong understanding of device functionality, specifications, and issues.
+Communicates with engineers, sales representatives, and multiple levels of management to constantly improve the quality of letters to customers.
+Establishes functional goals, strategies, and tactics to assure optimal customer service.
+Interprets, implements, and may recommend organizationally specific policies/procedures to accomplish assignments and resolve a broad range of issues
+Designs forms and new formats which are used as templates for customer letters.
+Remains current on developments in field(s) of expertise, regulatory requirements, as well as industry trends.
+Resolves and/or facilitates resolution of problems including identifying causes to prevent re-occurrence.
+Complies with U.S. Food and Drug Administration (FDA) regulations, other regulatory requirements, Company policies, operating procedures, processes, and task assignments.  Maintains positive and cooperative communications and collaboration with all levels of employees, customers, contractors, and vendors.
+Maintains a safe working environment.
+Performs other related duties and responsibilities, on occasion, as assigned.
+ 
+Your experience(s), education and knowledge will further expand St. Jude Medical’s marketplace success:
+BA, BS, Technical Communication or related field, or equivalent experience.
+1 years Technical Writing experiencing in the medical device industry or 3 years general Technical Writing experience required
+The demonstrated ability to work cooperatively and productively with others.
+The ability to meet deadlines on multiple assignments/projects
+Demonstrated verbal and written analytical/problem solving, communication, interpersonal, organizational, and relevant math skills are essential.
+Must be able to understand and comply with applicable FDA regulations and company operating procedures, processes, policies, and rules.
+Demonstrated personal computer skills including spreadsheet, word processing, data base management, and specialized applications.
+Ability to work in a highly matrixed and geographically diverse business environment.
+Ability to work within a team and as an individual contributor in a fast-paced, changing environment.
+Ability to leverage and/or engage others to accomplish projects.
+Strong verbal and written communications with ability to effectively communicate at multiple levels in the organization.
+Multitasks, prioritizes and meets deadlines in timely manner.
+Strong organizational and follow-up skills, as well as attention to detail.
+Ability to travel approximately 10%, including internationally.
+Ability to maintain regular and predictable attendance.
+ 
+Your preferred qualifications and education:
+Experience working in a broader enterprise/cross-division business unit model preferred.
+ 
+11
+Primary Location: USA-Texas-Plano
+Job: SL-Customer Service
+Schedule: Full-time
+Shift: Day Job
+Travel: Yes, 10 % of the Time
+Job Posting: Jul 28, 2015
+
+Job Description
+Job Purpose Summary
+The technical writer provides product documentation to assist both internal and external users. This position is located in our Fort Worth, TX office.
+
+ 
+
+Essential Job Duties
+Work with product managers, software developers, quality assurance, and support to understand new features and functions of our software application.
+Create external documentation for customers.
+Create internal documents for support and consulting teams.
+Skills & Requirements
+Job Qualifications
+
+Education: Bachelor's degree
+
+Experience:
+
+Experience in a technical software product environment.
+Experience writing task-based procedures.
+Familiarity with the Agile software development cycle and version control.
+Required Skills: 
+
+Translation of technical concepts into written language that is easily understood by both technical and non-technical audiences.
+Minimum 3 years of experience with Help authoring tools (Adobe RoboHelp, MadCap Flare), screen capture and photo editing tools (SnagIt, Photoshop), and Adobe Acrobat.
+Effective verbal and written communication skills.
+Effective research skills.
+Attention to detail.
+Management of multiple deadlines in a fast-paced environment with changing priorities.
+Ability to learn new processes, products, and tools.
+Other Abilities:
+
+Experience with screen recording and video-editing software (Camtasia, Captivate) and audio-editing software (Audacity) is a plus.
+Experience with developer wikis, especially Confluence, is a plus.
+Experience with dealership management systems and QuickBooks Pro is a plus.
+Organizing and completing assignments using standards for order, clarity, conciseness, style, and terminology.
+Standardizing materials prepared by others.
+Analyzing product changes to determine what documentation needs to be created or revised.
+Developing and maintaining of constructive, cooperative relationships with coworkers.
+Using project management software like Version One to prioritize, organize, and manage assigned work.
+Communicating with people outside the organization, when and as appropriate.
+Physical Demands (Travel, etc.)
+Occasional visits to other DealerSocket locations.
+
+12
+Digital Writer
+
+Tracking Code
+238786-005
+Job Description
+JOB SUMMARY: 
+
+Concentra is looking for a Content Writer with the ability to write and edit content for a wide range of advertising and marketing communications. The successful candidate will be an extremely talented, passionate and detailed Writer who will aid in the planning, development, generation and implementation of copy for all media with a focus on digital.  Web, experiential thinking, coupled with an ability to dive into details in order to transform technical subject matter into humanly relevant messages that resonate with, engage and educate a variety of audiences.
+
+Ensures the delivery of exceptional customer service by putting all customers (internal and external) first and displaying:
+
+A healing focus
+A selfless heart
+A tireless resolve 
+MAJOR DUTIES AND RESPONSIBILITIES:
+
+Research, write and edit copy for marketing communications including but not limited to print and online articles, newsletters, videos, webinars, infographics, white papers, case studies, blog posts, Web site content and more.
+Draft landing page copy as well as supporting email and social copy to drive demand for content initiative.
+Collaborate with design, digital and other teams to develop compelling, often unexpected, content plans
+Interview subject matter experts on a variety of topics and translate that information into captivating and concrete storytelling
+Think strategically and participate in creative concepting in a wide range of media, beyond the "what is" into the realm of "what can be"
+Establish strong relationships across departments and an understanding of client needs, the customer experience, marketing strategy and operational capabilities
+Required Skills
+JOB-RELATED SKILLS/COMPETENCIES:
+
+Exceptional writing, interviewing and research skills
+Proficient in Microsoft Word, Microsoft PowerPoint and Adobe Acrobat
+Strong organizational and communication skills and great attention to detail
+Solid understanding of technical writing and the B2B market
+Ability to manage multiple projects in a demanding, deadline-oriented environment, while maintaining a positive attitude
+Required Experience
+ EDUCATION/CREDENTIALS:
+
+Bachelor’s Degree in journalism, advertising, communications, marketing or English
+JOB-RELATED EXPERIENCE:
+
+4+ years writing experience, with samples of work product as proof
+This job requires access to confidential and sensitive information, requiring ongoing discretion and secure information management.
+
+Concentra is an Equal Opportunity Employer M/F/Disability/Veteran
+
+ 
+13
+Job Location
+Addison, Texas, United States
+Position Type
+Full-Time/Regular
+Group
+Corporate (Including IT)
+
+Proposal Writer
+ 
+Job Number: 81434
+ 
+ 
+Primary Location: United States-Texas-Dallas
+ 
+Description
+ 
+
+ 
+Live IT Up at Ciber
+ 
+
+At Ciber, we believe the most inspired, innovative and industrious companies should win, regardless of size or legacy. We’re the small company that cares and the big company that can. We deliver breakthrough performances and powerful solutions that are anything but cookie cutter in order to give our clients the competitive advantage they deserve.
+ 
+Ciber, Inc. has multiple openings for the following positions in Greenwood Village, CO and various unanticipated locations throughout the US.
+ 
+Work.
+ 
+Role Description:
+ 
+The Proposal Writer facilitates the proposal process (kick off, development, quality, competitiveness, compliance, completion, submission, etc.) for bids from RFP/I/Q release to contract award. More specifically, the successful candidate will support the technical and managerial staff in creating and editing effective collateral, written proposals, and communications. This position demands a strong work ethic, initiative, and commitment to quality. The successful candidate must be able to work on his or her own or in a team, with minimum supervision. The ideal candidate is enthusiastic, self-motivated, and able to meet tight deadlines, works well independently, and has excellent graphic design and technical writing skills.
+ 
+ 
+Responsible for and ensures the CIBER proposal process is followed.
+Manages pursuit portal and pursuit code creation to support pursuits.
+Responsible for ensuring alignment to the complete lifecycle of proposal development activities.
+Facilitates formal review processes (Kick Off, Bid Go/No GO, Bid Sign Off) with senior and executive level managers.
+Uses automated proposal collaboration and document management tools specifically SharePoint.
+Reviews, integrates, and edits the proposal to ensure a cohesive, compliant, and competitive response.
+Provides detailed guidance to proposal writers/contributors and primes/subcontractors and coordinates with technical personnel to ensure accuracy and adherence to schedules.
+Writes proposal sections such as transmittal letter, past performance, and key personnel sections.
+Owns document strategy and appearance, including proposal formatting, style, voice, and ensuring compliance.
+Manages the production of the final proposal for delivery, including creating the electronic documents, creating CD, printing, and binding hard copies in compliance with government requirements.
+ 
+Qualifications
+ 
+ 
+5+ years of Proposal Writing; winning business.
+Excellent people management skills.
+Strong customer service skills.
+Excellent organizational, interpersonal written and verbal communications skills.
+Ability to interact courteously and effectively with a variety of people.
+Ability to perform comfortably in a fast-paced, deadline-oriented work environment.
+Ability to successfully execute many complex tasks simultaneously.
+Ability to work as a team member, as well as independently.
+Attention to detail.
+Ability to work under standards-based performance measures.
+Experience handling multiple projects with rapidly changing priorities and deadlines.
+Ability to work independently and still function effectively as a member of a team.
+Must be proficient with Microsoft Office Suite and Adobe Acrobat.
+Excellent interpersonal, written, and verbal communication skills with a demonstrated ability to write compelling sales documents.
+Strong analytical and problem solving skills.
+
+14
+Title	Technical Writer and Trainer
+City	Frisco
+State	TX
+Country	United States
+Description	
+ESSENTIAL FUNCTIONS AND TASKS            
+
+·       Drive training and learning across the organization, with a key focus on TMS and technical training and writing. 
+·       Produce technical documentation that helps employees and customers understand and use the TMS. 
+·       Create and deliver TMS and other technical training to employees in a variety of formats. 
+·       Continue to progress our training and documentation programs, while supporting the Corporate Mission, Values and Leadership Principles.
+·       Writing
+o   Produce technical documentation for employees and customers including release notes, white papers, new user interface documentation, etc.
+o   Research, write, edit and coordinate all aspects of technical documentation. Interviews SME’s where needed to translate technical concepts into layman’s terms. 
+o   Explain technologies, processes and products in many formats including print, online, and other electronic means.
+·       Training
+o   Create and facilitate technical training for employees with respect to the TMS and other technical projects as appropriate. 
+o   Serve as Subject Matter Expert for TMS Training, Overview, Standard, etc.  Conduct TMS training for employees, in-tact groups and special project requests. 
+o   Design and create custom courses (both online and instructor led) that are specifically related to Transplace (including design, creation, evaluation and metrics within the FUEL Station).
+·       Course Management
+o   Administration and Maintenance of the various Training Tools and Resources (including FUEL Station, Training Portal, Ultipro, etc.). 
+o   Manage and leverage reports, data, metrics, and survey results to continuously improve training.
+o   Develop and distribute companywide communications highlighting training opportunities and suggested courseware.
+o   Coordinate the Instructor Led Courses as appropriate (including scheduling rooms, times, FUEL Station administration, surveys, metrics and reporting, etc.)
+·       Other
+o   Special technical training and writing projects as needed
+
+Requirements	
+KNOWLEDGE AND EXPERTISE          
+
+·       Strong knowledge in 3PL and transportation industry.
+·       Deep expertise in the functionality and practical application of the Transplace TMS.
+·       Advanced knowledge of Microsoft Tools and other applications (Ability to leverage MS programs, including Word, PowerPoint, Outlook, Lync, etc.)
+·       Exemplary skills in research, writing, editing and interviewing SMEs where necessary to compile accurate and concise documentation.
+·       Excellent verbal and written communication and presentation skills (live and virtual).
+·       Expertise in managing and utilizing the Learning Management System (LMS) technology.
+·       Advanced knowledge of training, adult learning methodologies, and best-practice techniques.
+·       Basic knowledge of employment laws and practices.
+·       The "I am Transplace" Way (Protocols for answering the phone, e-mail, IM, etc. etiquette and professional standards).
+·       Transplace Expertise  (Understand and know the Mission, Values and Goals, organizational structure, company history, how we function internally, administration, best practices, processes, behavior, customer, competitors, etc.).
+·       Working knowledge of HRIS (Ultipro).
+·       Professional Expertise (Expertise and knowledge required to be effective in position; may include certain certifications, knowledge of theory or practices within the specific field of HR.)
+ 
+
+TRAVEL          
+
+·       This job requires travel to the Transplace COEs (Roughly 25%)
+
+EXPERIENCE  
+
+·       3-5 years’ experience with technical writing and/or training preferred
+·       Transportation and/or logistics experience preferred
+
+EDUCATION   
+ 
+ 
+·       Bachelor’s degree in Journalism, Communications, Training or related field strongly preferred
+·       If candidate does not currently hold a ASTD Certification or other training certification, company is willing to support the pursuit of achieving certification for long-term success in this position.
+
+ 
+ABOUT TRANSPLACE
+ 
+Transplace is a non-asset, North America-based third party logistics (3PL) provider offering manufacturers, retailers, chemical and consumer packaged goods companies the optimal blend of logistics technology and transportation management services. From complete logistics management outsourcing to SaaS transportation management system (TMS) and supply chain network planning and design to high-quality brokerage services, Transplace has proven the ability to deliver both rapid return on investment and consistent value to customers. The company is recognized among the elite global 3PLs by a customer base that includes many of the largest shippers in the world.
+ 
+Transplace constantly strives to exceed the transportation expectations of our customers, from consumer packaged goods, chemical and petroleum companies, to discrete manufacturing and retail. Our goal for global supply chain excellence is outlined in our Mission and supported by our Core Values and Executive Leadership.
+ 
+Follow the company on Twitter, Facebook and the Transplace Industry Blog: 
+http://blog.transplace.com
+http://twitter.com.transplace
+http://www.facebook.com/transplace
+ 
+EQUAL OPPORTUNITY EMPLOYER
+ 
+Equal Employment Opportunity has been, and will continue to be, a fundamental principle of Transplace, where employment is based upon personal capabilities and qualifications without discrimination because of race, color, religion, sex, age, national origin, disability, or any other protected characteristic as established by law.
+
+15
+Job Title: Technical Writer  
+
+City: Fort Worth / State: Texas        
+
+Company:  Colonial
+
+Technical Writer
+
+ 
+
+Job Description
+
+The Technical Writer will professionally design high quality procedural documents that are clear, concise, and accurate for various departments within the organization. Will be responsible for analyzing, researching, and developing policy and procedure documents according to company, state, federal, and investor rules and regulations.
+
+ 
+
+Job Responsibilities
+
+• Partner with Subject Matter Experts (SME's) to create and revise departmental procedures through process mapping 
+• Compile existing documentation and create a uniform format 
+• Revise and update procedures regularly to ensure the most up to date procedures are readily available 
+• Maintain policies and procedures in a centralized database on company's intranet site 
+• Test to ensure project deliverables are accurately met 
+• Critically evaluate information gathered from multiple sources, reconcile conflicts, decompose high level information into details, abstract up from low level information to a general understanding
+• Assist in providing policies and procedures for audits 
+• Escalate to management any deficiencies, problems, or concerns that might be a potential risk 
+• Ability to develop and maintain effective and positive client relationships
+• Various duties as assigned.
+ 
+
+Job Requirements
+
+• Excellent organizational and analytical skills, demonstrated skills in critical thinking, attention to detail, and problem-solving
+• Experience with mortgage servicing and mortgage terminology is desired 
+• Highly proficient in time management, planning and prioritization 
+• Demonstrated experience with process flow and process mapping 
+• Exceptional verbal and written communication skills 
+• Proficient in task, time and data management abilities 
+• Must be a team player and able to work independently 
+• Ability to meet deadlines within strict timeframes 
+• Ability to work in a fast paced changing environment
+• Ability to work on and track multiple tasks and priorities 
+• Proficient in Computer Skills, Word, Excel, and PowerPoint
+• Must be able to work effectively and efficiently under pressure 
+
+16
+Marketing Copywriter-Editor 
+UniTherm International Inc - Lewisville, TX
+JOB SUMMARY: 
+The Marketing Copywriter/Editor will oversee and manage multiple writing assignments and priorities for an integrated marketing team. This person will be dedicated to content creation, including, but not limited to: email copy, web content, social media postings, newsletters, blog posts, print and collateral materials, brochures, as well as other various marketing and advertising materials.
+
+The position reports directly to the Senior Manager, Marketing Operations.
+
+Responsibilities:
+
+This role requires an extremely talented, passionate and conceptual writer who will aid in the planning, development, generation, and implementation of copy for all media. A “Web Guerrilla” is welcomed, coupled with an ability to write both technical, business, and creative copy.
+Write SEO optimized content/repurpose and optimize existing content that addresses business objectives, product knowledge, and user needs to help create transformative user experiences and maximize online conversions.
+Actively drive strategic brainstorming, campaign development, creative brief development, and creative execution.
+Create/develop ideas for educating our customers within our marketing strategy, sales funnel, and website.
+Contribute to the conception, development, maintenance, optimization and reporting of social media campaigns.
+Create compelling positioning and messaging for the company and our products and services.
+Experience/Qualifications:
+
+Bachelor’s degree is required, preferably in Communications, English, Journalism, Advertising, PR or a related field.
+1-3 years of professional writing/editing experience with copy editing, proofing, and fact-checking responsibilities is required. (A demonstration of these skills will be requested of all candidates selected for interview.)
+A portfolio of work both promotional and long forms such as email, direct mail, sales collateral, presentations, scripts, social media posts, case studies, web copy, and other formats as required.
+Excellent oral and written communication skills including strong grammatical and proofreading abilities.
+Excellent organizational skills and attention to detail.
+A keen enthusiasm for and basic understanding of Web trends and technologies with an extensive social profile.
+A solid understanding of marketing and advertising principles as well as knowledge of latest digital marketing and lead generation techniques including content strategy and SEO.
+Ability to work on multiple projects simultaneously and efficiently juggle different writing demands.
+Enthusiastic and positive attitude with the ability take a project from concept through to completion despite numerous revisions this includes being comfortable editing others writing as well as writing from scratch.
+Skills Required:
+
+Must have a working knowledge of Adobe Creative Suite software packages, including Photoshop, InDesign, Acrobat, and Illustrator, as well as Microsoft Office (Word, Excel, PowerPoint).
+Must understand basic graphic design and document creation principles and print production standards.
+Proficient in maintaining a website through the use of content management systems such as Wordpress or Joomla.
+Proficient on both the Mac and PC platforms and can manage and maintain both systems efficiently.
+Proficiency in applying AP style and familiarity with Chicago and GPO styles (at a minimum, recognizing when to double-check capitalization, punctuation, and other conventions of each style guide).
+Strong understanding of social media platforms (Facebook, Twitter, Google+, YouTube, Pinterest, etc.) from both brand and user point-of-view.
+Familiarity and/or knowledge of technical specifications, requirements and framework of social media platforms such as Facebook, Twitter, Google+, YouTube, Pinterest, etc.
+Proficiency in working with, organizing and optimizing platforms through the use of native platform functionality.
+Application Process: 
+APPLY FOR THIS JOB: To apply for this job, please follow the instructions below. NO PHONE CALLS PLEASE .
+1. Please submit your cover letter and resume via email.
+2. Sending Your Cover Letter and Resume Via Email:
+
+Save your resume in PDF format and submit it as an attachment.
+Copy and paste your cover letter into the body of the email.
+Email Subject Line: First Name, Last Name, and the Job Title you are applying for
+Application Submission Guidelines Part 2:
+Please visit us at careers.unitherm.com/apply to apply for this position. We look forward to reviewing your qualifications!
+
+In-Person Interview: 
+An in-person interview is required before any job offer can be made. We do not interview people over the phone or through the Internet. After your application is received, a Human Resources specialist will review it. If you meet the minimum qualifications for the job, your information will be forwarded to the hiring manager for review. Once your application has been reviewed, a UniTherm staff member will contact you directly if you are selected for an interview. Applicants will receive further instructions and information on the in-person interview process during this time. Only those whose applications are being considered will be contacted. No phone calls please.
+
+17
+Job Type: Full-time
+
+Required experience:
+
+Copy Editor: 1 year
+
+
+Senior Technical Writer - Healthcare
+
+Location:	Dallas, TX
+Job Code:	206
+# of openings:	1
+Description
+
+Senior Technical Writer - Healthcare
+
+The newly formed IBM Watson Health business unit is now looking for talented individuals destined to usher in the next era of healthcare. We live in a moment of remarkable change and opportunity. The convergence of data and technology is transforming healthcare and life sciences organizations in every way. 
+
+Phytel (an IBM Company) is the premier company empowering provider-led population health improvement.  We provide care teams with proven technology to deliver timely, coordinated care to their patients.  The SaaS-based registry uses evidence-based chronic and preventative care protocols to identify and notify patients due for service while tracking compliance and measuring quality and financial results.  Phytel is the 2014 Best in KLAS category leader for population health management.
+
+Responsibilities
+
+Works with product owners and trainers to develop and maintain end-user, administrative, and configuration documentation for all customer-facing and internal user documentation, including product release notes
+Develops documentation and style standards and ensures all documentation meets requirements
+Facilitates cross-functional discussions to solicit accurate information, capture requirements and review comments, and verify accuracy of documentation
+Develops printed material that leverages existing online material. This may include end user reference manuals or training guides.
+Develops an integrated documentation process for end-user training that could include print, online, and asynchronous training materials. 
+Interfaces with the scrum teams, implementation, sales, and support organization to deliver user guides, training materials, and any other material that will assist end users with the understanding, configuration, implementation, and use of our product.
+Ensures product documentation needs are completed to coincide with product release schedules.
+Collaborates with the team to learn software as well as maintain current on changes and new features.
+
+Requirements and Skills
+
+Requires 7+ years experience in the technical or instructional documentation field, with experience creating end-user documentation, engineering documentation, and training modules. (Must be able to show work product samples)
+Requires 3+ years developing documentation for commercial software products.
+Solid knowledge of the documentation process from design to commercial release
+Strong organizational, writing, interviewing, and verbal communication skills. 
+Experience with XML/DITA and content management systems, preferably IBM DITA, ID Workbench, and the IDCMS system.
+Preferred experience with Adobe Framemaker.
+Demonstrated ability to turn complex concepts into understandable documentation, presentations, and training materials.
+Experience developing user-friendly, custom-facing knowledge for a variety of audiences and learners.
+Ability to multi-task, work with minimal supervision, and successfully interact with others at all levels.
+Demonstrates excellent judgment in prioritizing own work and communicating about workload and schedule with others.
+Ability to work independently, with minimal supervision
+Provides estimates and target dates for all assignments.
+Meets deadlines, notifying manager of issues and risk.
+Organizes material and complete writing assignment according to set standards regarding order, clarity, conciseness, style and terminology.  
+Excellent creative and technical writing, editing and coordination skills
+Stays abreast of technical communications trends and authoring software. 
+Strong problem-solving and analytical skills. 
+
+Education
+
+Bachelor's degree in English, Journalism, Computer Science or Engineering or equivalent experience, with demonstrated expertise in Instructional Design, Technical Writing, or its equivalent.
+
+18
+Web Content Manager 
+BuyLEDs - Dallas, TX 
+$50,000 a year
+Web / Ecommerce Content Manager
+LED Lighting Company - Dallas, TX
+
+We are looking for a dynamic, self-motivated individual with experience and skills in web content management, writing and editing for the web, graphic design and site management. The website content manager will be responsible developing the voice for all aspects of our online presence. In addition to writing, editing, and proofreading online content, this person will also be responsible for crafting site promotions, email newsletters, and online outreach campaigns. The content manager will work closely with technical, business development, and marketing members of our organization, so strong communication skills are needed. Tasks require a strong attention to detail and ability to work under tight deadlines. 90-day contract to hire. Looking for an applicant that can start immediately.
+Responsibilities
+
+Create, develop and manage content for our primary ecommerce site (requires working with WooCommerce content management system), ecommerce marketplaces
+Maintain a consistent look and feel throughout all Ecommerce channels, including www site, as well as our Amazon and Ebay stores, and other marketplaces.
+Manage content in the product catalog to reflect changes in features, price, images, etc
+Ensure all content is on-brand, consistent in terms of style, quality, and tone of voice
+Working with a cross-departmental team, maintain and develop the master content calendar for all web properties
+Design, develop, and/or oversee creation of brand websites for new product lines
+Monitor web traffic/behavior, site conversions, and provide recommendations on improvements
+Manage all customer acquisition channels, including Paid Search, Organic Search, Social Media, and Affiliate marketing efforts
+Copyedit and proofread all web content
+Work with brand resources for site content such as photography, copy, events, PR, videos, etc
+Oversee freelancers, including writers, copyeditors, videographers, product photographers
+Seek new opportunities utilizing such resources as emerging web technologies, social media communication tools, and other internet best practices
+Brainstorm new and creative growth strategies
+Assure web-based information is archived for future needs and reference
+Keep current with emerging web technologies
+Track and report on all site and marketplace metrics
+Work cooperatively with key team members, clients and vendors
+Required Skills
+
+Strong communication skills (written and verbal) with various audiences
+Advanced knowledge of HTML and understanding of WooCommerce or other content management systems
+Associates or Bachelors degree in Marketing, IT, Web Development, English, Journalism, Technical Writing or another related field
+Ability to manage multiple projects in a fast-paced, deadline-driven environment
+Basic Adobe CS and graphic design skills
+Proven ability to build consensus and work effectively within a cross-departmental team
+1-5 years of relevant job experience - marketing and/or ecommerce or something so interesting we would just want to talk to you about your experience
+Digital content, ecommerce and usability experience
+Current on technology and digital trends and best practices
+Highly creative with experience identifying target audiences and devising digital campaigns that engage, inform and motivate
+You have a "good eye" for a properly laid out web page
+You can converse fluently on topics of Acquisition, Retention, and Conversion in the consumer e-commerce environment
+Experience setting up and optimizing Google Adwords campaigns
+Expert problem solving and troubleshooting skills
+Experience using a content management system (WooCommerce a plus)
+Web analytics experience (Google Analytics preferred)
+Attention to detail - you know how to balance being meticulous and getting things done
+Passion, Integrity and Energy!
+Job Type: Full-time
+
+Salary: $50,000.00 /year
+
+Local candidates only:
+
+Dallas, TX
+Required experience:
+
+Marketing, Ecommerce, IT, Digital Marketing, Technical / Creative Writing, HTML: 1 year
+Required education:
+
+Associate
+
+19
+Senior Writer – Documentation and Training
+At Apptricity, we are pioneering radical shifts in the enterprise software experience. Apptricity Corporation provides innovative mobile enterprise software for supply chain management and integrated financial management to organizations worldwide. Apptricity software and solutions mobilize any enterprise with unprecedented levels of real-time information and business intelligence so management has visibility into every action and transaction within the enterprise and among its partners, customers and suppliers. Powered by Apptricity JetStream platform, our solutions enhance legacy enterprise applications and extend the value of information technology investments. Our platform enables us to address the universal objectives of business, government and the military with accelerated business processes and command visibility.
+
+Apptricity is searching for a results oriented, multi-faceted writer to produce quality functional and technical documents for a wide range of audiences, while leading and mentoring a team of other writers.
+
+The ideal candidate will have the expertise and experience required to produce accurate, on-time software documentation including user manuals, administration guides, help content, installation guides, quick reference guides and other internal and external documents. In addition, this person will also write scenario based, hands-on training materials, both teacher and student guides, used in instructor-led, multi-day classes. Overall, this person will be the lead writer for all customer-facing educational materials to help determine the voice of Apptricity regarding how our products work and should be used.
+
+Candidates must be self-guided learners, able to work successfully with minimal guidance and direction, rapidly learn a wide variety of software applications then write and properly edit compelling and complete documentation, in a variety of formats, in a timely manner.
+
+Responsibilities:
+Lead the direction and timelines for all customer-facing education materials, both product documentation and instructor-led training
+Make decisions on additions and changes to the corporate documentation style guide
+Become a Subject Matter Expert (SME) by conducting thorough research and building quality relationships with other internal and external SMEs
+Produce and deliver technically accurate, high quality, on-time documentation based on a thorough understanding of internal/external client expectations
+Write in a variety of formats and voices, depending on the desired audience (i.e., instructor-led training, user guides, administrative documentation, quick reference guides, etc.)
+Update existing materials and write new materials from scratch
+Review documentation written by all other writers, ensuring consistency, accuracy and formatting meets the style guide standards
+Work closely with other internal groups to ensure information is accurate and consistent
+Track and report project status for all writers at predetermined intervals, as well as departmental briefings to senior management as requested
+Manage and track team activities, priorities, roadblocks and other details
+Job Requirements:
+Bachelor's Degree is required
+Minimum of five years’ experience writing a mix of software documentation guides and instructor-led training materials
+Minimum of one year leading a team of writers, setting the direction, voice and timelines
+Superior writing skills explaining and teaching software applications
+Detail-oriented and meticulous to ensure consistency in the writing process
+Knowledge of writing best practices and the Software Development Life Cycle (SDLC)
+Ability to learn new software products quickly, write about them clearly and edit other writer’s materials successfully
+Ability to successfully prioritize, organize and manage several tasks simultaneously
+Ability to effectively understand and communicate complex business software processes
+Strong interpersonal skills with the ability to lead a team by example, work with other teams across the company, and work independently – as each is required
+Effective time management and project management skills
+Ability to accurately estimate and meet project timelines
+Strong work ethic and positive attitude
+Advanced level experience with a variety of documentation tools such as FrameMaker, Robohelp, PowerPoint, and SnagIT
+Additionally, experience delivering instructor-led training, writing and editing e-learning modules, and/or knowledge of Learning Management Systems (LMS) a definite plus
+- See more at: http://www.apptricity.com/about/careers/senior-writer-documentation-training.html#sthash.a6g5ogD9.dpuf
+
+20
+Technical Writer
+RamQuest Software,  Plano, TX Posted 4 Days Ago
+Apply Now   Save  Email  Share Toggle Dropdown
+Robohelp, adobe, tech writer
+Full Time Depends On Experience
+Travel not required Telecommuting not available
+Job Description
+
+RamQuest, Inc. is a Texas-based corporation and has served as a cornerstone in the title industry since 1991. RamQuest products are currently in use for title closings in all 50 states and we've enabled customers of all sizes to achieve extraordinary results by helping them apply people, processes and technology to drive business results.  
+
+At RamQuest, we take pride in our long-standing reputation for delivering world class business solutions to our customers. RamQuest is the premier provider of business solutions to title and settlement agents.
+
+Competing in business today is tough and we know that in addition to the industry's best solution, each of our customers need the experience we can offer as a business partner to stand with them, support them and back their business.
+
+RamQuest brings our entire team of title, technology and business experts to each and every customer engagement. Armed with hundreds of years of combined experience and the knowledge gained from thousands of unique customer implementations the entire RamQuest team is committed success.
+
+Job Description:
+
+Assist in collecting and organizing information required for creation of user’s manuals, internal and external training materials, installation guides, proposals, webhelp and reports. Develop and produce accurate written documentation based on company software.
+
+Must be able to work with other SME’s in order to gather the required information for the documentation. Also, must be able to work collaboratively with other employees in order to meet company deadlines
+
+Job Duties:
+
+Analyze and interpret highly specialized technical information to compose detailed documentation and technical manuals
+Review documentation for entire project to verify validity, accuracy, completeness of content, and consistency with order, style, terminology, and client standards according to company branding requirements and templates
+Consult with other SMEs to gather required information to produce accurate and consistent documentation
+Assist others with technical interpretations and appropriate phrasing for document content
+Assist with review and development of e-learning materials and content for internal and external users by using software such as StoryLine or Articulate Studio
+Plan documentation development process and coordinates writing projects
+Ability to use and navigate webhelp software such as Adobe RoboHelp
+Additional Information:
+
+This is a direct hire opportunity with RamQuest
+We offer Health, Dental, Vision, and Life Insurance. Short-term/Long-term Disability coverage, and Retirement options
+Paid vacation, paid sick, and paid company holidays
+Conveniently located in Plano, TX off of the Dallas North Tollway and Plano Parkway
+Business hours are 8am - 5pm with some flexibility
+Casual dress code
+
+21
+Technical Writer – Solution Enablement
+ 
+OneSource Virtual, and its partner Workday, are leading the charge to fundamentally change the traditional ERP solutions industry. For the first time, a viable, function rich, cloud-based solution is a reality for companies of all sizes thanks to Workday’s technology. OneSource Virtual is the preferred Workday partner customers have come to rely upon for strategic, rapid and quality solutions. 
+ 
+Rethink what is possible. OneSource Virtual configures Workday from the ground up, utilizing contemporary technology and implementation tactics to solve problems plaguing our customers with their traditional ERP system. By rethinking enterprise applications and HCM solutions and addressing the way that people work today, OneSource Virtual is equipped to change, grow, and innovate for our customer’s business.
+ 
+We are looking for a seasoned technical writer who is inspired and motivated to be part of the revolution of the HCM/Financial system industry. Culture matters. We have a great culture that values big ideas, creative thinking and teamwork. If you’ve “been there” and “done that”, and are looking for a better way, OneSource Virtual may be for you.
+ 
+Summary:
+ 
+Our Global Consulting team as part of Professional Services helps OneSource Virtual customers align strategic and organizational change objectives to drive value in their Workday investment. This high performing team helps customers with strategic consulting, HR transformation, road-mapping, user adoption, organizational change management design as well as overall impact and gap analysis. The group functions to optimize and drive adoption of Workday in the customer’s environment with strategic consulting and engaging change management initiatives to ensure the value delivered leads to successful renewal of the customer.
+ 
+Responsibilities:
+ 
+This position calls for a talented individual who is extremely detail-oriented in writing technical manuals and supporting documentation for our Change Management and customers:
+ 
+Primary role as part of the solution enablement team is to create technical manuals and quick reference guides for our Change Management customers
+Understand specific customer requirements and manage multiple projects in tandem
+Assist with the development of best practice library used by the Solution Management and Solution Delivery teams
+Have an overview understanding of HRMS/HRIS and Workday solutions in order to create relevant documents
+Assist with other internal or external documentation related tasks as needed
+Maintain an organized archive of all customer documentation and processes with clarity and revision control as well creating templates for common tasks
+Identify areas of improvement (e.g. process, styles, formats, instructional content delivery) and drive continuous improvement initiatives
+Maintain knowledge of new and leading-edge industry tools and design ideas in order to maintain OSV competitive differentiation
+Contribute to the design and implementation of new internal and external processes for managing workflow to ensure efficiency and quality
+Other duties as assigned by manager
+ 
+Requirements:
+ 
+Proven background in delivering quality documents, often with demanding deadlines
+Ability to be highly process oriented with excellent listening skills to follow directions across multiple work streams
+Self-auditing with high degree of style, quality and precision
+Multi-tasking self-starter who can follow instructions and has the drive and organizational skills to manage across timelines and deliverables
+Great keyboarding skills with ability to handle repetitive document writing
+Meticulous attention to detail and quality to produce work with high degree of accuracy
+Strong interpersonal skills with ability to learn new concepts quickly and manage multiple projects at once; comfortable with shifting priorities and schedules
+Familiar with industry technical writing and editorial standards
+Exceptional written and verbal communication skills
+ 
+Experience:
+At least 3-5 years’ experience in a technical documentation
+Proven expertise in delivering projects for end customers
+Preferred Bachelor of Arts degree ideally in English or Technical Writing
+Essential Tools – Adobe Creative Suite & Captivate, MS Office Suite
+Plus Tools - Camtasia, Acrobat, Mac Based PC Usage
+Office position, located in Dallas, TX
+
+22
+Technical Writer - Enterprise Network Infrastructure 
+Select Group, Inc - Coppell, TX 
+$50 an hour
+Major Financial Corporation - seeking consultant Tech Writer for documentation of Enterprise Network Infrastructure.
+
+You need to have specific knowledge & experience documenting network infrastructure
+
+The Technical Writer produces high-quality documentation, including creating original content and copyediting content created by Network Engineers and Network Architects.
+Immediate opportunity for an in person interview.
+
+Principal Responsibilities:
+- Author, edit, and aggregate a variety of document types including, but not restricted to, conceptual, logical, and physical network diagrams; configuration templates; run books; strategy and roadmap; executive presentations; service design packages; and SLAs and OLAs
+.- Participate in user research activities (such as usability studies, user interviews, and contextual inquiry) to build a deep and rich understanding of our customers
+.- Analyze data, prioritize deadlines, identify risks, and communicate results to the appropriate stakeholders
+.- Contribute to product-wide design decisions and documentation improvement discussions
+.- Create, participate, and deliver presentations related to documentation.
+- Handle simple to complex documentation escalations.
+
+Knowledge and Skills Required:
+- The ability to confidently interview subject matter experts (SMEs) to gather content.- The ability to critically assess and fix logical or rhetorical flaws in a narrative.
+- The ability to quickly learn and apply technical concepts.
+- The flexibility to adapt quickly to changing environments.
+- Basic ability to create appropriate visualizations of complex technical topics
+.- Strong analytical and problem-solving skills.
+- Must possess an understanding of enterprise network infrastructure.
+
+Education, Training &/or Certification:
+- Four-year degree in a writing or technical discipline preferred
+
+- 5+ years of technical writing experience for both internal and external audiences.- Extensive, proven experience performing technical writing for network infrastructure environments.
+- Bachelor’s degree in English, Communications or writing-related field preferred.- Experience as project manager or key participant in process improvement projects a plus.
+
+Salary: $50.00 /hour
+
+23
+Job Title Knowledge and Document Mgmt Specialist
+Location 8796 - Store Support Center - Irving, TX 75038 US (Primary)
+Education Some College Coursework Completed
+Exemption Type
+Job Description
+JOB SUMMARY 
+The Knowledge & Document Management Coordinator of the Zale Contact Center will be responsible for the researching, and recommending all aspects of creating a knowledge database. This individual will document customized content and develop search functionality to best educate and support team members. The successful candidate will bring an attention to detail, proactive attitude and a strategic mindset for capturing, organizing and publishing content. This position partners with all Contact Center areas including Guest Services, Guest Resolutions, Repair Sales, Technical Support, eCommerce as well as POS Implementation, etc. 
+
+
+ESSENTIAL DUTIES AND RESPONSIBILITIES
+
+Document creation to capture processes, policy and procedure
+Knowledge Management and Communication
+
+Hands on experience with content management and knowledgebase tools 
+Experienced technical writer with experience writing, editing and proofing of processes
+Establish a contact center knowledge/communication practice within the Zale Division, including tools, processes and procedures, metrics and measures designed to improve information accuracy, consistency and ease-of-use. 
+ 
+
+Information should include, but not be limited to:
+
+Brand, product, service information and updates
+Troubleshooting guides
+FAQs/Top 10 and similar
+What’s New and archive
+Approved training materials and curriculum 
+Participate in periodic Brand, Marketing/Product and IT update meetings to keep the group abreast of Company initiatives 
+Leverage Store Operations manuals and communications across the Zale Contact Center as appropriate
+Assist team members in finding information within the knowledgebase or document libraries, when needed
+
+Keep information current by continually transferring information received from the Contact Center into the knowledgebase in a timely basis
+Anticipate team member needs and services and participate in the continuous evolution of the knowledge database
+Manage content intake, including incoming production needs and other demands of the business 
+
+Edit internal and external articles and other content such as Web pages, processes, and marketing collateral; simplify content when necessary for clarity; ensure that final versions are up to standards and high quality
+Set and enforce standards for quality, scope, and usability of content training
+
+Assist establishing a Contact Center training practice at Zale, including tool development, processes and procedures documentation, metrics and measures 
+Develop, document and deploy all area training materials including; electronic based course, course handouts, study guides, tests, PowerPoint presentations, etc. Ensure all materials are updated and relevant –maintain library 
+Develop and execute training programs for Contact Center personnel. This may also include “Train the Trainer” programs for contact center Team Leaders and Supervisors
+Conduct classroom, on-the-job and individual training sessions as needed. Track and report on team member participation
+Partner with supervisory roles to provide, new hire training documentation and development opportunities for existing team members 
+
+Job Requirements
+QUALIFICATIONS
+
+Personal Characteristics
+
+Excellent interpersonal skills, written and verbal communication skills; proven ability to successfully build strong working relationships with customers and co-worker; to influence Contact Center operations  
+Intellectually curious; relentless in pursuit of insight
+Strong analytical and problem-solving skills, ability to analyze information, identify problems and develop action plans
+
+Contact Center Platforms
+
+Knowledge of products, services and reporting software pertaining to Contact Center desirable.
+Experience with software-based Contact Center solutions, especially Interactive Intelligence is highly desirable
+
+Computer / Application Skills
+
+Proficient with Microsoft Office applications including Word, Excel, PowerPoint, Visio
+Working knowledge of Captivate or other screen-capture application.
+Working knowledge of Learning Management and Knowledge Management solutions. 
+Working knowledge of HTML/ Java Script. 
+Expertise in Microsoft office, more specifically with Power Point and Word. 
+
+Project Planning knowledge and methods are desirable 
+
+EDUCATION and/or EXPERIENCE
+
+Bachelor’s degree required.  
+Minimum of 3 years contact center experience with 2 years involved in document production and organization functions
+Practical Experience gained in a Call Center environment
+
+
+PHYSICAL DEMANDS 
+
+Long periods of time spent sitting or standing while working with computer.
+Much of the work shift is spent viewing a computer monitor and using a keyboard.
+The ability to work through stressful situations with team members or customers.  
+May require overtime and/or weekend work.
+

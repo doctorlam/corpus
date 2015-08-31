@@ -1,0 +1,1703 @@
+Job Title: IT Specialist (DATAMGT) - DE
+Department: Department Of Commerce Agency: Patent and Trademark Office
+Job Announcement Number: CIO-2015-0185
+SALARY RANGE:                              $90,823.00 to $118,069.00 / Per Year
+OPEN PERIOD:                                 Thursday, August 13, 2015 to Thursday, August 27, 2015
+SERIES & GRADE:                            GS-2210-13
+POSITION INFORMATION:                This is a Full-Time, Permanent - Career/Career-Conditional
+appointment in the Competitive Service.
+PROMOTION POTENTIAL:                  13
+DUTY LOCATIONS:                           FEW vacancies - Alexandria, VA
+WHO MAY APPLY:                             Applications will be accepted from all United States 
+Citizens and
+Nationals.
+SECURITY CLEARANCE:                    Public Trust - Background Investigation SUPERVISORY STATUS:  
+                  No
+JOB SUMMARY:
+About the Agency
+
+The U.S. Patent and Trademark Office (USPTO) has been serving the economic interests of America for 
+more than 200 years. We are responsible for granting US intellectual property rights for patents 
+and trademarks. Our efforts have provided inventors exclusive rights over their discoveries. It's 
+an effort that continues to contribute to a strong global economy, to encourage investment in 
+innovation and to cultivate an entrepreneurial spirit for the 21st century. The USPTO is 
+headquartered in Alexandria, Virginia, and has over 12,000 employees, including engineers, 
+scientists, attorneys, analysts, IT specialists, etc. all dedicated to accomplishing the USPTO’s 
+mission, vision, strategic goals and guiding principles. For more information about the USPTO, 
+please visit the USPTO Careers Website.
+This position is also being announced under the USPTO’s Merit Promotion Program, the Job 
+Announcement Number is CIO-2015-0187. Please review that announcement to determine if you are 
+eligible for consideration under the Merit Promotion Program.
+
+The Chief Information Officer (CIO) is the principal advisor to the Under Secretary and Director on 
+the application of information technology (IT) to support and improve the Agency’s business 
+processes.
+
+The Enterprise Data Architecture Division (EDAD) provides strategic direction, analysis, decision 
+support, and data architecture support to deliver practical, timely, and cost effective solutions 
+for our customers and the agency. The EDAD leads the data architectural designs and creation of 
+associated artifacts for new projects, as well as, existing AIS enhancement projects that comprise 
+significant architectural design impacts. For all other projects, the EDAD reviews the data 
+architecture designs, along with the applicable sections of solution architecture documents to 
+ensure compliance with USPTO data architectural standards and direction, as well as, FEA guidance 
+and provide comments and recommendations.
+TRAVEL REQUIRED
+Not Required
+RELOCATION AUTHORIZED
+No
+KEY REQUIREMENTS
+You must be a U.S. Citizen or National.
+Your resume and question responses must demonstrate the job-related KSAs. You must meet the 
+definition of specialized experience.
+
+DUTIES:
+This position serves as a skilled Data Architect in the Enterprise Data Architecture Division, and 
+is a technical specialist in eXtensible Markup Language (XML).
+
+The Data Architect will perform assignments primarily related to XML, but is expected to be able to 
+also perform limited assignments in the other data architecture related functions of the EDB.
+
+eXtensible Markup Language:
+
+Creates or reviews and approves XML Resources (i.e., Document Type Definitions (DTDs), XML Schemas 
+Definitions, and Web Services Description Language (WSDL)) using USPTO approved tools, techniques, 
+and standards and reusing applicable XML standard structures.
+
+Uses eXtensible Stylesheet Language to convert/transform XML documents into various formats, such 
+as HTML, XHTML, PDF, or another XML document.
+
+Establishes foundational XML resources for business areas to supports Enterprise XML 
+Standardization at USPTO and internationally.
+
+Exports data from COTS products into XML structures.
+
+Updates content by checking-in and checking-out resources, using the XML resource repository; 
+Maintains the XML resource repository by supporting software upgrades;
+Conducts tests and evaluates XML-related technologies to support USPTO projects.
+
+Works with and provides support to the Information Standardization Technical Working Group. 
+Analyzes business requirements to determine applicable data requirements.
+Supports agency-wide efforts to define and share data used to conduct USPTO business, along with 
+representing the Enterprise Data Branch on multiple projects.
+
+Supports data architecture aspects for assigned projects during the concept, definition, design, 
+development, and deployment phases. Projects may include new Information Technology solutions, 
+including data warehouses, data marts and business functions and services.
+
+Assists in the development and maintains a formal description of the data and data structures, 
+which will include eXtensible Markup Language (XML) Resources (DTDs, XML Schemas Definitions, and 
+WSDL) and may include data models, database designs, data flow diagrams and interface diagrams. 
+Provides technical data architecture support to system developers.
+
+Creates and maintains data architecture artifacts that support IT solutions.
+
+Works with team leaders, senior IT specialists, supervisors, and customers to define project and 
+task requirements. Assists in determining resource requirements for IT projects, and assists in 
+drafting statements of work, task orders, and other acquisition related documentation necessary to 
+effectively obtain and manage contractor-supported activities. Independently plans, implements, 
+reports on, and evaluates project tasks.
+
+Responds to and resolves problems with data architecture issues.
+
+Maintains the agency-wide data architecture policies, standards, and procedures (e.g., XML and Web 
+Services Standard and Database Design Standard).
+
+Ensures project plans include required data architecture activities and resources to address all 
+aspects of the data over the entire life cycle of the IT solution.
+
+Provides user training for the related data architecture tools and technology.
+
+Researching technical issues and providing input into technical advice and advisory services (e.g., 
+analysis, design, and review), along with preparing technical documentation on data architecture 
+related trends, issues, and tools.
+
+Provides technical support as required to the USPTO directorates to establish and maintain 
+effective data architectures.
+
+May evaluate vendor or employee developed software to assure that it will provide the desired data 
+architecture results and operating capabilities anticipated.
+
+May participate in special small projects and may serve as a project leader.
+
+QUALIFICATIONS REQUIRED:
+
+You must meet the United States Office of Personnel Management's (OPM) qualification requirements 
+(including specialized experience and/or educational requirements) for the advertised position. You 
+must meet all eligibility and qualifications requirements by the closing date of the job 
+announcement. Additional information on the qualification requirements is outlined in the OPM 
+Qualifications Standards Handbook of General Schedule Positions. It is available for your review on 
+the OPM Website.
+
+Specialized Experience: is experience that has equipped you with the particular knowledge, skills 
+and abilities to perform successfully the duties of the position, and that is typically in or 
+related to the position to be filled. To be creditable, specialized experience must have been 
+equivalent to at least the next lower grade level. Candidates for the GS-13 grade level must have 
+at least 52 weeks of specialized experience equivalent to the next lower GS-12 grade level in the 
+Federal service. Specialized experience for this position includes experience with all the 
+following skill sets:
+
+Skill Set 1 - Job experience creating and updating eXtensible Markup Language (XML) Schemas, Web 
+Services, optionally Document Type Definitions (DTDs), and JavaScript Object Notation (JSON) 
+Objects;
+
+AND
+
+Skill Set 2 - Job experience in the developing of data architecture standards; AND
+Skill Set 3 - Job experience supporting implementation of XML technologies, which include XML 
+Schemas, Web Services and optionally XML DTDs.
+
+In addition to meeting specialized experience requirements, applicants must have the following 
+IT-related competencies:
+
+Attention to Detail - Is thorough when performing work and conscientious about attending to detail.
+
+Customer Service - Works with business partners and customers (that is, any individuals who use or 
+receive the services or products that your work unit produces, including the general public, 
+individuals who work in the agency, other agencies, or organizations outside the Government) to 
+assess their needs, provide information or assistance, resolve their problems, or satisfy their 
+expectations; knows about available products and services; is committed to providing quality 
+products and services.
+
+Communication - Expresses information (for example, ideas or facts) to individuals or groups 
+effectively, taking into account the audience and nature of the information (for example, 
+technical, sensitive, controversial); makes clear and convincing oral presentations; listens to 
+others, attends to nonverbal cues, and responds appropriately. Written communication is clear, 
+concise and avoids jargon.
+
+Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound 
+judgment to generate and evaluate alternatives, and to make recommendations.
+Experience refers to paid and unpaid experience, including volunteer work done through National 
+Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; 
+philanthropic; religious; spiritual; community, student, social). Volunteer work helps build 
+critical competencies, knowledge, and skills and can provide valuable training and experience that 
+translates directly to paid employment. You will receive credit for all qualifying experience, 
+including volunteer experience.
+Education may not be substituted for experience at this grade level.
+
+
+Job Title: Interdisciplinary (Recent Graduate)
+Department: Department of the Army Agency: U.S. Army Corps of Engineers
+Job Announcement Number: SWHB15902440/1480834PR
+SALARY RANGE:                              $41,827.00 to $54,370.00 / Per Year
+OPEN PERIOD:                                 Tuesday, August 25, 2015 to Thursday, September 3, 
+2015
+SERIES & GRADE:                            GS-0401/0408/0819/1301-07
+POSITION INFORMATION:                Full Time - Recent Graduates PROMOTION POTENTIAL:              
+    11
+DUTY LOCATIONS:                           2 vacancies in the following location: Fort Worth, TX
+WHO MAY APPLY:                             RECENT GRADUATE
+SECURITY CLEARANCE:                    Other
+SUPERVISORY STATUS:                    No JOB SUMMARY:
+
+Civilian employees serve a vital role in supporting the Army mission.  They provide the skills that 
+are not readily available in the military, but crucial to support military operations.  The Army 
+integrates the talents and skills of its military and civilian members to form a Total Army.
+About the Position:
+Click here for more information on Pathways program participants.
+Position(s) will be filled under the Department of the Army Recent Graduates Program.
+
+The Department of the Army Recent Graduates Program affords developmental experiences in the 
+Department of Army intended to promote possible careers in the civil service to individuals who 
+have recently graduated from qualifying educational institutions or programs. Successful applicants 
+are placed in a dynamic, developmental program with the potential to lead to a civil service career 
+in the Federal Government.
+
+After Program completion, Department of the Army Recent Graduates MAY be converted to a permanent 
+position. To be eligible for conversion to a permanent or term position, Recent Graduates must:
+Successfully completed at least 1-year of continuous service in addition to all requirements of the 
+Program. Demonstrate successful job performance.
+Meet the Office of Personnel Management’s qualifications for the position to which the Recent 
+Graduate will be converted
+
+To learn more, please visit: http://www.opm.gov/HiringReform/Pathways/program/graduates/. 
+Department of the Army Recent Graduates Program Eligibles
+Positions are open to:
+
+Recent graduates who have completed, within the previous two years, a qualifying associates, 
+bachelors, masters, professional, doctorate, vocational or technical degree or certificate from a 
+qualifying educational institution.
+
+Veterans unable to apply within two years of receiving their degree, due to military service 
+obligation, have as much as six years after degree completion to apply.
+
+TRAVEL REQUIRED
+Occasional Travel Business Travel 25%
+
+RELOCATION AUTHORIZED
+No
+
+DUTIES:
+You will use knowledge of natural, physical, and social sciences theories, practices, and 
+methodologies, as they relate to the natural and human environment. You will perform the following 
+duties below:
+
+•Evaluate all levels and types of Department of the Army (DA) permit application andcompliance 
+cases (including those complex and/or controversial in nature) for activities in waters of the 
+United States and/or navigable waters of the United States.
+•Develop and manage general permits (GP's).
+•Develop procedures to implement directives from higher authority.
+•Serve as the District representative on groups and task forces with missions of interest to the 
+District and/or regulatory program.
+
+QUALIFICATIONS REQUIRED:
+
+Specialized experience: To Qualify applicants must possess one year of specialized experience 
+equivalent to the next lower grade/level (GS-5). Specialized experience is defined as: (1) 
+experience in related laws, policies and regulations dealing with permit applications (2) 
+experience with section 404 and or section 10 permit application procedures.
+
+You will be evaluated on the basis of your level of competency (knowledge, skills, abilities)in the 
+following areas:
+
+REGULATORY PERMIT TECHNICAL OVERVIEW
+ORAL AND WRITTEN COMMUNICATION
+
+EDUCATION SUBSTUITION:
+
+Some federal jobs allow you to substitute your education for the required experience in order to 
+qualify. For this job, you may qualify if your education meets the definitions below:
+
+AT GS-7 level
+
+1 full year of graduate level education or superior academic achievement degree.
+
+NOTE: ALL APPLICANTS MUST PROVIDE A COPY OF YOUR TRANSCRIPTS SHOWING CONFERRED DEGREE
+ALONG WITH APPLICANT PACKAGE.
+
+BASIC EDUCATION REQUIREMENT:
+0819 and 0810 Education requirement can be view below:
+
+https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualificati
+on-standards/0800/environmental- engineering-series-0819/
+
+0401 Education requirement can be view below:
+
+https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualificati
+on-standards/0400/general-natural- resources-management-and-biological-sciences-series-0401/
+
+0408 Education requirement can be view below:
+
+https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualificati
+on-standards/0400/ecology-series-0408/
+
+1301 Education requirement can be view below:
+
+https://www.opm.gov/policy-data-oversight/classification-qualifications/general-schedule-qualificati
+on-standards/1300/general-physical- science-series-1301/
+
+Only degrees from an accredited college or university recognized by the Department of Education are 
+acceptable to meet positive education requirements or to substitute education for experience. For 
+additional information, please go to the Office of Personnel Management (OPM) and U.S. Department 
+of Education websites at - http://www.opm.gov/qualifications and http://www.ed.gov/admins/finaid/accred
+/index.html Foreign education must be evaluated for U.S. equivalency in order to be considered for this 
+position. Please include this information in your resume.
+Other Requirements:
+Click here for more information.
+Male applicants born after December 31, 1959 must complete a Pre-Employment Certification Statement 
+for Selective Service Registration.
+You will be required to provide proof of U.S. Citizenship. One year trial/probationary period may 
+be required.
+Direct Deposit of pay is required.
+Recent Graduates must sign a Participant Agreement with the Agency.
+
+Job Title: Interdisciplinary (0808)
+Department: Department of the Army Agency: U.S. Army Corps of Engineers
+Job Announcement Number: SWHB158990001482920D
+SALARY RANGE:                              $83,468.00 to $108,507.00 / Per Year
+OPEN PERIOD:                                 Wednesday, August 19, 2015 to Friday, August 28, 2015
+SERIES & GRADE:                            GS-0808-13
+POSITION INFORMATION:                Full Time - Permanent
+DUTY LOCATIONS:                           1 vacancy in the following location: Little Rock, AR
+WHO MAY APPLY:                             United States Citizens and ICTAP
+SECURITY CLEARANCE:                    Not Applicable
+SUPERVISORY STATUS:                    No JOB SUMMARY:
+
+Looking for a great place to work? The U.S. Army Corps of Engineers (USACE or "The Corps") is one 
+of the best in America! In 2015, USACE ranked #128 out of 500 employers on Forbes' "America's Best 
+Employers" list. From this list, the Corps ranked #10 in the government services industry, #6 in 
+the federal government, and #8 in the engineering field. Follow this link for more information 
+about the U.S. Army Corps of Engineers.
+
+Civilian employees serve a vital role in supporting the Army mission. They provide the skills not 
+readily available in the military, but crucial to support military operations. The U.S. Army Corps 
+of Engineers is an innovative,   transformative organization providing engineering solutions to 
+customers worldwide. Working at the Corps as a civilian employee means making a direct contribution 
+to war fighters and their families; supporting overseas contingency operations; developing 
+technology and systems that save the lives of soldiers and civilians; providing disaster relief; 
+and protecting and enhancing the environment and the national economy.
+
+About the Position:
+This position is with US Army Corps of Engineers, Southwestern Division, Little Rock District, 
+Programs and Project Management Division in Little Rock, AR.
+
+NOTE: There is 1 vacancy in this Branch. Job Announcement Number SWHB158990001482707D is open to 
+accept applications for Social, Biological, and Physical Science disciplines. Job Announcement 
+Number SWHB158990001482794D is open to accept applications for the Engineering disciplines.
+Who May Apply:
+
+U.S. Citizens
+Eligible due to Interagency Career Transition Assistance Program (ICTAP)
+TRAVEL REQUIRED
+25% or Greater
+Business Travel (TDY) is required 25% of the time
+RELOCATION AUTHORIZED
+No
+
+KEY REQUIREMENTS
+Financial Disclosure is required, OGE-450 Personnel security investigation may be required
+DUTIES:
+
+You will serve as the Project Manager representing the District Commander and serve as the district 
+primary point of contact with sponsors/customers throughout project life-cycle. This position works 
+within Programs & Project Management Division, responsible for renovation, restoration, and 
+modernization of military medical facilities. Duties of the position include but are not limited 
+to:
+
+Review and approve operating plans and approaches, establish overall project priorities, 
+procedures, and short/long range goals Review and evaluate status of projects for attainment of objectives
+Initiate, manage, administer, and approve plans that translate project objectives into completed 
+functional phases Lead project teams to resolve highly difficult technical & administrative project problems; obtain 
+Project Review Board/supervisory approval as required Provide status to customers and internal leadership of project progress, issues, and their resolutions along with any impacts on costs Participate with key district personnel, in defining project goals and preparing a master plan for accomplishment Implement overall project guidance and policy Adapt and interpret policy to assure uniform and balanced projects within the framework of District policies, programs, and objectives
+
+QUALIFICATIONS REQUIRED:
+
+In order to qualify, you must meet the education AND experience requirements described below. Your 
+resume must clearly describe your relevant experience.  Your transcripts are required as part of 
+your application.  Additional information about transcripts is in this document.
+
+Experience required:
+
+Experience refers to paid and unpaid experience, including volunteer work done through National 
+Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; 
+philanthropic; religious; spiritual; community; student; social). You will receive credit for all 
+qualifying experience, including volunteer experience.
+
+To qualify based on your experience, your resume must describe at least one year of experience 
+which prepared you to do the work in this job. Specialized experience is defined as: Managing 
+design-build construction, renovation or restoration projects for military facilities. AND 
+Evaluating contract modifications that affect project schedule or cost.
+AND Inspecting contractor operations to determine compliance with terms. This definition of 
+specialized experience is typical of work performed at the next lower grade/level position in the 
+federal service (GS-12).
+You will be evaluated on the basis of your level of competency (knowledge, skills, abilities) in 
+the following areas: Technical Competence
+Project Management
+Contracting Communication
+
+Some federal jobs allow you to substitute your education for the required experience in order to 
+qualify. For this job, you must meet the qualification requirement using experience alone--no 
+substitution of education for experience is permitted.
+
+In addition to the specialized experience, you must also meet the basic education requirement, 
+described below. BASIC EDUCATION REQUIREMENT:
+1. Degree in architecture; or related field that included 60 semester hours of course work in 
+architecture or related disciplines of which at least (1) 30 semester hours were in architectural 
+design, and (2) 6 semester hours were in each of the following: structural technology, properties 
+of materials and methods of construction, and environmental control systems.
+
+OR
+
+2. Combination of education and experience -- college-level education, training, and/or technical 
+experience that furnished (1) a thorough knowledge of the arts and sciences underlying professional 
+architecture, and (2) a good understanding, both theoretical and practical, of the architectural 
+principles, methods, and techniques and their applications to the design and construction or 
+improvement of buildings. The adequacy of such background must be demonstrated by at least one of 
+the following:
+
+A) Related Curriculum: Degree in architectural engineering may be accepted as satisfying in full 
+the basic requirements, provided the completed course work in architectural engineering provided 
+knowledge, skills, and  abilities substantially equivalent to those provided in the courses 
+specified in paragraph 1. The curriculum for a degree in either architecture or architectural 
+engineering covers function, esthetics, site, structure, economics, mechanical- electrical, and 
+other engineering problems related to the design and construction of buildings primarily (but not 
+exclusively) intended to house human activities. The courses required for a degree in architecture 
+generally place emphasis upon planning, esthetics, and materials and methods of construction, while 
+the courses for an architectural engineering degree place equal or greater weight on the technical 
+engineering aspects such as structural systems, mechanical systems, and the properties of 
+materials. Because of this difference in emphasis, persons with degrees in architecture may have a 
+preference for work assignments that offer greater opportunities for them to express their artistic 
+and creative abilities. As a result, they may be more concerned with planning and design aspects of 
+architecture, and persons with degrees in architectural engineering may be more engaged in aspects 
+emphasizing technical engineering considerations.
+
+OR
+
+B) Experience: An applicant lacking a degree in architecture must have had l year of experience in 
+an architect's office or in architectural work for each year short of graduation from a program of 
+study in architecture. In the absence of college courses, 5 years of such experience is required. 
+This experience must have demonstrated that the applicant has acquired a thorough knowledge of the 
+fundamental principles and theories of professional architecture.
+
+NOTE: You must submit a copy of your transcripts at the time of application.
+
+Other Requirements: Click here for expanded definitions.
+
+Male applicants born after December 31, 1959 must complete a Pre-Employment Certification Statement 
+for Selective Service Registration. You will be required to provide proof of U.S. Citizenship. One year trial/probationary period may 
+be required. Direct Deposit of Pay is Required.
+
+HOW YOU WILL BE EVALUATED:
+
+Your application package (resume, supporting documents, and responses to the questionnaire) will be 
+used to determine your eligibility, qualifications, and quality ranking for this position. Please 
+follow all instructions carefully. Errors or omissions may affect your rating or consideration for 
+employment.
+
+Basis for Rating: Qualified candidates will be assigned to one of three quality categories: Best 
+Qualified, Highly
+
+Qualified and Qualified. Applicants who are eligible for veterans' preference are listed ahead of 
+applicants who are not eligible for veterans' preference within each quality category.
+
+Best Qualified. Candidates in this category possess exceptional skills and experience to exceed 
+well above the minimum requirements for the announced position. Highly Qualified. Candidates in this category possess good skills and experience above the minimum requirements for the announced position. Qualified. Candidates in this category meet the minimum experience requirements for the announced position.
+
+Interagency Career Transition Assistance Program (ICTAP). If you are a Federal employee in the 
+competitive service and your agency has notified you in writing that you are a displaced employee 
+eligible for ICTAP consideration, you may receive selection priority. See Interagency Career 
+Transition Assistance Program (ICTAP) for more
+information. Additional information about the program is on OPM's Career Transition Resources 
+website.
+
+Job Title: Information Technology Specialist
+Department: Department Of Agriculture Agency: Agricultural Research Service
+Job Announcement Number: ARS-S15W-0437
+SALARY RANGE:                              $55,119.00 to $71,651.00 / Per Year
+OPEN PERIOD:                                 Tuesday, August 18, 2015 to Monday, August 31, 2015
+SERIES & GRADE:                            GS-2210-09
+POSITION INFORMATION:                Full-Time - Term
+PROMOTION POTENTIAL:                  09
+DUTY LOCATIONS:                           1 vacancy - Maricopa, AZ
+WHO MAY APPLY:                              US Citizens and Nationals; no prior Federal experience 
+is required.
+SECURITY CLEARANCE:                    Not Applicable
+SUPERVISORY STATUS:                    No JOB SUMMARY:
+
+This position is located in Agricultural Research Service (ARS) at US Arid Land Research Center, in 
+Maricopa, Arizona.
+
+The primary purpose of the position is to provide computer support by maintaining and upgrading 
+simulation models of agricultural crops and of associated application tools.  The employee is 
+responsible for technical, analytical, and advisory functions pertinent to the development and 
+maintenance of the models and tools.
+
+The mission of the organization is develop sustainable agricultural systems, protect natural 
+resources, and support rural communities in arid and semi-arid regions through interdisciplinary 
+research.
+
+This is a term, time-limited appointment with an initial duration no less than 13 months and can be 
+extended up to a total of 4 years.
+TRAVEL REQUIRED
+Not Required
+RELOCATION AUTHORIZED
+No
+KEY REQUIREMENTS
+Selective Service Registration is required for males born after 12/31/1959. You must be a US 
+Citizen or US National.
+DUTIES:
+Major Duties may include, but are not limited to:
+
+Analyzes and defines software requirements and specifications. Develops, implements, and maintains 
+software programs.
+Ensure that applications comply with regulatory requirements and are consistent with current and 
+planned infrastructure and data environments.
+
+Development and maintenance of the crop simulation models and associated tools as applied to wheat, 
+sorghum, cotton, grain legumes and bioenergy crops with emphasis on applications relating to 
+climate change.
+
+Participates on a team designing, developing, testing and implementing software.
+
+Provides technical and analytical advice on the development and maintenance of models related to 
+wheat, sorghum cotton, and bioenergy crop performance.
+
+QUALIFICATIONS REQUIRED:
+
+Applicants must meet all qualifications and eligibility requirements by 11:59 pm Eastern Time on 
+the closing date of the announcement including the following specialized experience and/or 
+education, as identified by grade level.
+
+IT COMPETENCIES:
+
+Applicants must have IT-related experience demonstrating each of the four competencies listed 
+below:
+
+Attention to Detail - Is thorough when performing work and conscientious about attending to detail. 
+Customer Service - Works with clients and customers (that is, any individuals who use or receive 
+the services or products that your work unit produces, including the general public, individuals 
+who work in the agency, other agencies, or organizations outside the Government) to assess their 
+needs, provide information or assistance, resolve their problems, or satisfy their expectations; knows about 
+available products and services; is committed to providing quality products and services.
+Oral Communication - Expresses information (for example, ideas or facts) to individuals or groups 
+effectively, taking into account the audience and nature of the information (for example, 
+technical, sensitive, controversial); makes clear and convincing oral presentations; listens to 
+others, attends to nonverbal cues, and responds appropriately.
+Problem Solving - Identifies problems; determines accuracy and relevance of information; uses sound 
+judgment to generate and evaluate alternatives, and to make recommendations.
+
+AND
+
+SPECIALIZED EXPERIENCE:
+
+At the GS-09:
+
+Qualifying experience for GS-09 includes one year of specialized experience comparable to GS-07 
+which is directly related to the work of this position and which has equipped the applicant with 
+the knowledge, skills, and abilities to perform successfully the duties of the position. For this 
+position, specialized experience is experience providing computer support by maintaining and 
+upgrading simulation models of agricultural crops and of associated application tools; and 
+designing, developing, testing, implementing, analyzing and maintaining software.
+
+OR
+
+Master’s degree or equivalent graduate degree or 2 full years of progressively higher level 
+graduate education leading to a master's degree or equivalent graduate degree in computer science, 
+engineering, information science, information systems management, mathematics, operations research, 
+statistics, or technology management or degree that provided a minimum of 24 semester hours in one 
+or more of the fields identified above and required the development or adaptation of applications, 
+systems or networks.
+
+OR
+A combination of education and experience as described above.
+May be subject to satisfactory completion of one year trial period.
+
+Job Title: Visual Information Specialist
+Department: Department Of Energy Agency: Department of Energy
+Job Announcement Number: DOE-HQ-15-EI-00686-CR
+SALARY RANGE:                              $76,378.00 to $99,296.00 / Per Year
+OPEN PERIOD:                                 Wednesday, August 12, 2015 to Wednesday, August 26, 
+2015
+SERIES & GRADE:                            GS-1084-12
+POSITION INFORMATION:                Full time - Permanent PROMOTION POTENTIAL:                  13
+DUTY LOCATIONS:                           1 vacancy in the following location: Washington DC, DC
+WHO MAY APPLY:                             ALL US CITIZENS
+SECURITY CLEARANCE:                    Public Trust - Background Investigation SUPERVISORY STATUS:  
+                  No
+JOB SUMMARY:
+About the Agency
+
+This position is located in the Office of Communications, U.S. Energy Information Administration 
+(EIA), and U.S. Department of Energy. EIA is the statistical and analytical agency within the U.S. 
+Department of Energy. EIA collects, analyzes, and disseminates independent and impartial energy 
+information to promote sound policymaking, efficient markets, and public understanding of energy 
+and its interaction with the economy and the environment. EIA is the Nation's premier source of 
+energy information and, by law, its data, analyses, and forecasts are independent of approval by 
+any other officer or employee of the U.S. Government.
+
+The Office of Communications (OC) supports the mission of EIA by managing the agency’s external 
+website, employee intranet, customer contact center, printing/publication/graphics programs, media 
+relations and press services, customer surveys and usability testing, energy education programs for 
+students and teachers, and is the EIA point of contact/coordinator for FOIA/GAO/IG liaison, 
+correspondence controlled at the Department level.
+TRAVEL REQUIRED
+Not Required
+RELOCATION AUTHORIZED
+No
+KEY REQUIREMENTS
+You must be a United States Citizen.
+This employer participates in the e-Verify program.
+Males must abide by Selective Service registration requirements.
+DUTIES:
+As a Visual Information Specialist, you will:
+Conduct video shooting, video editing, photography including image manipulation and editing.
+Plan and produce unique multimedia content and graphic materials for reports, data products, 
+publications, website, signage and social networks. Create electronic visual materials employing state-of-the-art techniques Develop web design elements, multimedia content
+
+Design, layout and graphics production of interpretive publications, exhibits, electronic media, 
+and print production. Utilize graphic design software such as Adobe CS 6 suite, Photoshop, Illustrator, InDesign and 
+Adobe Publisher. Create electronic visual materials to communicate complex information in a way 
+that is clear to non-technical audiences. Analyze the characteristics and needs of stakeholders and determine the most effective digital communications strategies to reach those audiences.
+
+QUALIFICATIONS REQUIRED:  SPECIALIZED EXPERIENCE REQUIREMENTS
+
+A qualified candidate's online application and resume must demonstrate at least one year of 
+specialized experience equivalent to the next lower grade level in the Federal service. Specialized 
+experience for this position is defined as experience:
+
+Applying modern concepts and principles of graphic and video communications including a complete 
+understanding of visual communications principles, techniques, and methodology.
+
+Your application and resume should demonstrate that you possess the following knowledge, skills and 
+abilities (KSAs). Do not provide a separate narrative written statement. Rather, you must describe 
+in your application how your past work experience demonstrates that you possess the KSAs identified 
+below. Cite specific examples of employment or experience contained in your resume and describe how 
+this experience has prepared you to successfully perform the duties of this position. DO NOT write 
+"see resume" in your application!
+1. Knowledge of the principles and methods of visual and written communication.
+2. Ability to communicate effectively, both orally and in writing.
+3. Knowledge of graphic reproduction processes, art production, photography, printing, 
+illustration, multimedia techniques and computer graphics hardware/software capabilities.
+4. Knowledge of web programming languages.
+5. Skill in video shooting, video editing, photography, and multimedia storytelling.
+6. Oral and written communication skills.
+7. Ability to analyze the characteristics and needs of stakeholders and determine the most 
+effective digital communications strategies to reach those audiences.
+8. Ability to work with a variety of software, hardware, and traditional are media used to create 
+graphics including Adobe Photoshop, Adobe Illustrator, Adobe InDesign, and Adobe Acrobat 
+Professional.
+
+"Experience" refers to paid and unpaid experience. Examples of qualifying unpaid experience may 
+include: volunteer work done through National Service programs (such as Peace Corps and 
+AmeriCorps); as well as work for other community-based philanthropic and  social organizations. 
+Volunteer work helps build critical competencies, knowledge, and skills; and can provide valuable 
+training and experience that translates directly to paid employment. You will receive credit for 
+all qualifying experience, including volunteer experience.
+
+Time-in-Grade: Current Federal employees must meet time-in-grade requirements by the closing date 
+of this announcement to receive consideration.
+
+CTAP/ICTAP candidates: To be considered "well qualified" you must meet all of the requirements as 
+described in this section.
+
+You must meet all qualifications and eligibility requirements by the closing date of this 
+announcement.
+
+Bachelor's degree or higher with a Major study in commercial art, fine arts, art history, 
+industrial design, architecture, drafting, interior design, photography, visual communication, or 
+other fields related to the position.
+
+OR
+
+Advanced training in a vocational school, technical institute, or art institute above the high 
+school level in one of the fields listed above.
+
+EDUCATION:
+If this vacancy specifically states that certain educational requirements must be met (also known 
+as a "positive educational requirement"), you must provide documentation supporting any education 
+claims in your application.
+
+Education must be obtained from an accredited institution recognized by the U.S. Department of 
+Education.
+Foreign education must be reviewed by an organization recognized by the U.S. Department of 
+Education. For special instructions pertaining to foreign education and a list of organizations 
+that can evaluate foreign education, see the Department of Education website.
+
+OTHER REQUIREMENTS:
+This is a bargaining unit position. HOW YOU WILL BE EVALUATED:
+The Department of Energy uses an application tracking system to evaluate the responses you provide 
+in the applicant
+assessment questionnaire to determine if you meet the minimum qualifications necessary for this 
+position. Then, the HR Office and/or Subject Matter Expert (SME) will conduct a quality review of 
+your application and supporting documentation to determine if your qualifications meet the criteria 
+for referral to the selecting official.
+
+We will also verify that you are eligible for Merit Promotion positions by reviewing your previous 
+Federal employment to ensure you meet Time-in-Grade requirements. If you are eligible to apply to 
+Merit Promotion announcements based
+on Veteran or other non-competitive statuses, we will verify your supporting documentation prior to 
+referral.
+
+Job Title: Visual Information Specialist
+Department: Department Of Homeland Security Agency: National Protection and Programs Directorate 
+Job Announcement Number: FS-1450264-MQ15
+SALARY RANGE:                              $63,722.00 to $82,840.00 / Per Year
+OPEN PERIOD:                                 Wednesday, August 12, 2015 to Tuesday, August 25, 2015
+SERIES & GRADE:                            GS-1084-11
+POSITION INFORMATION:                Full Time - Permanent PROMOTION POTENTIAL:                  12
+DUTY LOCATIONS:                           1 vacancy in the following location: Arlington, VA
+WHO MAY APPLY:                             US Citizens and Status Candidates
+SECURITY CLEARANCE:                    Secret
+SUPERVISORY STATUS:                    No JOB SUMMARY:
+Secure the Homeland Proud to Protect
+Are you interested in a job where your primary purpose will be to support agency digital and print 
+communications efforts by designing and developing newsletters, publications, presentations, 
+graphics, illustrations, websites, and other visual information? Then consider joining the Office 
+of Infrastructure Protection (IP), National Protection and Programs Directorate (NPPD), Department 
+of Homeland Security (DHS).
+
+Come work with the best to prevent and deter terrorist attacks, protect against and respond to 
+potential threats, ensure safe and secure borders, welcome immigrants and visitors, and promote the 
+free-flow of commerce. This mission of the U. S. Department of Homeland Security (DHS) is carried 
+out every day by the dedicated men and women who answer the noble calling of public service with 
+courage and enthusiasm.  With a diverse and critical mission, we lead the unified national effort 
+to secure America. In today's interconnected world, our country's security challenges are 
+constantly evolving. To meet these challenges, DHS fosters a culture that values and promotes 
+diversity, teamwork, flexibility, and innovation.
+
+In Headquarters, we coordinate, plan, and guide the Department's work across all DHS components.  
+You could enjoy a career that includes research, administration and management, legal work, budget 
+and finance, cyber security, infrastructure protection and intelligence analysis. Our services 
+touch every U.S. citizen, and our goal is to secure our country across land and sea. Come join the 
+team who is "Proud to Protect".
+APPLICATIONS WILL BE ACCEPTED FROM: All U.S. Citizens and Status Candidates. More than one 
+selection may be made from this announcement should the need arise.
+TRAVEL REQUIRED
+Occasional Travel
+Overnight travel of 1-5 nights per month may be required.
+RELOCATION AUTHORIZED
+No
+
+KEY REQUIREMENTS
+U. S. Citizenship is required.
+Appointment subject to availability of funds. May be subject to random drug testing.
+
+DUTIES:
+
+Major duties include, but are not limited to:
+• Provide design and graphic support for static, animated, and multimedia products.
+• Collaborate with subject matter experts and clients to plan the development of print and digital 
+design products.
+• Perform writing and editing assignments for the creation of web, digital, and print materials 
+drawing from position papers, publications, and reports concerning program initiatives.
+• Develop, design, and maintain significant portions of the Agency’s websites and assures its 
+currency and accuracy.
+
+QUALIFICATIONS REQUIRED:
+
+To qualify for this position at the GS-11 level, you must meet at least one of the following 
+requirements:
+
+A. One year of full-time specialized experience comparable in scope and responsibility to the GS-09 
+level in the Federal service (obtained in either the public or private sector). This experience 
+must include activities such as: 1) developing visual information such as, newsletters, fact 
+sheets, publications, graphics, and illustrations to support an organization’s digital and print 
+communications effort; 2) designing web pages to ensure accuracy and effectiveness of information; 
+3) operating a desktop publishing system to prepare a variety of visual communications and 
+presentation materials; and 4) collaborating with subject matter experts and clients to plan the 
+development of print and digital design products. NOTE: The contents of your resume must fully and 
+explicitly support this response in its entirety. Otherwise, you will be found ineligible.  OR
+B. Successful completion of a Ph.D. or equivalent doctoral degree, or three full years (54 semester 
+hours or equivalent) of progressively higher level graduate education leading to such a degree in 
+commercial art, fine arts, art history, industrial design, architecture, drafting, interior design, 
+photography, visual communication, or other fields directly related to the position. NOTE: You must 
+submit a copy of your transcript (official or unofficial) to verify this claim. OR
+C. A combination of specialized experience and graduate education as described in “A” and “B” 
+above.  Convert quarter hours to semester hours by multiplying by 2/3rds.  To combine education and 
+experience, first take the number of semester hours or equivalent earned towards a graduate degree, 
+in excess of 36 semester hours, and divide by 18 semester hours or equivalent. Then take number the 
+number of months of qualifying specialized experience and divide by 12 months. Add the percentages 
+together.  The total must equal at least 100 percent to qualify. NOTE: The contents of your resume 
+must support this response. You must also submit a copy of your transcript (official or 
+unofficial).
+
+Education:
+
+For any college courses, graduate work, research, thesis or other non-descript courses listed on 
+your transcript (such as "Independent Research"), please indicate through your resume or attachment 
+memorandum from an academic professor how each course fulfills the specific education requirement, 
+i.e., state number of semester hours credited, topic of study, grade earned.
+
+NOTE: Education must be accredited by an accrediting institution recognized by the U.S. Department 
+of Education in order for it to be credited towards qualifications (particularly positions with a 
+positive education requirement).
+Applicants can verify accreditation at the following website: 
+http://ope.ed.gov/accreditation/search.aspx.  All education claimed by applicants will be verified 
+by the appointing agency accordingly.
+
+Special Instructions For Foreign Education: If you are using education completed in foreign 
+colleges or universities to meet the qualification requirements, you must show that the education 
+credentials have been evaluated by a private
+
+organization that specializes in interpretation of foreign education programs and such education 
+has been deemed
+equivalent to that gained in an accredited U.S. education program; or full credit has been given 
+for the courses at a
+U.S. accredited college or university. For further information, visit: 
+http://www.ed.gov/about/offices/list/ous
+/international/usnei/us/edlite-visitus-forrecog.html
+
+Time-in-Grade Requirements: Current Federal employees must have served 52 weeks at the next lower 
+grade in the Federal service. All qualifications and time-in-grade requirements must be met by the 
+closing date of this announcement.
+
+New employees must serve a one year probationary period.
+Conditions of Employment:
+
+Essential Personnel: This position may be designated as essential personnel. Essential personnel 
+must be able to serve during continuity of operation events without regard to declarations of 
+liberal leave or government closures due to weather, protests, acts of terrorism, or lack of 
+funding. Failure to report for or remain in this position may result in disciplinary or adverse 
+action in accordance with applicable laws, rules, and regulations (5 U.S.C. § 7501-7533 and 5
+CFR Part 752, as applicable).
+
+Grant Proposal Writer
+ A.T. Still University Mesa, AZ 8/25/2015 
+
+Job Description
+
+A.T. Still University (ATSU) is a culturally rich environment leading the way in whole-person health education with cutting edge technology and instruction. From its inception in 1892, ATSU has had a long tradition of inclusion.  By capitalizing on local, regional, national and global community relationships, ATSU has mastered the concept of access and opportunity for culturally proficient faculty and administrators to explore their career interests and enrich the ATSU community as we reflect the communities we serve.
+
+ 
+
+Sponsored Programs is a fast-paced, service-oriented team which is responsive to the dynamic needs of the entire University.
+
+ 
+
+The Grant Proposal Writer (Proposal Development Specialist) will serve as a key Sponsored Programs pre-award team member, working collaboratively to provide grantsmanship expertise and grant-writing leadership to faculty, administration, and staff. Specifically, s/he will be responsible for pre-award funding searches and grant development/writing (facilitating competitive applications to federal, state, and/or foundation sources) that complements ATSU's mission and the strategic directions of its health professions schools, colleges, and programs. The Grant Proposal Writer (Proposal Development Specialist) will also assist, as needed, with post-award progress reporting and compliance duties. In essence, this individual will research, coordinate, and help match ATSU needs to public and private sponsored project funding opportunities.
+
+ 
+
+The Grant Proposal Writer (Proposal Development Specialist) will report directly to the Director of Sponsored Programs (SP), Mesa Campus. Duties will include, but will not necessarily be limited to, the following:
+
+ 
+
+    Research, analyze, and recommend SP funding opportunities based on institutional priorities
+    Identify/link ATSU programs to optimal external funding and serve as a liaison between the University and funding agency personnel
+    Develop grant-related ideas/priority areas and collaboratively write/prepare authorized SP applications 
+    Meet with deans, administrators, faculty, and stakeholders to help develop strategies and secure funding
+    Help to handle/coordinate incoming requests for SP assistance from ATSU faculty, staff, and students
+    Assist with grant-related progress reports, special reports, and sub-award/contractual agreements
+    Survey and keep abreast of professional literature relevant to ATSU priority areas/strategic directions
+    Accomplish special projects assigned to the Sponsored Programs team
+
+ 
+
+Responsibilities will include, but will not necessarily be limited to, the following:
+
+    Prepare summary analyses of potential funding opportunities
+    Collaboratively generate successful SP grant/contract applications and reports
+    Research grant-related topics/demographics and cite relevant literature
+    Assist in the daily operation of the SP office
+    Manage/accomplish special projects as assigned
+    Nurture, mentor, and help train faculty and staff on grant-related issues and skill building
+    Issue grant-writing assignments to staff and collaboratively supervise the team in accomplishing such tasks
+    Assist in developing proposal budgets for funding
+    Assist with assigned grants management duties (i.e., fiscal/programmatic oversight and project reporting), as needed
+
+Job Requirements
+
+Applicants with proven track record of writing/receiving prior grant dollars preferred, as are those with knowledge/experience in public and private funding sources. Experience with: 1) grant/technical/creative writing, program development, proofreading, editing, and/or scientific writing; 2) working in a highly productive, fast-paced, and sometimes stressful environment, 3) working with multiple people and projects simultaneously; 4) working independently and in a team environment; and 5) managing multiple deadlines priorities.
+
+Must be service and teamwork oriented! Strong interpersonal communication; excellent written and oral communication; effective time management and organization; advanced proofing and editing; exceptional reading and comprehension; critical thinking; strong problem-solving; staff leadership/project management experience; diplomacy; and advanced computer skills (word processing, spreadsheets, database, presentation development, and other business applications/programs). General office skills are also necessary.  Must be a self-starter.
+
+ 
+
+Qualifications for this position require a four-year college degree or equivalent combination of education/training and proven grant success.
+
+A.T. Still University of Health Sciences (ATSU) does not discriminate on the basis of race, color, religion, national origin, sex, gender, sexual orientation, age, disability, or veteran status in admission to or access to, or treatment or employment in its programs and activities. Harassment and retaliation are forms of discrimination prohibited by the university.
+
+Job Snapshot
+Base Pay $43,520.00 /Year
+Employment Type Full-Time
+Job Type Education
+Education Not Specified
+Experience At least 3 year(s)
+Manages Others No
+Industry Not for Profit - Charitable
+Required Travel Not Specified
+Job ID 976
+
+Technical Writer
+Collabera Inc. Boulder, CO 8/18/2015 
+
+Job Description
+Job Title: Technical Writer
+Job Location: 5920 Longbow Drive #5 Boulder CO-80301
+
+Duration: 12 Months
+
+Required Education: Associates/Bachelors
+
+Required Experience: Minimum 2+ years experience
+
+Job Description:
+
+The Hiring Manager is looking for Technical Writer with Associates/Bachelors degree and experience of 2-3 years on technical writing, technical communication, desktop publishing, document production and knowledge of Adobe FrameMaker and Adobe Acrobat"
+
+Essential functions:
+    Working knowledge of Adobe FrameMaker document structuring. XML architectural integration preferred.
+    Technical writing, desktop publishing, and translation management for NPD project document requirements, including instructions for use (IFUs), user’s guides, service manuals, and Technical Communications collaterals (electronic media CDs, quick reference cards).
+    Creates, revises, edits, and formats product documentation using Adobe FrameMaker desktop publishing software.
+
+MINIMUM REQUIREMENTS:
+ 
+Job Requirements
+
+Qualifications:
+
+    Associates degree in Technical Communications or related field, bachelor’s degree preferred.
+    Working knowledge of desktop publishing and document production.
+
+Knowledge of Adobe FrameMaker version 8.0 or higher on PC platforms, Word and Adobe Acrobat required
+
+Required Skills:
+
+    Manages all aspects of document development.
+    Participation on project teams, coordination of draft reviews and formal label approvals.
+
+Translation management and initiating document release
+
+Contact:
+
+Anjali Joshi
+
+973-841-2401
+[Click Here to Email Your Resumé]
+Job Snapshot
+Employment Type Full-Time
+Job Type Information Technology
+Education Graduate Degree
+Experience 3 to 5 years
+Manages Others Not Specified
+Industry Industrial
+Required Travel None
+Job ID 2401_TW_CO
+
+Technical Writer
+CyberCoders Louisville, KY 8/23/2015 
+
+Job Description
+This position is open as of 8/26/2015.
+
+Technical Writer (Mechanical Engineering)- Leave Your Thumbprint
+
+If you are a Sr. Technical Writer with experience, please read on!
+
+Based in the Louisville Metro area, we are one of the most well respected and reputable companies in the tech industry and e- learning industry.
+
+Immediately looking to hire for a Sr. Technical Writer that has a background in manufacturing or mechanical design engineering. If you have strong technical knowledge and have experience in the manufacturing, engineering, and maintenance fields we would love to tell you more about this amazing opportunity.
+
+
+Top Reasons to Work with Us
+
+We are an award winning company that works with a high level of purpose in order to improve the standard of living through technological research and services.
+
+We value strong leadership, teamwork, and work to create a tight knit family environment.
+
+What You Will Be Doing
+
+Collaborate with a design team to take specifications for new products and design materials.
+
+What You Need for this Position
+
+2-5 years Experience and knowledge of:
+- Mechanical or Industrial Engineering, Manufacturing, or Maintenance field
+- Design
+- Technical Writing
+- Instructional Materials
+- Technology curriculum
+- E-Learning
+
+Bachelor's of Science Degree in Mechanical, Manufacturing, Industrial Engineering, or Engineering Technology
+
+What's In It for You
+
+- Vacation/PTO
+- Medical
+- Dental
+- 401(k)
+-Casual work space
+So, if you are a Sr. Technical Writer with experience, please apply today!
+
+Required Skills
+Knowledge of engineering, Strong writing skills, Experience with technology, Mechanical Engineering, Analytic reasoning abilities, Research Skills, Experience teaching
+
+If you are a good fit for the Technical Writer - Engineering & Technology position, and have a background that includes:
+Knowledge of engineering, Strong writing skills, Experience with technology, Mechanical Engineering, Analytic reasoning abilities, Research Skills, Experience teaching and you are interested in working the following job types:
+Engineering, Information Technology, Design
+
+Within the following industries:
+Education - Teaching - Administration, Banking - Financial Services, Biotechnology
+
+Our privacy policy: Your resume and information will be kept completely confidential.
+Looking forward to receiving your resume through our website and going over the job in more detail with you!
+CyberCoders, Inc is proud to be an Equal Opportunity Employer
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.
+
+Your Right to Work – In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.
+Job Requirements
+Knowledge of engineering, Strong writing skills, Experience with technology, Mechanical Engineering, Analytic reasoning abilities, Research Skills, Experience teaching
+Job Snapshot
+Base Pay $45,000.00 - $65,000.00 /Year
+Employment Type Full-Time
+Job Type Engineering, Information Technology, Design
+Education 4 Year Degree
+Experience None
+Manages Others Not Specified
+Relocation No
+Industry Education - Teaching - Administration, Banking - Financial Services, Biotechnology
+Required Travel Not Specified
+Job ID SS4-1218926
+
+Technical Writer - Truck Manuals
+The DHTE Group LLC Novi, MI 7/27/2015
+
+Job Description
+
+Job Title:                    Technical Writer – Vehicle Manuals
+Reports to:                Director of Business Management
+Purpose:                    Working in a team environment, responsible for developing manuals for off-highway vehicles
+Location:                    Novi, Michigan corporate headquarters.
+Overview:                   We are a design and engineering firm specializing in off highway haul trucks for the mining industry. 
+
+
+Note:               This is a contract position of 4-6 months duration that could be extended.  Extension will be based on new product requirements.
+
+GENERAL FUNCTIONS AND RESPONSIBILITIES:
+
+    Develop, document and create manuals for off-highway vehicles, including Operators Manuals, Maintenance Manuals, Assembly Manuals, Spare Parts Catalogs and other documents as required
+    Work with CAD and engineering teams to identify drawings selected for inclusion in manuals, along with technical specifications
+    Work in manufacturing facilities to document assembly processes,
+    Works with engineering teams to better understand product specifications and requirements
+    Write, repair and troubleshoot procedures.
+    Organizes materials and completes writing assignments
+    Participates in review meetings, meets deadlines, and delivers high quality finished product
+    Follows Technical Data principles to produce professional, user-friendly and informative documents
+
+Job Requirements
+
+REQUIRED EXPERIENCE, SKILLS, KNOWLEDGE AND ABILITIES:
+
+    BS or BA degree in English, Journalism or related field
+    5+ years’ experience writing technical manuals in an automotive, off-highway, construction equipment or related field.
+    Understanding and knowledge of application of Technical Data principles, concepts, practices and standards.  Knowledge of industry practices beneficial
+    Experienced in producing user-level documentation for manufacturing facilities.
+    Ability to organize, analyzes and produce complex material and transform it into easy to understand information for end user.
+    Strong authoring and editing skills
+    Technical illustration skills.
+    Photographic skills a plus
+    Ability to read and understand complex engineering drawings and documents
+    Solidworks, Auto CAD and other CAD knowledge required to transfer CAD drawings into manual documentation.
+    Excellent oral and written language and communication skills
+    Ability to work well in a team environment and under tight deadlines
+    Ability to work well in a diverse, multi-cultural environment
+    Ability to work flexible hours when needed.
+    Proficient in Microsoft Office (Word, Excel, PowerPoint)
+    The flexibility and willingness to learn new software as needed
+
+OTHER SKILLS PREFERRED, BUT NOT REQUIRED:
+
+    Specific experience in ultra-class haul trucks ranging from 100-400 ton, other mobile equipment, off-highway trucking, military vehicles, specialty vehicles, or locomotive experience is preferred.
+    Engineering degree or related experience a plus
+    Experience in a manufacturing, machining or fabricating environment
+    Chinese language skills a plus, bi-lingual skills a plus any language
+
+REQUIRED:
+    A valid Driver’s License
+    Valid work eligibility.
+    Valid Passport, and ability to travel to China.
+
+TRAVEL:
+
+    A valid passport is required, or the ability to obtain one within 30 days.
+    Domestic and/or international travel could happen up to 20% of work (3-4 trips per year Is a possibility, of 2-4 weeks duration)
+
+July/2015
+Send cover letter and complete resume to [Click Here to Email Your Resumé]
+
+No phone calls please.
+
+No recruiters this posting please.
+ 
+Job Snapshot
+Employment Type Contractor
+Job Type Professional Services, Media - Journalism - Newspaper
+Education 4 Year Degree
+Experience At least 5 year(s)
+Manages Others No
+Relocation No
+Industry Transportation
+Required Travel Negligible
+Job ID Technical Writer
+
+Technical Writer - Engineering / Audio
+APN Software Services Inc US-CA-Anaheim, CA 8/18/2015
+
+Job Description
+Position 1#
+Technical Writer(Engineering ) 
+Location: Anaheim, CA
+Duration: Full Time 
+# of Openings: 1
+Department: Engineering
+
+
+Qualified Candidates will have:
+AA Degree (transcripts required) In Business, Communication or Technical field
+2 + years of past writing preferably in technical field
+Compliance background with ISO 9001 and ISO17025 a plus
+Responsible to review and revise documents with an understanding of how to structure reports.
+Prepare qualification test plans and reports and associated data sheets.
+Experience with software packages such as : MS Office, Visio, Photoshop and /or Illustrator, Adobe Acrobat
+Must be quality focused and dead line oriented.
+Excellent communication skills, (written, and verbal)
+Strong attention to details, highly organized, computer literate
+Ability to work well in a fast-paced professional office environment
+
+
+Position 2#
+Technical Writer(Audio ) 
+Location: Anaheim, CA
+Duration: Full Time 
+# of Openings: 1
+Department: Product Development
+
+
+Audio Technical Writer
+Skills: 
+BS Degree (transcripts required) or equivalent experience
+3 years of relevant experience.
+Experience documenting pro audio products; familiar with standard audio terminology; knowledge of audio processors or digital audio processors is a plus.
+Will write, edit and revise documents
+Experience using InDesign, Illustrator, and Photoshop required (Madcap Flare experience a plus)
+Will be quality focused and deadline oriented
+Excellent communication skills, (written, and verbal)
+Strong attention to details, highly organized, computer literate
+Ability to work well in a fast-paced professional office environment
+
+
+Thanks and Regards,
+Deepak 
+APN Software Services, Inc
+39899 Balentine Drive, Suite 385, Newark, CA 94560
+Phone: 510 870 1008  Fax 510-623-5055  
+[Click Here to Email Your Resumé]
+[Click Here to Email Your Resumé]
+Job Requirements
+Technical Writer - Engineering / Audio MS Office, Visio Illustrator, Adobe Acrobat InDesign Photoshop Madcap Flare 
+
+Job Snapshot
+Employment Type Full-Time
+Job Type Consultant
+Education Not Specified
+Experience Not Specified
+Manages Others Not Specified
+Industry Electronics
+Required Travel Not Specified
+ 
+Department: Department Of Health And Human Services
+Agency: Food and Drug Administration
+Job Announcement Number: FDA-CTP-DE-15-1469402SW
+SALARY RANGE: $76,378.00 to $118,069.00 / Per Year
+OPEN PERIOD: Tuesday, August 18, 2015 to Monday, August 31, 2015
+SERIES & GRADE: GS-1082-12/13
+POSITION INFORMATION: Full Time - Permanent
+PROMOTION POTENTIAL: 13
+DUTY LOCATIONS: 2 vacancies in the following location:
+Silver Spring, MD
+WHO MAY APPLY: United States Citizens
+SECURITY CLEARANCE: Public Trust - Background Investigation
+SUPERVISORY STATUS: No
+JOB SUMMARY:
+Become a part of the Department that touches the lives of every American! At the Department of Health and Human Services (HHS) you can give back to your community, state, and country by making a difference in the lives of Americans everywhere. It is the principal agency for protecting the health of citizens. Join HHS and help to make our world healthier, safer, and better for all Americans. The Center for Tobacco Products (CTP) of the Food and Drug Administration (FDA) is responsible for implementing the Family Smoking Prevention and Tobacco Control Act. This law gives FDA authority over tobacco products by adding a new chapter to the Food, Drug and Cosmetic Act. The Tobacco Control Act gives FDA the authority to regulate tobacco products and manufacturers based on the best available science and CTP is responsible for both assessing and fostering that science-base. CTP's actions have significant public health and consumer protection impact, and are among the most important issues faced by the Agency in its long and distinguished history. This position is located in the Office of Health Communication and Education (OHCE), Silver Spring, MD. This vacancy is also being announced concurrently with vacancy announcement FDA-CTP-15-MP-1481110 under merit promotion procedures. Please review that announcement to see if you are eligible for consideration under merit promotion procedures. NOTE: Applicants must apply separately for each announcement in order to be considered.
+Who May Apply: Open to all United States Citizens.
+Additional selections may be made within the same geographical area FDA-wide.
+TRAVEL REQUIRED
+Not Required
+RELOCATION AUTHORIZED
+No
+KEY REQUIREMENTS
+U.S. Citizenship is required.
+Only experience gained by closing date announcement will be considered.
+One year probationary period may be required.
+
+DUTIES:
+Participate in the development and implementation of Center-focused education and outreach strategies.Develop and writes materials targeted to discrete audiences to amplify CTP’s mission and key initiatives, highlighting regulatory, scientific, compliance, and public education activities as appropriate. Implements communication and promotional plans. Evaluates the impact and effectiveness of communication plans and advises management if efforts should be discontinued, the emphasis/coverage modified, etc. Identify and develop information materials that educate consumers, industry, and other stakeholders of the program initiatives for which the center responsible, including tobacco product regulations and health education.
+Provides guidance and expertse for developing, testing, and dissemina??ng science and audience-based materials, tools, and messages via electronic health communica??on and marke??ng channels such as email marke??ng, on-line ordering systems, and customer centric database systems.
+QUALIFICATIONS REQUIRED:
+In order to qualify for Writer-Editor, GS-1082-12, you must meet the following:
+Have at least one (1) full year of specialized experience equivalent to the GS-11 level in the Federal service editing general or technical materials targeted to discrete audiences; drafting and editing corporate communications products such as external facing articles, newsletters, etc. using plain language; collaborating with internal and external groups in communicating complex issues; and assisting with the development of tailored communication plans to target various stakeholders.
+In order to qualify for Writer-Editor, GS-1082-13, you meet the following:
+Have at least one (1) full year of specialized experience equivalent to the GS-12 level in the Federal service or equivalent pay systems that includes developing, writing and/or editing general or technical materials targeted to discrete audiences; writing and editing corporate communication products such as external facing articles, newsletters, email marketing features, etc. using plain language; collaborating with internal and external groups in communicating complex issues; and developing tailored communication plans to target various stakeholders.
+
+Technical Writer - Airline Maintenance Manuals
+Flatirons Solutions Phoenix, AZ 7/30/2015 
+
+Job Description
+
+Flatirons Solutions is seeking a Technical Writer to join our Phoenix, AZ team. This is a full-time contract position with the possibility of a permanent hire after 180 days. For the right candidate, this could be a remote position. 
+
+In this role, you will primarily research and write S1000D Data Modules for the aerospace industry.
+
+What you'll do all day:
+
+    Write procedures and technical documentation to fulfill multiple customers’ applicable writing specifications: technical accuracy is compulsory.
+    Revise technical content of existing procedures as specified by engineering modifications or customer preference.
+    Coordinate all writing phases of the procedure, from source data, organizing and interpreting content, and ordering art.
+    Work closely with all AMM departments to meet schedules.
+    Establish and maintain effective relationships with internal and external customers.
+    Understand and adhere to all requirements of the Quality Management System.
+    Perform other related duties as assigned.
+    Organize, research, and analyze technical source data.
+    Communicate project requirements with customer and/or designated subject matter expert (SME).
+    Write/create detailed theory of operation or description and operation level of information from engineering source data.
+    Flex with customer guidelines and formats as they change.
+    Alert AMM team of any issues affecting compliance of standards or schedules.
+
+Job Requirements
+
+Knowledge, Skills, & Abilities:
+
+    Must posses fundamental writing skills to ensure that technical content is clear, concise, and grammatically correct.
+    Superb communication skills, both written and verbal.
+    Harding working and customer focused is a must.
+    Ability to be flexible in a fast paced environment with changing requirements.
+
+
+ Qualifications:
+
+    Associate's degree in technical/electronics, or equivalent years experience/training.
+    Minimum of three years experience with technical documentation or publications, or hands-on aircraft maintenance experience. 
+    Experience with the ATA 100 and/or 2200 specifications, SGML, XML, and/or recent Interleaf, or FrameMaker experience are a plus.
+    Must be familiar with the aerospace, commercial, and/or military technical publications and specifications.
+
+
+This position requires a US designated person.  
+ 
+
+Equal Opportunity Employer Minorities/Women/Veterans/Disabled
+Job Snapshot
+Employment Type Full-Time
+Job Type Other, Installation - Maint - Repair, Engineering
+Education None
+Experience At least 2 year(s)
+Manages Others No
+Industry Airline - Aviation, Defense - Aerospace, Military
+Required Travel None
+
+Technical Writer
+ HireNetworks Sunnyvale, CA 7/30/2015 
+
+Job Description
+Technical Writer
+
+The Technical Writer role is a one-year contract opportunity with one of our clients in Sunnyvale, CA. The target salary is up to $51.00/hr. There is a strong chance of extension or conversion to perm. Local candidates strongly preferred. Neither relocation, nor sponsorship are available.
+
+As a Technical Writer you will write and revise software documentation for this company's products and technologies. Documentation might include guides, release notes, online help, embedded help, error messages, and web pages. You will work cross-functionally with other professionals in the Engineering, Field Support, Sales, and Marketing groups, as well as customers who use the products and services. The successful individual in this role will be a team player who is comfortable working as an individual contributor, and who has a passion for working in the technology industry.
+
+Essential Functions of the Technical Writer:
+
+    Interact with Development, QA, program management, and project management to determine documentation requirements.
+    Write documentation plans.
+    Full responsibility for completing a book of high complexity.
+    Write material for user manuals, on-line documents and Help, and others per project plan.
+    Update existing materials.
+
+
+
+Job Requirements
+Requirements of the Technical Writer:
+
+    Excellent oral and written communication skills
+    Excellent grammatical skills
+    Familiarity with engineering and manufacturing documentation required for new product introduction
+    Strong knowledge of company products or technology
+    Demonstrated expertise in most current publishing tools
+    Strong technical skills
+    Ability to work collaboratively within a team environment of other writers, editors and cross functional peers to support deadlines
+    Ability to understand and follow:
+        Publications standards and production processes
+        Bug processes
+        Perforce processes
+        Information mapping processes
+    Demonstrated good judgment in solving problems as well as identifying problems in advance, and proposing solutions
+
+
+Education and Experience of the Technical Writer:
+
+    A minimum of 6 years of technical writing experience, including the documentation of user interfaces
+    A Bachelor of Science or Arts Degree in English, Journalism, Computer Science or Engineering
+    Storage, cloud, or networking industry experience; particularly relevant: VMware and Microsoft hypervisors, Amazon AWS, Microsoft Azure
+    Experience working in the Agile development methodology
+    Experience producing documentation in DITA or structured SGML. Experience with XMetal Author a plus
+    Experience with using content management systems desirable. Experience with Trisoft CMS a plus
+    Demonstrated ability to complete complex technical projects
+
+
+Apply for this position now through CareerBuilder, or by clicking here to apply through our web site. You may also send a Word resume to Judy Protz at jprotz AT hirenetworks.com. To help ensure a timely response, include the reference code CBJP-5199 in the subject heading of your email message.
+
+When looking for a job, have you ever heard the phrase… it is not about what you know, it is who you know?
+
+At HireNetworks, it really is all about who we know.
+
+Whether your current contract is coming to a close, you’re looking to advance your career or are a company on the hunt for new talent and wanting to expand…let HireNetworks put our networks to work for you.
+
+HireNetworks is an equal opportunity employer.
+Job Snapshot
+Base Pay $45.00 - $51.00 /Hour
+Employment Type Full-Time
+Job Type Information Technology, Professional Services, Other
+Education 4 Year Degree
+Experience At least 6 year(s)
+Manages Others Not Specified
+Relocation No
+Industry Consumer Products, Computer Software, Computer Hardware
+Required Travel Not Specified
+Job ID CBJP-5199
+
+Technical Writer
+Lab Support, a division of On Assignment US-MD-Hagerstown, MD 8/14/2015 
+
+Job Description
+
+Are you a Technical Writer local to Hagerstown, MD area? 
+
+Do you have experience using FrameMaker for mechanical projects?  
+
+
+Lab Support ENGINEERING has an immediate need for an experienced Technical Writer for well-established local manufacturing company. 
+
+Five or more years experience as a Technical Writer for mechanical projects.  
+
+Will write technical operations and service repair manuals involving hydraulic, mechanical and some minor electrical projects. 
+
+Very large complex machines. 
+
+MUST have experience using Framemaker.   
+ 
+Job Requirements
+
+MUST have FIVE or more years experience as a Technical Writer for mechanical projects.  Framemaker experience is required. 
+
+Local candidates preferred for this long term contract position.
+
+For immediate consideration:
+
+Apply on-line NOW at  www.labsupport.com/engineering
+
+OR
+   EMAIL your resume  [Click Here to Email Your Resumé] 
+
+OR
+
+    Call 717.545.6530 and ask for Deb today! 
+
+
+Utilize our superior service and engineering focus to connect you to the best companies and hottest jobs!    Putting People First since 1985.
+
+
+Send your resume TODAY!
+
+Keywords:  
+
+FrameMaker, Frame Maker, Tech Writer,   Hydraulic, Documentation, machine, equipment
+
+ 
+
+ 
+Job Snapshot
+Employment Type Full-Time
+Job Type Engineering
+Education Not Specified
+Experience 5 to greater than 15 years
+Manages Others No
+Industry Manufacturing
+Required Travel None
+
+Technical Writer
+Lutech Resources Houston, TX 8/7/2015
+
+Job Description
+
+Global Leader in Energy seeking a talented Technical Writer
+
+Position: Technical Writer
+
+Type: Contract
+
+Pay: Based on experience
+
+Location: Houston, TX
+
+ 
+
+Our client is a world leader in the international energy business. They are currently looking for a Technical Writer to join an exceptional team of individuals in Houston, TX. The position will oversee project documentation and template development, ensuring a consistent editorial style across all work. 
+
+Company Profile
+
+    An innovative global leader in exploration, production, and LNG
+    Over 5,000 employees active across over 20 countries
+    Leadership sets a tone of sustainability and safety
+    A culture of excellence that is supportive and encouraging of growth   
+    Second quarter results show record production numbers and 2015 end of year numbers in the upper half of initial forecasts
+
+ 
+
+The Role
+
+    In this role you will own the templates and style guide applicable to related project activities
+    You will format paper and electronic documents and content for project managers
+    You will complete and edit training materials and slide presentations
+    You will review, edit, and enhance existing media content with a consistent style
+    This role will have you converting existing documents to alternative media
+    You will collect “go-bys" from previous projects and assist in the development of new content
+    You may need to interview subject matter experts and transcribe oral information into written form
+    You will review and edit information within project reports
+    You will facilitate the socializing of new standards, plans, procedures, and amendments
+
+ 
+
+ 
+
+No corporate sponsorship or relocation is offered in conjunction with this job.
+
+For fastest response, put your name and the job title in the subject heading:
+
+Last Name, First Name – Technical Writer
+
+Contact: Alfie Pratt
+
+Email: [Click Here to Email Your Resumé]
+Job Requirements
+
+Background Profile
+
+    Bachelor’s Degree in English, Journalism, Communications or related discipline or 10 years’ experience in lieu of degree
+    Minimum five years of technical writing experience
+    Experience writing technical documents for capital projects is preferred
+    Attention to detail necessary in order to apply editorial consistency
+
+Job Snapshot
+Employment Type Contractor
+Job Type Other
+Education 4 Year Degree
+Experience At least 5 year(s)
+Manages Others Not Specified
+Industry Oil Refining - Petroleum - Drilling
+Required Travel Not Specified
+
+Job Title: Technical Writer Editor
+Agency: National Transportation Safety Board Job Announcement Number: MS-1482496-BS
+SALARY RANGE:                              $63,722.00 to $118,069.00 / Per Year
+OPEN PERIOD:                                 Thursday, August 20, 2015 to Monday, August 31, 2015
+SERIES & GRADE:                            GS-1083-11/13
+POSITION INFORMATION:                Full Time - Permanent PROMOTION POTENTIAL:                  13
+DUTY LOCATIONS:                           1 vacancy in the following location: Washington DC, DC
+WHO MAY APPLY:                             US Citizens and Status Candidates
+SECURITY CLEARANCE:                    Not Applicable
+SUPERVISORY STATUS:                    No JOB SUMMARY:
+NTSB MISSION: Independently Advancing Transportation Safety
+
+The National Transportation Safety Board (NTSB) is an independent U.S. Federal agency responsible for investigating significant accidents in the various modes of transportation-aviation, railroad, highway, marine, and pipeline. The NTSB determines the probable cause of each accident investigated and issues safety recommendations to prevent future accidents.Since our inception, we have investigated over 100,000 aviation accidents and surface transportation accidents and over 80% of our safety recommendations have been implemented. A career at NTSB offers the opportunity to contribute to advancing public transportation safety. Become a member of a unique and dynamic organization where you can make a difference in the transportation 
+industry!
+
+This position is located in the Report Development Division, Office of Marine Safety (OMS), National Transportation Safety Board (NTSB). The Office investigates, or causes to be investigated, any major marine casualty occurring on the navigable waters or territorial seas of the United States, any major marine casualty involving a vessel of the United States, any marine accident involving a public vessel and any other vessel, and any other marine accident that occurs in connection with the transportation of people or property or that involves a problem of a recurring character. This mission includes preparation of reports on the facts, conditions and circumstances of each accident investigated to be made available to the public.
+
+WHO MAY APPLY: US Citizens and Status Citizens
+TRAVEL REQUIRED
+Not Required
+RELOCATION AUTHORIZED
+No
+KEY REQUIREMENTS
+U.S. Citizenship Required
+Males born after 12/31/59 must be registered for Selective Service
+USAJOBS                                                                                             
+Financial Interest in transportation enterprises is prohibited Bargaining Unit Position Suitability standards for Federal employment must be met
+
+DUTIES:
+The incumbent serves as a technical Writer-Editor responsible for managing and coordinating the development of major accident reports that describe and analyze the facts and circumstances of marine accidents and identify conclusions and safety recommendations. In addition, the incumbent writes, rewrites, and/or edits correspondence, memoranda and other products for the Director's and the Chairman's signatures and speeches for the Board Members
+
+NOTE: The incumbent will be responsible for the effective, economical, and efficient utilization of all resources committed to the investigation. The incumbent should demonstrate credit worthiness for issuance of a government travel charge card.
+
+QUALIFICATIONS REQUIRED:
+
+GS-13 Specialized Experience: one or more years of specialized experience equivalent to the GS-12 level directly related to this position. Specialized experience includes writing reports of marine accident investigations and/or studies of marine safety, and applying  that knowledge in a written report; participation in organizing a major project such as a hearing, symposium, research experiment; and experience in marine transportation accident investigations.
+
+GS-12 Specialized Experience: one or more years of specialized experience equivalent to the GS-11 level directly related to this position. Specialized experience includes writing reports on safety issues and participation in a major project such as a hearing, symposium, research experiment; and knowledge of transportation accident investigations.
+
+GS-11 Specialized Experience: At least one year of specialized experience writing reports on safety issues and participation in a major project such as a hearing, symposium, research experiment.
+
+Additional Requirements
+
+You will be required to provide proof of U.S. Citizenship.
+
+One year trial/probationary or supervisory probationary period may be required. Direct Deposit of Salary Check is Required. Applicants claiming veteran's preference MUST clearly show entitlement to such preference on resume and supplemental data submitted.
+
+Failure to provide all of the required information as stated in the vacancy announcement will result in an ineligible rating and will impact your referral.
+
+Time in Grade Requirement: Applicants who have held a General Schedule (GS) position within the last 52 weeks must meet the Time in Grade Restriction and must have 52 weeks of Federal service at the (next lower grade level) or equivalent.
+
+HOW YOU WILL BE EVALUATED:
+
+Work experiences must clearly show possession of the following:
+
+Writing Skills Problem solving skills
+Ability to integrate information from multiple  areas Reasoning and Analysis skills
+Creative Thinking skills Communication skills Knowledge in graphic design Presentation Skills 
+Adaptability
+Ability to work with in a team
+
+You resume and supporting documentation will be compared to your responses to the Screening Questions/Occupational Questionnaire for consistency. Based on the extent and quality of your experience, education, and training in relation to the competencies you will be placed into one of the following categories:
+
+Highly Qualified – Applicants with a background that demonstrates a superior level of possession of all competencies.
+Well Qualified – Applicants with a background that demonstrates a satisfactory level of possession of the competencies.
+Qualified – Applicants possessing the specialized experience described above and any education or selective factor if also required.
+
+The Category Rating Method does not add Veterans' preference points or apply the "rule of three", but protects the rights of veterans by placing them ahead of non-preference eligibles within each category. Documented Preference eligibles who meet minimum qualification requirements and who have a compensable service-connected disability of at least 10% will be listed in the highest quality category, except when the position being filled is scientific or professional at the GS-9 grade 
+level or higher.
+
+Job Title: Power System Dispatcher (Technical Writer)
+Department: Department Of Energy Agency: Western Area Power Administration
+Job Announcement Number: WAPA-15-DE-342
+SALARY RANGE:                              $111,371.00 to $135,761.00 / Per Year
+OPEN PERIOD:                                 Tuesday, August 18, 2015 to Monday, August 31, 2015
+SERIES & GRADE:                            AD-0303-05
+POSITION INFORMATION:                This is a full-time position - This is a permanent position 
+PROMOTION POTENTIAL:                  05
+DUTY LOCATIONS:                           1 vacancy in the following location: Loveland, CO
+WHO MAY APPLY:                             All U.S. Citizens
+This position is also advertised to status candidates as a Merit Promotion announcement, vacancy # 
+WAPA-15-MP-342.
+SECURITY CLEARANCE:                    Public Trust - Background Investigation SUPERVISORY STATUS:  
+                  No
+JOB SUMMARY:
+About the Agency
+
+(See Frequently Asked Questions for more information). Where would I be working?
+Western Area Power Administration Rocky Mountain Region
+Power System Operations
+Operations Reliability and Balancing, (J4900) 5555 E. Crossroads Blvd.
+Loveland, CO 80538
+Find out more about living conditions at this duty station.
+
+TRAVEL REQUIRED
+Occasional Travel
+This position may require overnight travel of 2 to 5 days per month.
+
+RELOCATION AUTHORIZED
+Yes
+Relocation expenses may be paid according to budget.
+
+KEY REQUIREMENTS
+You must be a United States Citizen
+This employer participates in the e-Verify program
+See "Other Information" section regarding Selective Service requirements
+DUTIES:
+The Reliability/Balancing Technical Writer is responsible for developing, reviewing, and updating system drawings,diagrams, standard operating procedures, and other operating instructional and statistical documents related to the Reliability/Balancing function of the Rocky Mountain Region's Western Area Colorado Missouri (WACM) and Western Area Lower Colorado (WALC) Balancing Authorities. The incumbent develops and maintains documentation for demonstrating power system dispatch compliance with NERC Standards for the WACM and WALC. The incumbent works closely with the WACM and WALC 
+Reliability/Balancing Supervisors and Technical Writers to provide necessary support for the on-shift Power System Dispatcher tools, including accounting and scheduling tools, Reserve Group tools, policy and procedure tools, as well as specific tools created in Excel, PI, etc., necessary to perform the Reliability/Balancing function. The incumbent will work to maintain similar tools and procedures for the WACM and WALC Balancing Authorities. The incumbent may be required to coordinate with and support the WACM and WALC Transmission Scheduling and Security function where common needs are present. The incumbent is responsible for the operation of the WACM and WALC
+Balancing Authorities and meeting applicable Department of Energy (DOE), Western Area Power Administration (Western), Western Electricity Coordinating Council (WECC) and North American Electric Reliability Corporation (NERC) operating criteria, standards and procedures.
+
+QUALIFICATIONS REQUIRED:
+You must meet all the qualification and eligibility requirements for the position by the closing date of the announcement. You may review the qualification requirements here.
+
+SPECIALIZED EXPERIENCE REQUIREMENTS
+
+A qualified candidate's online application and resume must demonstrate at least one year of specialized experience equivalent to the next lower grade level in the Federal service. This experience is progressively responsible and concerned primarily with system operations of a large power system (100-kV or above). Knowledge, such as the following, is required:
+
+1. Power system operator experience, equivalent to the AD-4 level (journey), with centralized SCADA/EMS control and decision-making responsibilities to maintain adherence to NERC reliability standards of a power system with 100-kV or higher voltage transmission lines, substations, and interconnections to other utilities; or
+2. Engineering experience (with engineering degree, or certification as either EI, (Engineering Intern), EIT (Engineer in Training), or PE (Professional Engineer), equivalent to the GS-12 level or higher in power system design, planning, maintenance, construction, SCADA, EMS, or operations.
+
+ADDITIONAL QUALIFICATIONS REQUIREMENTS
+
+Your application and resume should demonstrate that you possess the following knowledge, skills and abilities (KSAs). Do NOT provide a separate narrative written response. Rather, you must describe in your application how your past work experience demonstrates that you possess the KSAs identified below.
+1. Knowledge of interconnected power systems
+2. Knowledge of safe switching procedures
+3. Knowledge of power system Supervisory Control and Data Acquisition-type equipment (SCADA), Automatic Generation Control (AGC), Energy Management System (EMS), power scheduling programs, power system tagging programs, Open Access Same-time Information System (OASIS).
+4. Knowledge of power system generation (power plant operator) and characteristics
+5. Knowledge of power system equipment; and/or knowledge of balancing authority energy scheduling "Experience" refers to paid and unpaid experience. Examples of qualifying unpaid experience may include: volunteer work done through National Service programs (such as Peace Corps and AmeriCorps); as well as work for other community-based philanthropic and social organizations. Volunteer work helps build critical 
+competencies, knowledge, and skills; and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience.
+
+You must meet all qualifications and eligibility requirements by the closing date of this announcement.
+
+For this position, education cannot be substituted for experience.
+
+If using engineering experinece to qualify, you must provide documentation supporting any education claims in your application. Education must be obtained from an accredited institution recognized by the U.S. Department of Education.See qualification requirements for specific engineering education requirements, (if using 
+engineering experience you must include engineering degree, or certification as EI, EIT or PE).
+
+Foreign education must be reviewed by an organization recognized by the U.S. Department of Education. For special instructions pertaining to foreign education and a list of organizations that can evaluate foreign education, see the Department of Education website.
+
+HOW YOU WILL BE EVALUATED:
+Your application will be rated by our application system using the Category Rating procedure. A quality review will then be conducted by the HR Office and/or Subject Matter Expert (SME). Your application is rated based on the extent and quality of your experience, education (if applicable to the job), and training described in your online resume/questionnaire as related to the duties of this position. The quality categories are defined as "Best Qualified", "Well Qualified" and "Qualified". Within each category, veteran preference eligibles will be listed at the top of the 
+category. CP/CPS veterans are placed at the top of the highest category for all positions except professional and scientific positions at GS-9 and above.
+
+If your resume is incomplete or does not support the responses in your online questionnaire, or if you fail to submit required documentation BEFORE the vacancy closes, you may be rated 'ineligible', 'not qualified', or your score may be adjusted.
+
+Selecting Official may check references on those applicants referred for consideration.To preview questions please click here.
+
+Technical Writer and Programmer
+Robert Half Technology San Francisco, CA 8/19/2015 
+
+Job Description
+Ref ID: 00410-9781237
+
+Classification: Technical Writer
+
+Compensation: $75,000.00 to $100,000.00 per year
+
+This is a full time role in the San Francisco Bay Area for a Technical Writer / Programmer. Seeking experienced Technical Writer / Programmer - Great benefits...great salary (very competitive) and great work environment. If high-profile documentation projects are your thing, we've got that. We need highly skilled Technical Writer / Programmer who has a passion for creating highly scalable web applications and awesome user experiences with a gift for writing clean, extensible code. Are you looking to build large-scale, international, multi-million user web and technical documentation used by Fortune 500 companies? Do you have strong JavaScript development abilities including DOM manipulation (4 years is good enough in the right, fast paced, innovative work environment)? Do you have experience with modern web technologies such as JavaScript, .NET, C#, XML, API, HTML, CSS or C ? We are seeking a Technical Writer / Programmer to join our expanding team in San Francisco. You should have prior experience developing advanced projects to implement for marketing. This is a Full time direct full-time opportunity to be performed onsite at our offices in San Francisco. This opportunity is urgent and we are seeking a Technical Writer / Programmer to be responsible for high-level web development involving; JavaScript, .NET, C#, XML, API, HTML, CSS and C. This individual needs to be success driven and have an eye for design. A bachelor's degree in computer science is ideal, but not required. A highly skilled web developer who has a proven track record is what we are in search for. For immediate consideration email your updated resume to Marcus Zuercher at: [Click Here to Email Your Resumé] Skills & Requirements Responsibilities: - Contribute to multiple, high-profile documentation projects in a fast-paced, deadline-driven development environment. -Develop responsive HTML5 pages from design comps. -Create CSS3 layout and animations, ensuring legacy browser support. -Work with developers, designers, and project leaders to ensure code quality and design fidelity. - Maintain a critical eye to detail, communication and quality. Qualifications and Skills: -Ability to hand-code HTML/CSS/JavaScript. -Advanced JavaScript knowledge, with and without libraries. -Experience developing complex single-page JavaScript/XML interfaces. -Experience with JavaScript Angular framework. -Extensive experience with JavaScript, .NET, C#, XML, API, HTML, CSS and C. -High attention to detail to maintain design integrity throughout the build process. -Experience with responsive design. -General proficiency in Photo shop. -Excellent communication and problem-solving skills. -Ability to clearly and professionally interact with clients. Extra Credit: -Skills in JavaScript, .NET, C#, XML, API, HTML, CSS and C. -Experience with technical documentation. -Strong background with front-end programming. -Knowledge of accessibility specifications. For immediate consideration email your updated resume to Marcus Zuercher at: [Click Here to Email Your Resumé] javascript AND .net AND xml AND c# AND html AND css AND c AND c++ AND technical writing
+Job Requirements
+Advanced JavaScript, Advanced .NET, Advanced XML, Intermediate C#, Intermediate HTML, Intermediate CSS, Basic C, Basic C++, Basic C#.
+
+With more than 100 locations worldwide, Robert Half Technology is a leading provider of IT professionals on a project and full-time basis for initiatives ranging from web development and systems integration to network security and technical support. Through our alliances with industry-leading organizations such as HDI® and the Microsoft® Partner program, we have access to client companies that other staffing firms don't. In addition to our free job search services, we provide our candidates with access to free online technical training and a competitive benefits and compensation package.
+
+In 2015, our company once again was named to FORTUNE® magazine's list of "World's Most Admired Companies." (March 1, 2015).
+
+Apply for this job now or contact our branch office at 1.800.793.5533 to learn more about this position.
+
+All applicants applying for U.S. job openings must be authorized to work in the United States. All applicants applying for Canadian job openings must be authorized to work in Canada. Robert Half will consider qualified applicants with criminal histories in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance.
+
+Equal Opportunity Employer M/F/Disability/Vet
+
+By clicking 'Apply Now' you are agreeing to Robert Half Terms of Use
+Job Snapshot
+Base Pay $75,000.00 - $100,000.00 /Year
+Employment Type Full-Time
+Job Type Engineering, Information Technology, Design
+Education Not Specified
+Experience Not Specified
+Manages Others Not Specified
+Industry Computer Hardware, Computer Software
+Required Travel Not Specified
+Job ID 00410-9781237
+
+Technical Writer
+Waltham, MA 8/21/2015 
+
+Job Description
+Technical Writer
+
+The Technical Writer role is 2-3 month contract with one of our clients in Waltham, MA. Contracts with this client have a high likelihood of extension or conversion. The target rate range is $34.53 - $40.15/hr depending on experience. There are two positions available! Neither relocation assistance, nor sponsorship are available.
+
+As a Technical Writer you will write or revise software documentation for different products and technologies. Documentation might include guides, release notes, online help, embedded help, error messages, web pages, and videos. You will work cross-functionally with other professionals in the Engineering, Field Support, Sales, and Marketing groups, as well as customers who use this company's products and services. The successful individual in this role will be a team player who is comfortable working as an individual contributor, and who has a passion for working in the technology industry.
+
+The focus of the product documentation is to drive ease-of-use into company software and information products so that the customers' experience of the products is improved.
+
+Essential Functions of the Technical Writer:
+
+    Interact with Development, QA, program management, and project management to determine documentation requirements
+    Write documentation plans
+    Full responsibility for completing a book of moderate complexity
+    Write material for user manuals, on-line documents and Help, and others per project plan
+    Update existing materials
+
+Job Requirements
+Requirements of the Technical Writer:
+
+    Excellent oral and written communication skills
+    Excellent grammatical skills
+    Familiarity with engineering and manufacturing documentation required for new product introduction
+    Strong knowledge of company products or technology
+    Demonstrated expertise in most current publishing tools
+    Strong technical skills
+    Ability to work collaboratively within a team environment of other writers, editors and cross functional peers to support deadlines
+    Ability to understand and follow:
+        Specific publications standards and production processes
+        Bug processes
+        Perforce processes
+        Information mapping processes
+    Demonstrated good judgment in solving problems as well as identifying problems in advance, and proposing solutions
+
+
+Education and Experience of the Technical Writer:
+
+    A minimum of 3 years of technical writing experience, including the documentation of user interfaces
+    A Bachelor of Science or Arts Degree in English, Journalism, Computer Science or Engineering
+    Storage industry experience
+    Experience working in the Agile development methodology
+    Experience producing documentation in DITA or structured SGML. Experience with XMetal Author a plus.
+    Experience with using content management systems desirable. Experience with Trisoft CMS a plus.
+    Demonstrated ability to complete multiple, complex technical projects
+
+
+Apply for this position now through CareerBuilder, or by clicking here to apply through our web site. You may also send a Word resume to Judy Protz at jprotz AT hirenetworks.com. To help ensure a timely response, include the reference code CBJP-5204 in the subject heading of your email message.
+ 
+
+When looking for a job, have you ever heard the phrase… it is not about what you know, it is who you know?
+
+At HireNetworks, it really is all about who we know.
+
+Whether your current contract is coming to a close, you’re looking to advance your career or are a company on the hunt for new talent and wanting to expand…let HireNetworks put our networks to work for you.
+
+HireNetworks is an equal opportunity employer.
+Job Snapshot
+Base Pay $30.00 - $40.15 /Hour
+Employment Type Full-Time
+Job Type Information Technology, Professional Services, Other
+Education 4 Year Degree
+Experience At least 3 year(s)
+Manages Others No
+Relocation No
+Industry Computer Hardware, Computer Software, Other Great Industries
+Required Travel Not Specified
+Job ID CBJP-5204
